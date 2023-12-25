@@ -430,13 +430,14 @@
     },
     {
             "key": "csp_WoGG",
-            "name": "玩偶≛FS",
+            "name": "玩偶≛哥哥",
             "type": 3,
             "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fan.txt",
             "api": "csp_WoGG",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
+            //"token": "94fd5ab297e24a769bb762375118ec47",
             "ext": "./token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
     },
     {
@@ -1109,17 +1110,7 @@
        // "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5"
    
     //},
-     {
-      "key": "csp_WoGG",
-      "name": "玩偶≛哥哥",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "94fd5ab297e24a769bb762375118ec47",
-      "jar": "./lib/ali.jar"
-    },
+    // {"key": "csp_WoGG","name": "玩偶≛哥哥","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "94fd5ab297e24a769bb762375118ec47","jar": "./lib/ali.jar"},
     {
       "key": "T4_玩偶哥哥",
       "name": "玩偶≛T4",
