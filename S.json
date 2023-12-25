@@ -4,7 +4,7 @@
     {
       "name": "(m3u)IPV6",
       "type": 0,
-      "url": "./lib/ipv6.m3u"
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u"
     }
   ],
   "rules": [
@@ -23,7 +23,7 @@
   "sites": [
     {
       "key": "csp_Yj1211",
-      "name": "JusLive(接口免费,请勿购买)",
+      "name": "JusLive",
       "type": 3,
       "api": "csp_Yj1211",
       "playerType": 1,
