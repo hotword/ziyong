@@ -407,7 +407,7 @@
     },
     {
             "key": "小纸条_cli",
-            "name": "纸条┃T4 ",
+            "name": "纸条≛T4 ",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
             "searchable": 1,
@@ -418,7 +418,7 @@
     },
    {
       "key": "Wogg",
-      "name": "玩偶┃PG",
+      "name": "玩偶≛PG",
       "type": 3,
       "style": {
         "type": "rect",
@@ -430,7 +430,7 @@
     },
     {
             "key": "csp_WoGG",
-            "name": "玩偶┃FS",
+            "name": "玩偶≛FS",
             "type": 3,
             "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fan.txt",
             "api": "csp_WoGG",
@@ -441,7 +441,7 @@
     },
     {
             "key": "csp_XYQHikerAL",
-            "name": "玩偶┃HK",
+            "name": "玩偶≛HK",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "playerType": 1,
@@ -453,7 +453,7 @@
     },
     {
             "key": "csp_woggcli",
-            "name": "玩偶┃T4",
+            "name": "玩偶≛TT4",
             "type": 4,
             "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
             "searchable": 1,
@@ -463,7 +463,7 @@
     },
     {
       "key": "Wogg1",
-      "name": "玩偶┃GG",
+      "name": "玩偶≛GG",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -478,7 +478,7 @@
     },
     {
       "key": "Wobg",
-      "name": "玩偶┃BG",
+      "name": "玩偶≛BG",
       "type": 3,
       "style": {
         "type": "rect",
@@ -490,7 +490,7 @@
     },
     {
      "key": "csp_WoGG1",
-     "name": "玩偶┃BY",
+     "name": "玩偶≛BY",
      "type": 3,
      "style": {
        "type": "rect",
@@ -505,7 +505,7 @@
     },
     {
       "key": "玩偶弹幕版",
-      "name": "玩偶┃DM",
+      "name": "玩偶≛DM",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -520,7 +520,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "咖咖┃4K",
+      "name": "咖咖≛4K",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -531,7 +531,7 @@
     },
     {
       "key": "影巢",
-      "name": "巢巢┃4K",
+      "name": "巢巢≛4K",
       "type": 3,
       "api": "csp_Hdhive",
       "searchable": 1,
@@ -542,7 +542,7 @@
     },
     {
      "key": "csp_XBPQ_6V",
-     "name": "宝宝┃4K",
+     "name": "宝宝≛4K",
      "type": 3,
      "api": "csp_XBPQ",
      "searchable": 1,
@@ -553,7 +553,7 @@
     },
     { 
       "key": "csp_XYQHiker_‍dyx", 
-      "name": "盒盒┃4K", 
+      "name": "盒盒≛4K", 
       "type": 3, 
       "api": "csp_XYQHiker", 
       "searchable": 1, 
@@ -564,7 +564,7 @@
     }, 
     { 
       "key": "csp_XYQHikerlg4k", 
-      "name": "云云┃4K", 
+      "name": "云云≛4K", 
       "type": 3, 
       "api": "csp_XYQHiker", 
       "searchable": 1, 
@@ -575,7 +575,7 @@
     }, 
     { 
       "key": "csp_XYQHiker4klg", 
-      "name": "盘盘┃4K", 
+      "name": "盘盘≛4K", 
       "type": 3, 
       "api": "csp_XYQHiker", 
       "searchable": 1, 
@@ -586,7 +586,7 @@
     },
     {
       "key": "sohu",
-      "name": "搜搜(官)",
+      "name": "搜搜≛搜搜(官)",
       "type": 1,
       "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
       "searchable": 1,
@@ -595,7 +595,7 @@
     },  
     {
      "key":"SG",
-     "name":"狗狗(官)",
+     "name":"狗狗≛狗狗(官)",
      "type":3,
      "api":"http://vip.weixine.link:88/js/lib/drpy2.min.js",
      "ext":"http://vip.weixine.link:88/js/caigou.js"
@@ -612,7 +612,7 @@
 
 {
             "key": "csp_XYQHikerdyx",
-            "name": "🧲电影港湾",
+            "name": "电影≛港湾",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -705,7 +705,7 @@
         },
            {
              "key": "csp_Alistxy",
-             "name": "🅿️Alist网盘♻️",
+             "name": "Alist≛网盘",
              "type": 3,
              "api": "csp_AListxy",
            "searchable": 1,
@@ -1137,7 +1137,7 @@
       "playerType":1,
       "searchable":1,"quickSearch":1,"filterable":1,
       "ext":"./lib/玩偶哥哥.json",
-      "token":"https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt"
+      "token":"./lib/token.txt"
       },
       {
             "key": "xgapp",
