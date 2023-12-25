@@ -41,7 +41,7 @@
       "filterable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "易搜",
@@ -53,7 +53,7 @@
       "filterable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "阿里盘搜",
@@ -65,7 +65,7 @@
       "filterable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "UP云搜",
@@ -77,7 +77,7 @@
       "filterable": 1,
       "changeable": 0,
       "hide": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     },
     {
       "key": "玩偶",
@@ -160,7 +160,7 @@
       "filterable": 0,
       "changeable": 0,
       "hide": 1,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+      "ext": "https://www.qiaoji8.com/jar1/token.txt"
     }
   ]
 }
