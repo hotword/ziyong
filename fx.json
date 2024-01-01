@@ -82,6 +82,7 @@
             "api": "csp_NanGua",
             "ext": "null$$$1"
         },
+        {"key":"盘99","name": "盘99","type":3,"api": "csp_Pan99","searchable":1,"changeable":0,"ext":"./token.json","jar":"./cat/99.jar"},
         {
             "key": "蝴蝶",
             "name": "蝴蝶≛蝴蝶",
