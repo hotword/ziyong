@@ -220,7 +220,7 @@
            "type": 3,
            "api": "./lib/drpy2.min.js",
            "ext": "./lib/哔哩教育.js"},
-
+      {"key": "少儿教育全套","name": "教育≛全套","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./cat/少儿教育全套.json"},
        // {
       //      "key":"csp_器星",
            // "name":"齐心≛协力",
