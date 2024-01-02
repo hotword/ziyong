@@ -110,7 +110,9 @@
                 "ratio": 1
             }
         },
+        {"key":"Watch the drama","name":"️watch≛drama","type": 3,"api": "csp_XBPQ","ext": {"Categoryurl":"https://www.jukankan.me/2 vodtype/{cateld}-{catePg}.html" }},
 
+        {"key":"Coke","name":"COKEBY","type": 3,"api": "csp_XBPQ","ext": {"Categoryurl":"http://cokeby.com/vodshow/2 {cateld}-{catePg}---.html"}},
 
         {
             "key": "芒果资源",
