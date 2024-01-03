@@ -379,6 +379,7 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/厂长资源.js"
         },
+          {"name": "EVEC","server": "https://pan.ecve.cn:443/dav","user": "dav","pass": "dav","ext":"./cat/webdav.json"},
         	{"key": "996影院","name": "996≛影院","type": 3,"api": "csp_Cs1369","searchable": 1,"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","changeable": 1},
             {
       "key": "csp_XBPQ_短剧",
@@ -395,7 +396,7 @@
         "搜索url":"http://web.zzdj.cc/index.php/vod/search.html?wd={wd}"
       }
     },   
-    {"name":"央视嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./cat/ysp.m3u","boot":false},    
+    //{"name":"央视嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./cat/ysp.m3u","boot":false},    
         //以下为玩偶
                 
 {
