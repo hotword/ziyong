@@ -379,7 +379,8 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/厂长资源.js"
         },
-          {"key":"webDav","name": "web≛web","server": "https://pan.ecve.cn:443/dav","user": "dav","pass": "dav","jar":"./spider1031.jar","ext":"./cat/webdav.json"},
+          {"key":"webDAV","name": "web≛web","type":3,"api":"csp_webDAV","searchable":0,"changeable":0,"server": "https://pan.ecve.cn:443/dav","user": "dav","pass": "dav","jar":"./spider1031.jar","ext":"./cat/webdav.json"},
+        
         	{"key": "996影院","name": "996≛影院","type": 3,"api": "csp_Cs1369","searchable": 1,"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","changeable": 1},
             {
       "key": "csp_XBPQ_短剧",
