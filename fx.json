@@ -96,6 +96,7 @@
            // "jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/fty.jar",
             "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"
         },
+        {"key": "玩我哥哥","name":"玩我≛哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1, "jar":"./cat/ttkx.jar", "ext":"./cat/玩我哥哥.json"},
         {
             "key": "应用商店",
             "name": "应用≛商店",
