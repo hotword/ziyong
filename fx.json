@@ -68,7 +68,7 @@
         },
         {"key": "暴風","name": "暴风≛暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","changeable": 1},
      //   ##官源系列
-     ["jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aeb168169682631c93874c9bd8a97e74",
+     
 
      {"key":"dr_布雷蓝光","name":"布布≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
      {"key":"dr_百忙无果","name":"果果≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/百忙无果.js"},
@@ -80,8 +80,7 @@
      {"key":"csp_xBPQ_奇优","name":"奇优≛官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/json/奇优影视.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/HeChengChaXiu.jar"},
      {"key": "dr_酷云77","name": "酷云77≛官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/酷云77.js"},
      {"key": "新6V","name":"新6V≛慎用","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
-     {"key": "dr_搜狐","name":"狐狐≛官源","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/搜狐.js"}
-     ],
+     {"key": "dr_搜狐","name":"狐狐≛官源","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aeb168169682631c93874c9bd8a97e74","ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/搜狐.js"},
         {
             "key": "南瓜",
             "name": "南瓜≛南瓜",
