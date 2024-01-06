@@ -70,7 +70,7 @@
      //   ##官源系列
      
 
-     {"key":"dr_布雷蓝光","name":"布布≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
+//{"key":"dr_布雷蓝光","name":"布布≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
      {"key":"dr_百忙无果","name":"果果≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/百忙无果.js"},
      {"key":"dr_360影视","name":"三三≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/360影视.js"},
      {"key":"drpy_js_奇珍异兽","name":"艺艺≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/奇珍异兽.js"},
@@ -418,42 +418,9 @@
      "jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/alisz.jar"
     },
     //{"key": "应用商店","name": "🏫应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/JS/yysd.json","jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"},
-    {
-            "key": "小纸条_cli",
-            "name": "纸条≛T4 ",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/cli_gitCafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./token.txt",
-            "timeout": 30
-    },
-   {
-      "key": "Wogg",
-      "name": "玩偶≛PG",
-      "type": 3,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/pg.jar",
-      "api": "csp_Wogg",
-      "ext": "./token.txt$$$https://api.wogg.xyz/"
-    },
-    {
-            "key": "csp_WoGG",
-            "name": "玩偶≛哥哥",
-            "type": 3,
-            "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fan.txt",
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "token": "94fd5ab297e24a769bb762375118ec47",
-            "ext": "https://api.wogg.xyz/"
-           // "ext": "./token.txt+auto|4k|fhd$$$https://api.wogg.xyz/"
-    },
+    {"key": "小纸条_cli","name": "纸条≛T4 ","type": 4,"api": "http://home.jundie.top:9520/spider/cli_gitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt","timeout": 30},
+   {"key": "Wogg","name": "玩偶≛PG","type": 3,"style": {"type": "rect","ratio": 1.597},"jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/pg.jar","api": "csp_Wogg","ext": "./token.txt$$$https://api.wogg.xyz/"},
+    {"key": "csp_WoGG","name": "玩偶≛哥哥","type": 3,"jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/fan.txt","api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"token": "94fd5ab297e24a769bb762375118ec47","ext": "https://api.wogg.xyz/"},
     {
             "key": "csp_XYQHikerAL",
             "name": "玩偶≛HK",
@@ -466,16 +433,7 @@
             "jar": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/xyq.jar",
             "ext": "./token.txt+auto|4k|fhd$$$https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/js/玩偶哥哥.json"
     },
-    {
-            "key": "csp_woggcli",
-            "name": "玩偶≛TT4",
-            "type": 4,
-            "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./token.txt"
-    },
+    {"key": "csp_woggcli","name": "玩偶≛TT4","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt"},
     {
       "key": "Wogg1",
       "name": "玩偶≛GG",
