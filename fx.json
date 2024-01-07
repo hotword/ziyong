@@ -80,7 +80,7 @@
      {"key":"csp_xBPQ_奇优","name":"奇优≛官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/json/奇优影视.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/HeChengChaXiu.jar"},
      {"key": "dr_酷云77","name": "酷云77≛官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/酷云77.js"},
      {"key": "新6V","name":"新6V≛慎用","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
-     {"key": "dr_搜狐","name":"狐狐≛官源","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aeb168169682631c93874c9bd8a97e74","ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/搜狐.js"},
+     //{"key": "dr_搜狐","name":"狐狐≛官源","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aeb168169682631c93874c9bd8a97e74","ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/搜狐.js"},
         {
             "key": "南瓜",
             "name": "南瓜≛南瓜",
@@ -1505,11 +1505,11 @@
     ],
      "parses": [ 
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"Json并发","type":2,"url":"Parallel"},
+//{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"瓜瓜优选","type":2,"url":"Preference"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
+//{"name":"Json轮询","type":2,"url":"Sequence"},
 //{"name":"瓜瓜免嗅","type":2,"url":"Cucumber"},
-//
+
 	{"name":"线路1","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
 	{"name":"线路2","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
 	{"name":"线路3","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
