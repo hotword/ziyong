@@ -1537,7 +1537,7 @@
 {"name":"m3u8-jx","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
 {"name":"m3u8-sstv","type":0,"url":"https://live.fanmingming.com/player/?vurl="},
 {"name":"m3u8-PM","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
-//{"name":"京项","type":1,"url":"http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=afghlpwxAEGLX01235&url="},
+{"name":"京项","type":1,"url":"http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=afghlpwxAEGLX01235&url="},
 {"name": "JP","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
 {"name": "XF","type": 0,"url": "https://jx.xmflv.com/?url="},
 {"name": "PJ","type": 0,"url": "https://jx.playerjy.com/?url="},
