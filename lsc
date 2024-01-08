@@ -1,6 +1,22 @@
-{"urls":
-[
-{"name":"💚816175504蓝色影视在线线路💚","url":"https://codeberg.org/xvnhs/zeroVPN/raw/branch/zcgdb/zcbfs.json"},
+{
+    "urls": [
+        {
+            "url": "http://www.xingxing.linkpc.net/TV/XingXing.json",
+            "name": "⭐️星星⭐️"
+        },
+        {
+            "url": "http://www.xingxing.linkpc.net/TV/OK/ok.json",
+            "name": "👌OK👌"
+        },
+        {
+            "url": "http://www.xingxing.linkpc.net/TV/pg/jsm.json",
+            "name": "👌PG👌"
+        },
+        {
+            "url": "http://www.xingxing.linkpc.net/TV/gao-master/0707.json",
+            "name": "🌤高天流云🌤"
+        },
+        {"name":"💚816175504蓝色影视在线线路💚","url":"https://codeberg.org/xvnhs/zeroVPN/raw/branch/zcgdb/zcbfs.json"},
 {"name":"🎯业余打发在线接口~蓝色影视仓库💚🎯","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"},
 {"name":"🍵荷城茶秀88接口~蓝色影视仓库🍵","url":"http://rihou.vip:88/荷城茶秀"},
 {"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/home.json","name":"🏠幸福之家"},
@@ -363,6 +379,10 @@
 {"name":"🌨高天流云JS","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
 {"name":"💦4k给力",
 "url":"http://xxxoo.shop"}
-]
+    ]
 }
+
+
+
+
 
