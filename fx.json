@@ -121,7 +121,7 @@
        // {"key":"Watch the drama","name":"️watch≛drama","type": 3,"api": "csp_XBPQ","ext": {"Categoryurl":"https://www.jukankan.me/2 vodtype/{cateld}-{catePg}.html" }},
 
      //   {"key":"Coke","name":"COKEBY","type": 3,"api": "csp_XBPQ","ext": {"Categoryurl":"http://cokeby.com/vodshow/2 {cateld}-{catePg}---.html"}},
-             {"key": "csp_XYQHiker_beautyleg","name": "beautyleg(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./cat/beautyleg.json"},
+        // {"key": "csp_XYQHiker_beautyleg","name": "腿模≛腿模","type": 3,"api": "csp_XYQHiker","searchable": 1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar","quickSearch": 1,"filterable": 1,"ext": "./cat/beautyleg.json"},
         {
             "key": "芒果资源",
             "name": "️芒芒≛果果",
