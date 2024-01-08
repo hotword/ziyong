@@ -1489,16 +1489,13 @@
         }
     ],
      "parses": [ 
-//{"name":"解析聚合","type":3,"url":"Demo"},
-//{"name":"Json并发","type":2,"url":"Parallel"},
-//{"name":"瓜瓜优选","type":2,"url":"Preference"},
-//{"name":"Json轮询","type":2,"url":"Sequence"},
-//{"name":"瓜瓜免嗅","type":2,"url":"Cucumber"},
-
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"瓜瓜优选","type":2,"url":"Preference"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"Web解析聚合","type":3,"url":"Web"},
+{"name":"瓜瓜免嗅","type":2,"url":"Cucumber"},
+
+
   
 //HFQ
 {"name":"💧虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["iqiyi","youku","qq","mgtv","le","bilibili","sohu","cntv"],"header":{"User-Agent":"Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"}}},
