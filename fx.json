@@ -15,8 +15,8 @@
     ],
     "sites": [
           //{"key":"T4","name":"🏠T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","jar":"./fan.txt","searchable":1,"quickSearch":1,"filterable":1},
-        //{"key":"T4_douban","name":"🏠T4聚合","type":4,"jar":"./fan.txt","api":"http://42.192.248.11:5395/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
-          {"key":"dr_豆瓣","name":"🏠首页推荐","type":3,"jar":"./fan.txt","api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/drpy.js"}, 
+          {"key":"T4_douban","name":"豆瓣≛聚合","type":4,"jar":"./fan.txt","api":"http://42.192.248.11:5395/vod?sites=all&ali_token=http://home.jundie.top:666/token.txt","searchable":1,"quickSearch":1,"filterable":1},
+          {"key":"dr_豆瓣","name":"首页≛推荐","type":3,"jar":"./fan.txt","api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/DRPY/master/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/drpy.js"}, 
           {"key": "sp360","name": "360≛影视","type": 3,"api": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/drpy2.min.js","ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/360影视.js","searchable": 1,"filterable": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","changeable": 1},
           {"key": "腾讯视频","name": "腾腾≛讯讯","type": 3,"api": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/drpy2.min.js","ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/tengxun.js","searchable": 1,"quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","changeable": 1},
           {"key": "youku","name": "优酷≛优酷","type": 3,"api": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/drpy2.min.js","ext": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/youku.js","searchable": 1,"quickSearch": 1,"spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","changeable": 1},
@@ -26,7 +26,7 @@
      //   ##官源系列
      
 
-//{"key":"dr_布雷蓝光","name":"布布≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
+   //{"key":"dr_布雷蓝光","name":"布布≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
      {"key":"dr_百忙无果","name":"果果≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/百忙无果.js"},
      {"key":"dr_360影视","name":"三三≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/360影视.js"},
      {"key":"drpy_js_奇珍异兽","name":"艺艺≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/奇珍异兽.js"},
