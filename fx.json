@@ -285,15 +285,9 @@
                     "filterable":1,
                     "changeable":1
                 },
+          {"key":"猪泡泡","name":"猪泡≛影院","type":3,"api":"csp_XBPQ","ext":{"播放标题":"+>&&</a>","播放链接":"https://www.cnbouygues.com/vplay/+/vplay/&&.html","分类url":"https://www.cnbouygues.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}},
           
-          
-          {
-            "key": "悠悠",
-            "name": "悠悠≛资源",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/悠悠.js"
-        },
+          {"key": "悠悠","name": "悠悠≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/悠悠.js"},
              {"key":"態掌",
         "name":"熊掌≛采集",
         "type":1,
