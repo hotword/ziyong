@@ -299,22 +299,9 @@
         "quickSearch":1,
         "filterable":1
         },
-         {
-             "key":"刺桐",
-             "name":"刺桐≛影视",
-            "type":3,
-            "api":"./lib/drpy2.min.js",
-             "ext":"./lib/刺桐.js"
-             },
-             {
-             "key":"恋影独家",
-             "name":"恋影≛恋恋",
-             "type":1,
-             "api":"https://cms.lianyingtv.com/api.php/provide/vod/",
-             "searchable":1,
-             "changeable":1,
-             "categories":["电影","连续剧","综艺","动漫"]
-             },
+         {"key":"YydsVip","name":"YYDS≛网盘","type":3,"api":"csp_YydsVip", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$http://yydsvip.cn$$$null"},
+         {"key":"刺桐","name":"刺桐≛影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/刺桐.js"},
+         {"key":"恋影独家","name":"恋影≛恋恋","type":1,"api":"https://cms.lianyingtv.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["电影","连续剧","综艺","动漫"]},
              {"key": "csp_哔哩戏曲","name": "哔哩≛戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"./cat/bili/jar","ext": "./cat/Blixq.json"},
              {"key": "csp_Biliych","name": "哔哩≛演唱","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar":"./cat/bili/jar","ext": "./cat/biliych.json"},      
         {
