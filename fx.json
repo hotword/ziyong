@@ -55,6 +55,7 @@
    //{"key": "应用商店","name": "🏫应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/JS/yysd.json","jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"},
    //{"key":"Watch the drama","name":"️watch≛drama","type": 3,"api": "csp_XBPQ","ext": {"Categoryurl":"https://www.jukankan.me/2 vodtype/{cateld}-{catePg}.html" }},
    //{"key":"996","name":"996≛影视","type":3,"filterable":1,"api":"csp_XBPQ","ext":{"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"},"jar":"http://tvbox.top/jar/xbpq.jar"},
+     {"key": "Miss","name":"FongMi影视专用接口","type": 3,"api": "csp_1","spider":"https://agit.ai/wekeyfisrt/PIG/raw/branch/master/pg.jar","searchable": 0},
 
    //{"key":"Coke","name":"COKEBY","type": 3,"api": "csp_XBPQ","ext": {"Categoryurl":"http://cokeby.com/vodshow/2 {cateld}-{catePg}---.html"}},
    //{"key": "csp_XYQHiker_beautyleg","name": "腿模≛腿模","type": 3,"api": "csp_XYQHiker","searchable": 1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar","quickSearch": 1,"filterable": 1,"ext": "./cat/beautyleg.json"},
@@ -285,25 +286,8 @@
             "changeable": 1,
             "ext": "http://v.aaaa0.top:2525/api.php/app/"
         },
-        {
-            "key": "csp_Bº站影视",
-            "name": "Bº站≛秒播",
-            "type": 3,
-            "api": "csp_Bdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_AppYsV2_365",
-            "name": "365≛APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://bfq.yy365.vip/api.php/app/"
-        },
+        {"key": "csp_Bº站影视","name": "Bº站≛秒播","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1},
+        {"key": "csp_AppYsV2_365","name": "365≛APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://bfq.yy365.vip/api.php/app/"},
         {
             "key": "看看剧院",
             "name": "看看≛剧院",
