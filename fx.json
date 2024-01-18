@@ -8,11 +8,16 @@
           // "url": "https://weixine.net/tv/ysclive.txt",
           "url":"http://home.jundie.top:81/Cat/tv/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
         {"name":"FAN-IPV6","type":"0","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
-        {"name":"GAT-IPV6","type":"0","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u"},
-        {"name":"CQYX-IPV4","type":"0","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"},
+      //{"name":"GAT-IPV6","type":"0","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u"},
+      //{"name":"CQYX-IPV4","type":"0","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u"},
         {"name":"FAN-radio","type":"0","url":"https://live.fanmingming.com/radio/m3u/index.m3u"},
-        {"name":"央视嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./cat/ysp.m3u","boot":false}
-
+        {"name":"央视嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./cat/ysp.m3u","boot":false},
+        {"name": "live.fan","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+		{"name": "直播","type": 0,"playerType": 1,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+		{"name": "TXT","type": 0,"playerType": 1,"url": "http://home.jundie.top:81/Cat/tv/live.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"},
+		{"name": "Json","type": 1,"playerType": 1,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"},
+		{"name": "live.feimao","type": 0,"playerType": 1,"url": "http://我不是.肥猫.live/TV/tvzb.txt","ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+		{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=live&proxy=&url="]}]}
     ],
     "sites": [
           //{"key":"T4","name":"🏠T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","jar":"./fan.txt","searchable":1,"quickSearch":1,"filterable":1},
@@ -58,7 +63,7 @@
    //{"key": "应用商店","name": "🏫应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/JS/yysd.json","jar": "https://cloud.lxweb.cn/f/pY9Kce/lxhfans%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"},
    //{"key":"Watch the drama","name":"️watch≛drama","type": 3,"api": "csp_XBPQ","ext": {"Categoryurl":"https://www.jukankan.me/2 vodtype/{cateld}-{catePg}.html" }},
    //{"key":"996","name":"996≛影视","type":3,"filterable":1,"api":"csp_XBPQ","ext":{"分类url":"https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"},"jar":"http://tvbox.top/jar/xbpq.jar"},
-     {"key": "Miss","name":"FongMi影视专用接口","type": 3,"api": "csp_1","spider":"https://agit.ai/wekeyfisrt/PIG/raw/branch/master/pg.jar","searchable": 0},
+   //{"key": "Miss","name":"FongMi影视专用接口","type": 3,"api": "csp_1","spider":"https://agit.ai/wekeyfisrt/PIG/raw/branch/master/pg.jar","searchable": 0},
 
    //{"key":"Coke","name":"COKEBY","type": 3,"api": "csp_XBPQ","ext": {"Categoryurl":"http://cokeby.com/vodshow/2 {cateld}-{catePg}---.html"}},
    //{"key": "csp_XYQHiker_beautyleg","name": "腿模≛腿模","type": 3,"api": "csp_XYQHiker","searchable": 1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar","quickSearch": 1,"filterable": 1,"ext": "./cat/beautyleg.json"},
