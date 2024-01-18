@@ -32,6 +32,7 @@
      
 
    //{"key":"dr_布雷蓝光","name":"布布≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/布雷蓝光.jsd"},
+     {"key":"drpy_js_360影视","name":"官源≛360","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/360影视.js"},
      {"key":"dr_百忙无果","name":"果果≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/百忙无果.js"},
      {"key":"dr_360影视","name":"三三≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/360影视.js"},
      {"key":"drpy_js_奇珍异兽","name":"艺艺≛官源","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/奇珍异兽.js"},
@@ -145,85 +146,22 @@
     //},
 
          
-          //{"key":"蝴蝶","name":"蝴蝶≛影视","type":3,"api":"csp_Hudie","playerType":2, 
-         // "spider":"https://agit.ai/wekeyfisrt/ziyoon/src/branch/main/lib/1205.tar",
-         //"spider":"./xyq1204.jar",
-         // "ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"},   
-              {
-            "key": "三六资源",
-            "name": "三六≛资源",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/三六资源.js"
-        },
-        {
-            "key": "疼疼",
-            "name": "疼疼≛资源",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/疼疼.js"
-        },
+    //{"key":"蝴蝶","name":"蝴蝶≛影视","type":3,"api":"csp_Hudie","playerType":2, "spider":"https://agit.ai/wekeyfisrt/ziyoon/src/branch/main/lib/1205.tar","ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"},   
+        {"key": "三六资源","name": "三六≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/三六资源.js"},
+        {"key": "疼疼","name": "疼疼≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/疼疼.js"},
         {"key": "csp_XYQHikerAL_pan99","name": "转码≛盘9","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":1,"ext": "./cat/盘99.json"},
        // {"key": "盘99","name": "盘99","type": 3,"api": "csp_Pan99","searchable": 1,"changeable": 0,"ext": "/token.txt","jar": "https://fmjar.caioa.link/jar/custom_spider.jar"},
       //  {"key": "ffm3u8","name": "非凡≛影视","type": 3,"api": "./cat/ffm3u8_open.js","ext": {"url": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/","categories": ["国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "短剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "动漫片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "记录片"]}},
-        {
-			"key": "apv2_COKEMV",
-			"name": "可乐≛影视",
-			"type": 3,
-			"api": "csp_AppYs",
-			"ext": "https://cokemv.co/xgapp.php/v2/"
-		},  
-                // {      "key": "js_菜狗","name": "爱优≛腾芒","type": 3,"api": "http://jin.xn--kwra9540c.love/js/api.js",
-    //  "searchable": 1,"quickSearch": 1,"filterable": 1, //"playUrl":"json:https://jx.zhanlangbu.com/?url=",
-    //    "spider": "http://jin.锦哥哥.love/jar/1.jar",   // "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24",
-     // "ext": "http://jin.xn--kwra9540c.love/sj/caigou"  },
-           {"key": "drpy_js_哔哩教育",
-           "name": " 哔哩≛教育",
-           "type": 3,
-           "api": "./lib/drpy2.min.js",
-           "ext": "./lib/哔哩教育.js"},
+        {"key": "apv2_COKEMV","name": "可乐≛影视","type": 3,"api": "csp_AppYs","ext": "https://cokemv.co/xgapp.php/v2/"},  
+     // {"key": "js_菜狗","name": "爱优≛腾芒","type": 3,"api": "http://jin.xn--kwra9540c.love/js/api.js","searchable": 1,"quickSearch": 1,"filterable": 1, //"playUrl":"json:https://jx.zhanlangbu.com/?url=", "spider": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar;md5;1526e714b8aa101dcd78060548871e24","ext": "http://jin.xn--kwra9540c.love/sj/caigou"  },
+     {"key": "drpy_js_哔哩教育","name": " 哔哩≛教育","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/哔哩教育.js"},
       {"key": "少儿教育全套","name": "教育≛全套","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./cat/少儿教育全套.json"},
-       // {
-      //      "key":"csp_器星",
-           // "name":"齐心≛协力",
-          //  "type":3,
-          //  "api":"csp_XBPQ",
-          //  "searchable":1,"quickSearch":1,"filterable":1,
-         //   "ext":"https://cloud.lxweb.cn/f/emARta/2.js"
-        //},
-       
-         {"key":"搜狗",
-         "name":"搜搜≛搜狗",
-         "type":3,
-         "api":"./lib/drpy2.min.js",
-         "ext":"./lib/caigou.js"
-         },
-        {
-            "key": "csp_SP2345",
-            "name": "2345≛影视",
-            "type": 3,
-            "api": "csp_SP2345",
-			"playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar":"./官源.jar"
-        },
+  
+         {"key":"搜狗","name":"搜搜≛搜狗","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},
+        {"key": "csp_SP2345","name": "2345≛影视","type": 3,"api": "csp_SP2345","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./官源.jar"},
 
-        {
-            "key": "百忙无果",
-            "name": "忙忙≛资源",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/百忙无果.js"
-        },
-        {
-            "key": "奇珍异兽",
-            "name": "齐齐≛资源",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/奇珍异兽.js"
-        },
+        {"key": "百忙无果","name": "忙忙≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/百忙无果.js"},
+        {"key": "奇珍异兽","name": "齐齐≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/奇珍异兽.js"},
               
               {
             "key": "csp_NT",
@@ -238,31 +176,11 @@
                 "分类url": "http://www.ntdm9.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
                 "分类": "目录$riben"
             } },
-              {"key": "lf_js_search",
-            "name": "聚聚≛合合",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "./lib/lf_search3_min.js"
-        },
+              {"key": "lf_js_search","name": "聚聚≛合合","type": 3,"searchable": 0,"changeable": 1,"quickSearch": 0,"filterable": 0,"api": "./lib/lf_search3_min.js"},
        
-       // {"key": "push_agent","name": "┃云盘┃推送云盘","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,	"filterable": 0,
-		//	"jar":"./lib/fan1203.jar",	"ext": "./alitoken.txt+auto|4k|fhd"	},
+      
 
-                   {
-            "key": "csp_QQ",
-            "name": "️腾腾≛讯讯",
-            "type": 1,
-            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-            "playUrl":"json:http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
-            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
-        },
+                   {"key": "csp_QQ","name": "️腾腾≛讯讯","type": 1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/","playUrl":"json:http://42.157.129.144:2323/CH/caihong_1993138546.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"spider":"https://jihulab.com/0004/0/-/raw/main/0.txt","categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
           {"key": "csp_XYQHiker_freeok","name": "freeok≛XYQH","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./cat/freeok.json"},
            {
                  "key":"雨晴",
