@@ -1435,10 +1435,10 @@
 {"name":"神哥","type":0,"url":"https://json.ovvo.pro/jx.php?url=","ext":{"flag":["qq","qiyi","优酷","mgtv"]}},
 {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 ///////from blueCN////////
-	{"name":"解析聚合","type":3,"url":"Demo"},
-    {"name":"Web聚合","type":3,"url":"Web"},
-    {"name":"Json并发","type":2,"url":"Parallel"},
-    {"name":"Json轮询","type":2,"url":"Sequence"},
+	//{"name":"解析聚合","type":3,"url":"Demo"},
+  //{"name":"Web聚合","type":3,"url":"Web"},
+  //{"name":"Json并发","type":2,"url":"Parallel"},
+  //{"name":"Json轮询","type":2,"url":"Sequence"},
     {"name":"解析1", "type":0,"url":"https://jx.xmflv.cc/?url="},
     {"name":"解析2", "type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"解析3", "type":0,"url":"https://jx.zui.cm/?url="},
@@ -1560,21 +1560,9 @@
     {"name":"OJBK","type":0,"url":"https://jmwl.qd234.cn/v/?v=","ext":{"flag":["ltnb","renrenmi","rx","xfyun","muxm3u8","xigua","xueren","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","pptv","PPTV","sohu","letv"]}},
     {"name": "未知","type": 1,"url": "http://106.52.218.221:88/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]}},	   
 /////from ZTHA000/////////
-{
-      "name": "📛聚合1",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "📛聚合0",
-      "type": 3,
-      "url": "Web"
-    },
-    {
-      "name": "📛神秘的哥哥们",
-      "type": 1,
-      "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
-    },
+  //{"name": "📛聚合1","type": 3,"url": "Demo"},
+  //{"name": "📛聚合0","type": 3,"url": "Web"},
+    {"name": "📛神秘的哥哥们","type": 1,"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="},
     {
       "name": "📛解析",
       "type": 1,
