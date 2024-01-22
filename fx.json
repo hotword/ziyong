@@ -10,10 +10,10 @@
         {"name":"FAN-radio","type":"0","url":"https://live.fanmingming.com/radio/m3u/index.m3u"},
         {"name":"央视嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./cat/ysp.m3u","boot":false},
         {"name": "live.fan","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-		{"name": "直播","type": 0,"playerType": 1,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-		{"name": "TXT","type": 0,"playerType": 1,"url": "http://home.jundie.top:81/Cat/tv/live.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"},
-		{"name": "Json","type": 1,"playerType": 1,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"},
-		{"name": "live.feimao","type": 0,"playerType": 1,"url": "http://我不是.肥猫.live/TV/tvzb.txt","ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+		    {"name": "直播","type": 0,"playerType": 1,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+	    	{"name": "TXT","type": 0,"playerType": 1,"url": "http://home.jundie.top:81/Cat/tv/live.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"},
+		    {"name": "Json","type": 1,"playerType": 1,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"},
+		    {"name": "live.feimao","type": 0,"playerType": 1,"url": "http://我不是.肥猫.live/TV/tvzb.txt","ua": "okhttp/3.12.13","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
     ],
     "sites": [
           //{"key":"T4","name":"🏠T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","jar":"./fan.txt","searchable":1,"quickSearch":1,"filterable":1},
@@ -961,7 +961,7 @@
         {"name":"★左岸★","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
        //miao
        //{"name":"JSON聚合","type":3,"url":"Demo"},
-//{"name":"Web聚合","type":3,"url":"Web"},
+       //{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"⌛如意","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","imgo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"⌛饭特析","type":1,"url":"https://jx.wogg.link/api/饭特析.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","imgo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"🆗解析啦","type":0,"url":"https://api.jiexi.la/?url=","ext":{"flag":["sohu","SoHu","搜狐","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","FEI","YuMi-vip","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
@@ -1358,11 +1358,11 @@
 	{"name":"线路12","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 	{"name":"线路13","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
     ///////fromFM////////
-{"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"MIAO","type":0,"url":"http://www.miaoys.cc/vip/?url="},
-{"name":"JXJS","type":0,"url":"https://jxjson.cf/?url="},
-{"name":"BOJX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
-{"name":"modu","type":0,"url":"https://jiexi.modujx01.com/?url="},
+     {"name":"QIQI","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+     {"name":"MIAO","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+     {"name":"JXJS","type":0,"url":"https://jxjson.cf/?url="},
+     {"name":"BOJX","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","header":{"User-Agent":"okhttp/4.1.0"}},
+     {"name":"modu","type":0,"url":"https://jiexi.modujx01.com/?url="},
 
 
 ///////from X /////////
@@ -1496,7 +1496,7 @@
 {"name":"☑铭人解析","type":0,"url":"https://parse.123mingren.com/?url="},
 {"name":"☑BL解析","type":0,"url":"https://svip.bljiex.cc/?v="},
     //
-{  "name": "bozrc",  "type": 0,  "url": "https://jx.bozrc.com:4433/player/?url=",  "ext": {   "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]  } },
+    {"name": "bozrc",  "type": 0,  "url": "https://jx.bozrc.com:4433/player/?url=",  "ext": {   "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]  } },
     {"name":"解析GGTV","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
     {"name": "GGTV快速","type": 1,"url": "https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="},
     {"name":"泡沫","type":1,"url":"https://jx.paoomo.com/jiami.php?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"]}},
