@@ -478,6 +478,71 @@
     {"name":"Web聚合","type":3,"url":"Web"},
     {"name":"Json并发","type":2,"url":"Parallel"},
     {"name":"Json轮询","type":2,"url":"Sequence"},
+    {
+            "name": "解析1.1",
+            "type": 1,
+            "url": "https://www.qiaoji8.com/tvbox/wudi.php?url="
+        },
+        {
+            "name": "解析1.2",
+            "type": 1,
+            "url": "https://cache.json.icu/s1804857380.php?url="
+        },
+        {
+            "name": "解析1.3",
+            "type": 1,
+            "url": "http://json.84jia.com/home/api?type=ys&uid=309258&key=jmoruvzDFNRSTV0156&url="
+        },
+        {
+            "name": "解析1.4",
+            "type": 1,
+            "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2781037&key=bhnoprvyzBMNOQTY19&url="
+        },
+        {
+            "name": "解析1.5",
+            "type": 1,
+            "url": "http://119.91.123.253:2345/Api/yun.php?url="
+        },
+        {
+            "name": "解析1.6",
+            "type": 1,
+            "url": "http://json.84jia.com/home/api?type=ys&uid=15158&key=abdfjqvwyCFKNOVXZ4&url="
+        },
+        {
+            "name": "解析1.7",
+            "type": 1,
+            "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="
+        },
+        {
+            "name": "解析1.8",
+            "type": 1,
+            "url": "http://htp.behds.cn/json/202372345678911app/gf.php?url="
+        },
+        {
+            "name": "解析1.9",
+            "type": 1,
+            "url": "https://bf.ppjbk.cn/?url="
+        },
+        {
+            "name": "解析1.10",
+            "type": 1,
+            "url": "http://htp.behds.cn/json/520237app7/mlzjphp111.php?url="
+        },
+        {
+            "name": "解析1.11",
+            "type": 1,
+            "url": "http://jiexi.kudian6.com/pzjx/zz.php?url="
+        },
+        {
+            "name": "解析1.12",
+            "type": 1,
+            "url": "http://ku.renrenmi.cc/api/?key=PhHW95uatpNjHOeVbj&url="
+        },
+        {
+            "name": "解析1.13",
+            "type": 1,
+            "url": "http://svip.nfjx.xyz/api/?key=wbbgCgezulNGcZVHc1&url="
+        },
     {"name":"解析1", "type":0,"url":"https://jx.xmflv.cc/?url="},
     {"name":"解析2", "type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"解析3", "type":0,"url":"https://jx.zui.cm/?url="},
