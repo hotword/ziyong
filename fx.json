@@ -96,7 +96,7 @@
           {"key":"xyq_初恋云","name":"初恋云┃xyq","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"playerType":1,"ext":"./cat/初恋云.json","jar":"./pg.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
           {"key": "悠悠","name": "悠悠≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/悠悠.js"},
           {"key":"態掌","name":"熊掌≛采集","type":1,"api":"http://xzcjz.com/api.php/provide/vod/at/json","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
-          {"key":"YydsVip","name":"YYDS≛网盘","type":3,"api":"csp_YydsVip", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./lib/tokenm.json$$$http://yydsvip.cn$$$null"},
+          {"key":"YydsVip","name":"YYDS≛网盘","type":3,"api":"csp_YydsVip", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./token.txt$$$http://yydsvip.cn$$$null"},
           {"key":"刺桐","name":"刺桐≛影视","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/刺桐.js"},
           {"key":"恋影独家","name":"恋影≛恋恋","type":1,"api":"https://cms.lianyingtv.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["电影","连续剧","综艺","动漫"]},
           {"key": "csp_哔哩戏曲","name": "哔哩≛戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"jar":"./cat/bili/jar","ext": "./cat/Blixq.json"},
@@ -196,10 +196,10 @@
 	
  //优质站点结束     
         //常用
-        {"key":"影视车","name":"🚌影视车┃转存万兆线路","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
-		{"key": "玩偶哥哥","name": "👽玩偶哥哥┃原画千兆线路","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0, "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹","jar": "https://gitcode.net/u012349622/js/-/raw/master/xx/fan.txt?inline=false;md5;4ceefaa8f9f80595929da0af9159645b"},
-		{"key":"Wogg","name":"💁🏻‍♂️玩偶哥哥┃转存万兆线路","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
-		{"key":"Wobg","name":"💇🏻‍♀️玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
+        {"key":"影视车","name":"🚌影视车┃转存万兆线路","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./token.txt$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
+		{"key": "玩偶哥哥","name": "👽玩偶哥哥┃原画千兆线路","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹","jar": "https://gitcode.net/u012349622/js/-/raw/master/xx/fan.txt?inline=false;md5;4ceefaa8f9f80595929da0af9159645b"},
+		{"key":"Wogg","name":"💁🏻‍♂️玩偶哥哥┃转存万兆线路","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./token.txt$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
+		{"key":"Wobg","name":"💇🏻‍♀️玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./token.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
 		{"key": "Czsapp","name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy66.com/","jar": "https://gitcode.net/u012349622/js/-/raw/master/xx/fan.txt?inline=false;md5;5aee1ff968a3dc5cbbf225399e9441e9"},
 		{"key": "csp_Nmys","name": "🌾农民┃直连","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json","jar": "https://gitcode.net/u012349622/js/-/raw/master/xx/fan.txt?inline=false;md5;5aee1ff968a3dc5cbbf225399e9441e9"},
 		{"key": "NanGua","name": "🎃南瓜|弹幕","type": 3,"api": "csp_NanGua","searchable": 1,"changeable": 1,"ext": "null$$$1"},
