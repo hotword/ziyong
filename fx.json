@@ -7,6 +7,7 @@
         {"name": "live","type": 0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
         {"name":"运输车线路","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
         {"name":"wfliving","type":"0","url":"./lib/wfliving.txt"},
+        {"name":"wtv","type":"0","url":"https://iptv.lysvc.cc/tvbox/%E6%B0%B8%E4%B9%85%E6%BA%90/wtv.txt"},
         {"name":"FAN-IPV6","type":"0","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
         {"name":"FAN-radio","type":"0","url":"https://live.fanmingming.com/radio/m3u/index.m3u"},
         {"name":"央视嗅探","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","type":0,"timeout": 40,"url":"./cat/ysp.m3u","boot":false},
