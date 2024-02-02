@@ -1,9 +1,23 @@
 	{
   "urls": [
+     {
+      "url": "https://agit.ai/wekeyfisrt/ziyong/raw/branch/main/fx.json",
+      "name": "自用接口💚"
+    }, 
+     {
+      "url": "https://jihulab.com/52013142/kw/-/raw/main/%E5%B0%8F%E7%9B%92%E9%85%B7%E7%8E%A9.json",
+      "name": "小河接口💚"
+    }, 
+       {
+      "url": "https://jihulab.com/xingchenyongye/bendi/-/raw/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93%E8%8E%AB%E7%9B%97.txt",
+      "name": "酷我接口💚"
+    }, 
+    
    {
       "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
       "name": "秒播接口💚"
     }, 
+    
     {
       "url": "https://notabug.org/xghvr/again/raw/master/mao.json",
       "name": "蓝色影视接口💚"
