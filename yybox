@@ -34,11 +34,16 @@
       "url": "https://jihulab.com/levi-tv/levi/-/raw/main/master_local.json",
       "name": "酷我接口💚"
     }, 
-    
+    {
+      "url": "https://raw.fgit.cf/namegenliang/dy/main/namegen.json",
+      "name": "肖恩接口💚"
+    }, 
    {
       "url": "https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
       "name": "秒播接口💚"
     }, 
+    
+
     
     {
       "url": "https://notabug.org/xghvr/again/raw/master/mao.json",
