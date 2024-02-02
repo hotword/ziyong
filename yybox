@@ -24,6 +24,11 @@
       "url": "http://lin.ohphp.com/2/tvkj.json",
       "name": "小提接口💚"
     }, 
+     {
+      "url": "https://jihulab.com/tvtvtv/k/-/raw/main/tv.txt",
+      "name": "小维接口💚"
+    }, 
+    
     
        {
       "url": "https://jihulab.com/xingchenyongye/bendi/-/raw/main/%E8%87%AA%E7%94%A8%E5%8D%95%E4%BB%93%E8%8E%AB%E7%9B%97.txt",
