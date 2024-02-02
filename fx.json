@@ -85,7 +85,7 @@
    //{"key": "sc1080",  "name": "圣城≛影视","type": 3,"api": "./lib/sc1080_open.js"},
    //{"key":"3456","name":"34≛56","type":3,"api":"csp_XBPQ","ext":{"线路标题":"\ud83c\udfee【\u7f16\u8f91\u262a\u6708\u5149\u6726\u80e7】\ud83c\udfee\u002b\u003e\u0026\u0026\u003c","分类url":"https://3456ys.com/vodtype/{cateId}&{area}&{class}&{year}&{catePg}/","分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}},
    //{"key": "蝴蝶","name": "蝴蝶≛App","type": 3,"api": "csp_Hudie","playerType": 2,"jar":"./fix1110.jar","ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
-        {"key":"蝴蝶","name":"蝴蝶≛影视","type":3,"api":"csp_Hudie","playerType":2, "jar":"https://agit.ai/wekeyfisrt/ziyoon/src/branch/main/lib/1205.tar","ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"},   
+        {"key":"蝴蝶","name":"蝴蝶≛影视","type":3,"api":"csp_Hudie","playerType":2, "jar":"./jcsq.jar","ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"},   
         {"key": "三六资源","name": "三六≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/三六资源.js"},
         {"key": "疼疼","name": "疼疼≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/疼疼.js"},
       //{"key": "csp_XYQHikerAL_pan99","name": "转码≛盘9","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":1,"ext": "./cat/盘99.json"},
