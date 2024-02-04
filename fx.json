@@ -253,7 +253,7 @@
 		    { "key": "mf", "name": "🦆┃耐菲┃影视", "type": 3, "api": "./config/api/drpy2.min.js", "searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://ysys.lic10.cn/ys/config/js/鸭奈飞.js","jar": "https://ysys.lic10.cn/ys//config/jar/jar/240110.jar"},
       
         //以下为玩偶
-                
+        {"key": "阿里云集合","name": "阿里云集合|4K", "type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./wogg.jar"},        
        {"key": "csp_KungFu404","name":"🎦阿狸设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://github.moeyy.xyz/raw.githubusercontent.com/lxhfans/TV/master/jar/alisz.jar"},
        {"key": "小纸条_cli","name": "纸条≛T4 ","type": 4,"api": "http://home.jundie.top:9520/spider/cli_gitCafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./token.txt","timeout": 30},
        {"key":"csp_海外看","name":"🌊海外看[CJ]","type":1,"api":"https://haiwaikan.com/api.php/provide/vod","searchable":1,"changeable":1},
