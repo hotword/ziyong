@@ -50,6 +50,12 @@
             {"key":"csp_FanYY","name":"玩偶≛影视","type": 3,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
             {"key": "网盘配置","name": "网盘及彈幕配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext": "./json/tokenm.json"},
           //{"key": "csp_KungFu404","name":"阿狸设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./fan.txt"},
+            {"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.txt.gz"},
+	        	{"key":"AliShare","name":"阿里云盘影视分享","type":3,"api":"csp_AliShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/alishare.txt"},
+		        {"key":"AliShareEBook","name":"阿里云盘书籍分享","type":3,"api":"csp_AliShare","jar":"./pg.jar","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/alishare.ebook.txt"},
+	        	{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/quarkshare.txt"},
+		        {"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/thundershare.txt"},
+     
      //   ##官源系列
      
 
