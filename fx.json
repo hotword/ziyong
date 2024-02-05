@@ -66,7 +66,7 @@
      {"key": "新6V","name":"新6V≛慎用","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
    //{"key": "dr_搜狐","name":"狐狐≛官源","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aeb168169682631c93874c9bd8a97e74","ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/搜狐.js"},
      {"key": "南瓜","name": "南瓜≛南瓜","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","api": "csp_NanGua","ext": "null$$$1"},
-   //{"key": "996影院","name": "996影院","type": 3,"api": "csp_Cs1369","jar":"https://agit.ai/wekeyfisrt/PIG/raw/branch/master/pg.jar","searchable": 1,"changeable": 1},
+   //{"key": "996影院","name": "996影院","type": 3,"api": "csp_Cs1369","jar":./jcsq.jar","searchable": 1,"changeable": 1},
 	   {"key": "FirstAid","name": " 急救≛知识 ","type": 3,"api": "csp_FirstAid","jar":"https://agit.ai/wekeyfisrt/PIG/raw/branch/master/pg.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
    //{"key":"盘99","name": "盘盘≛99","type":3,"api": "csp_Pan99","searchable":1,"changeable":0,"ext":"./token.txt","jar":"./cat/99.jar"},
    //{"key": "蝴蝶", "name": "蝴蝶≛蝴蝶","type": 3,"api": "csp_Hudie","playerType": 2,"jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/lib/fty.jar","ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"},
