@@ -48,7 +48,7 @@
             {"key": "疼疼","name": "疼疼≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/疼疼.js"},
             {"key": "阿里云集合","name": "阿里≛云集合","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
             {"key":"csp_FanYY","name":"玩偶≛影视","type": 3,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
-            {"key": "网盘配置","name": "网盘及彈幕配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext": "./lib/tokenm.json"},
+            {"key": "网盘配置","name": "网盘及彈幕配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext": "https://agit.ai/wekeyfisrt/ziyongGH/raw/branch/main/PG/lib/tokenm.json"},
           //{"key": "csp_KungFu404","name":"阿狸设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./fan.txt"},
      //   ##官源系列
      
