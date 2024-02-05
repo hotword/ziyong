@@ -46,7 +46,7 @@
           //{"key": "搜狐资源","name": "️搜狐≛影视","type": 1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
             {"key": "三六资源","name": "三六≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/三六资源.js"},
             {"key": "疼疼","name": "疼疼≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/疼疼.js"},
-            	{"key": "dr_酷云77","name": "💋┃酷云77┃官源","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar","ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/酷云77.js"},
+            {"key": "dr_酷云77","name": "酷云≛七七","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar","ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/酷云77.js"},
             
             //阿里云盘
             {"key": "阿里云集合","name": "阿里≛云集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
@@ -157,7 +157,7 @@
           {"key": "subaibai","name": "素白≛猫猫","jar":"./fan.txt","type": 3,"api": "./cat/subaibai_open.js","categories": ["国产剧","电影","电视剧","动漫剧"]},
           {"key": "csp_JianPian","name": "荐片≛蓝光","type": 3,"api": "csp_JianPian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","电影","动漫","综艺"]},
           {"key": "nangua","name": "南瓜≛猫猫","type": 3,"jar":"./fan.txt","api": "./cat/ng_open.js","categories": ["电视剧","电影","综艺","动漫"]},
-          {"key": "kunyu77","name": "酷云≛七七","type": 3,"jar":"./jcsq.jar","api": "./cat/kunyu77_open.js"},
+        //{"key": "kunyu77","name": "酷云≛七七","type": 3,"jar":"./jcsq.jar","api": "./cat/kunyu77_open.js"},
           {"key": "kkys","name": "快看≛猫猫","type": 3,"jar":"./fan.txt","api": "./cat/kkys_open.js"},
           {"key": "csp_SeedHub","name": "SED≛蓝光","type": 3,"api": "csp_SeedHub", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
           {"key": "csp_Xunlei8","name": "迅雷≛蓝光","type": 3,"api": "csp_Xunlei8","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
