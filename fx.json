@@ -154,7 +154,7 @@
           {"key": "subaibai","name": "素白≛猫猫","jar":"./fan.txt","type": 3,"api": "./cat/subaibai_open.js","categories": ["国产剧","电影","电视剧","动漫剧"]},
           {"key": "csp_JianPian","name": "荐片≛蓝光","type": 3,"api": "csp_JianPian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["电视剧","电影","动漫","综艺"]},
           {"key": "nangua","name": "南瓜≛猫猫","type": 3,"jar":"./fan.txt","api": "./cat/ng_open.js","categories": ["电视剧","电影","综艺","动漫"]},
-          {"key": "kunyu77","name": "酷云≛七七","type": 3,"jar":"./ok.png","api": "./cat/kunyu77_open.js"},
+          {"key": "kunyu77","name": "酷云≛七七","type": 3,"jar":"./jcsq.jar","api": "./cat/kunyu77_open.js"},
           {"key": "kkys","name": "快看≛猫猫","type": 3,"jar":"./fan.txt","api": "./cat/kkys_open.js"},
           {"key": "csp_SeedHub","name": "SED≛蓝光","type": 3,"api": "csp_SeedHub", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
           {"key": "csp_Xunlei8","name": "迅雷≛蓝光","type": 3,"api": "csp_Xunlei8","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
