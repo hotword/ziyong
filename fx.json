@@ -46,7 +46,7 @@
           //{"key": "搜狐资源","name": "️搜狐≛影视","type": 1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
             {"key": "三六资源","name": "三六≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/三六资源.js"},
             {"key": "疼疼","name": "疼疼≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/疼疼.js"},
-            {"key": "阿里云集合","name": "阿里≛云集合","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
+            {"key": "阿里云集合","name": "阿里≛云集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
             {"key":"csp_FanYY","name":"玩偶≛影视","type": 3,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
             {"key": "网盘配置","name": "网盘≛配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext": "./json/tokenm.json"},
           //{"key": "csp_KungFu404","name":"阿狸设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./fan.txt"},
