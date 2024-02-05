@@ -47,6 +47,7 @@
             {"key": "三六资源","name": "三六≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/三六资源.js"},
             {"key": "疼疼","name": "疼疼≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/疼疼.js"},
             {"key": "阿里云集合","name": "阿里≛云集合","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
+            {"key":"csp_FanYY","name":"玩偶≛影视","type": 3,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
 
      //   ##官源系列
      
@@ -245,7 +246,6 @@
         //常用
        //{"key":"影视车","name":"🚌影视车┃转存万兆线路","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "jar":"./json/真心真语0204.jar","filterable":1, "timeout":30, "ext":"./token.txt$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
 	     //{"key": "玩偶哥哥","name": "👽玩偶哥哥┃原画千兆线路","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"jar":"./json/真心真语0204.jar","changeable": 0, "ext": "./token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
-		   //{"key":"csp_FanYY","name":"👽玩偶哥┃影视","type": 3,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
        //{"key":"Wogg","name":"💁🏻‍♂️玩偶哥哥┃转存万兆线路","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "jar":"https://agit.ai/wekeyfisrt/ziyongGH/raw/branch/main/PG/pg.jar","timeout":30, "ext":"./token.txt$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
 		   //{"key":"Wobg","name":"💇🏻‍♀️玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "jar":"https://agit.ai/wekeyfisrt/ziyongGH/raw/branch/main/PG/pg.jar","timeout":30, "ext":"./token.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
 		    
