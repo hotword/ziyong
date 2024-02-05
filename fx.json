@@ -135,7 +135,7 @@
           {"key": "csp_XBPQ_短剧","name": "种子≛短剧","type": 3,"api": "csp_XBPQ","jar": "./lib/xbpq.jar",     "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"分类url":"http://web.zzdj.cc/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html","分类":"快手$2#抖音$3#都市$4#古装$5#重生$6#逆袭$7#虐恋$8#萌宝$9#言情$10#穿越$11#战神$12#神医$13#赘婿$14#甜宠$15#其它$16#短剧$1","搜索url":"http://web.zzdj.cc/index.php/vod/search.html?wd={wd}"}},   
           {"key":"喵物","name":"喵物≛动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./cat/喵物次元.js"},
         //{"key": "sohu","name": "搜搜≛搜搜","type": 1,"api": "http://tvbox-1-g5221611.deta.app/vod/sohu","jar":"./ok.png","searchable": 1,"quickSearch": 1,"playUrl": "json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},  
-          {"key":"SG","name":"狗狗≛狗狗","type":3,"api":"http://vip.weixine.link:88/js/lib/drpy2.min.js","jar":"./ok.png","ext":"http://vip.weixine.link:88/js/caigou.js"},
+        //{"key":"SG","name":"狗狗≛狗狗","type":3,"api":"http://vip.weixine.link:88/js/lib/drpy2.min.js","jar":"./ok.png","ext":"http://vip.weixine.link:88/js/caigou.js"},
           {"key":"csp_MeiJu69","name":"♋️69≛美剧","jar":"https://jihulab.com/0004/0/-/raw/main/0.txt","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
           {"key": "csp_XYQHikerdyx","name": "电影≛港湾","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://download.kstore.space/download/4127/js/电影港.json","jar":"./jcsq.jar"},
           {"key": "追忆","name": "追忆≛影视","type": 3,"api": "./lib/drpy2.min.js","jar":"./fan.txt","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/zhuiyi.js"},
