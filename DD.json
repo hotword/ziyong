@@ -29,7 +29,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/",
-      "jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A"
+      "jar": "http://meowtv.cn/meow3"
     },
     {
       "key": "meowtv_Atys",
@@ -79,7 +79,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A"
+      "jar": "http://meowtv.cn/meow3"
     },
     {
       "key": "meowtv_yqks",
@@ -108,7 +108,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.meowtv.cn/xp/哔嘀影视.json",
-      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "http://meowtv.cn/meow4"
     },
     {
       "key": "meowtv_jlys",
@@ -168,7 +168,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "http://meowtv.cn/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+      "jar": "http://meowtv.cn/meow2"
     },
     {
       "key": "meowtv_nmys",
@@ -209,7 +209,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.meowtv.cn/xp/蓝光电影.json",
-      "jar": "http://meowtv.cn/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+      "jar": "http://meowtv.cn/meow2"
     },
     {
       "key": "meowtv_hxys",
@@ -250,7 +250,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.meowtv.cn/xp/爱看影视.json",
-      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "http://meowtv.cn/meow4"
     },
     {
       "key": "meowtv_scys",
@@ -271,7 +271,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.meowtv.cn/xp/素白影视.json",
-      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "http://meowtv.cn/meow4"
     },
     {
       "key": "meowtv_tvbb",
@@ -312,7 +312,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://cdn.meowtv.cn/xp/蘑菇影视.json",
-      "jar": "http://meowtv.cn/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+      "jar": "http://meowtv.cn/meow2"
     },
     {
       "key": "meowtv_adys",
@@ -376,7 +376,7 @@
         "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
         "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
       },
-      "jar": "http://meowtv.cn/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+      "jar": "http://meowtv.cn/meow2"
     },
     {
       "key": "meowtv_yszj",
@@ -387,7 +387,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/",
-      "jar": "http://meowtv.cn/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+      "jar": "http://meowtv.cn/meow2"
     },
     {
       "key": "meowtv_mmys",
@@ -398,7 +398,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
-      "jar": "http://meowtv.cn/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+      "jar": "http://meowtv.cn/meow2"
     },
     {
       "key": "meowtv_69mj",
@@ -409,7 +409,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.69mj.com/xgapp.php/v2/",
-      "jar": "http://meowtv.cn/meow2;md5;3BF23E86FE87305252E9D469ABF751C5"
+      "jar": "http://meowtv.cn/meow2"
     },
     {
       "key": "meowtv_A8ys",
@@ -420,7 +420,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod",
-      "jar": "http://meowtv.cn/meow4;md5;369DE8C4321A5C0ED6E7497F93863319"
+      "jar": "http://meowtv.cn/meow4"
     },
     {
       "key": "meowtv_cgys",
@@ -1098,7 +1098,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+      "ext": "./token.txt+4k|auto|fhd"
     },
     {
       "key": "meowtv_ysss",
@@ -1108,7 +1108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+      "ext": "./token.txt+4k|auto|fhd"
     },
     {
       "key": "meowtv_Psss",
@@ -1118,7 +1118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+      "ext": "./token.txt+4k|auto|fhd"
     },
     {
       "key": "meowtv_qyss",
@@ -1128,7 +1128,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+      "ext": "./token.txt+4k|auto|fhd"
     },
     {
       "key": "push_agent",
@@ -1138,7 +1138,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
+      "ext": "./token.txt+4k|auto|fhd"
     }
   ],
   "parses": [
@@ -1164,7 +1164,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "http://meowtv.cn/meow1;md5;D1115D99527D75948D095085B1407ADD",
+  "spider": "http://meowtv.cn/meow1",
   "wallpaper": "http://tool.teyonds.com/api",
   "ijk": [
     {
