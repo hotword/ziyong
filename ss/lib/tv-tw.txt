@@ -1,0 +1,12 @@
+新聞台,#genre#
+TVBS新聞台,https://is.gd/8sZhQT
+三立新聞台,https://is.gd/5gSWxu
+EBC東森新聞台,https://is.gd/t099Lq
+EBC東森財經新聞,https://is.gd/ntxl6L
+台視新聞台,https://is.gd/i3oHSY
+CTV中視新聞台,https://is.gd/t0Veyz
+寰宇新聞台,https://is.gd/WKwa0y
+
+音樂頻道,#genre#
+Lofi-Radio,https://is.gd/IjB5I0
+Synthwave-Radio,https://is.gd/x5bErq
