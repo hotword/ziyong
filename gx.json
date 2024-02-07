@@ -70,10 +70,11 @@
             "spider":"https://jihulab.com/0004/0/-/raw/main/0.txt",
             "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
-         {"key": "csp_XYQHiker_beautyleg","name": "腿模≛腿模","type": 3,"api": "csp_XYQHiker","searchable": 1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar","quickSearch": 1,"filterable": 1,"ext": "./cat/beautyleg.json"},
+         //{"key": "csp_XYQHiker_beautyleg","name": "腿模≛腿模","type": 3,"api": "csp_XYQHiker","searchable": 1,"jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar","quickSearch": 1,"filterable": 1,"ext": "./cat/beautyleg.json"},
 
-        {"key":"996影视","name":"996≛影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li class=\"col-md-6 col-sm-4 col-xs-3&&</li>","简介":"<p class=\"col-pd&&</p>","分类url":"https://www.cs1369.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&动漫&爽文短剧","分类值":"1&2&3&4"}},
-     
+        //{"key":"996影视","name":"996≛影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li class=\"col-md-6 col-sm-4 col-xs-3&&</li>","简介":"<p class=\"col-pd&&</p>","分类url":"https://www.cs1369.com/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&动漫&爽文短剧","分类值":"1&2&3&4"}},
+        { "key": "csp_libvio","name": "LIBVIO", "type": 3,  "api": "csp_XBPQ",  "jar":"./xbpq.jar","searchable": 1,  "quickSearch": 1,"filterable": 1, "ext": {"主页url":"https://www.libvio.one/","简介":"+简介&&</p>","影片状态":"备注：&&</div>","影片类型":"module-info-tag\">&&立即播放","线路标题":"[不包含:夸克]","分类url":"https://www.libvio.one/type/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/;;akd0","分类":"电影$1#电视剧$2#动漫$3#综艺$4"} },     
+
               {
             "key": "三六资源",
             "name": "三六≛资源",
