@@ -106,7 +106,7 @@
             {"key": "csp_Mp4Mov","name": "Mp4≛蓝光","type": 3,"api": "csp_Mp4Mov","categories": ["电视剧","动作片","喜剧片","战争片"],"searchable": 1,"quickSearch": 1,"filterable": 1},
             {"key":"蜜果视界","name":"蜜果≛蜜果","api":"csp_AppYsV2","type":3,"ext":"https://miguo.pro/api.php/v1.vod"},
             {"key": "ksxjj","name": "快手≛姐姐","type": 4,"api": "http://120.53.102.254/dsp/","searchable": 1,"quickSearch": 1,"filterable": 1},
-         
+            { "key": "量子", "name": "量子≛短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
           //#优质站点1
         //{"key": "csp_XYQHiker_BT天堂","name":"BT≛天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/BT天堂.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar"},
           {"key":"csp_Mp4Mov","name":"Mp4≛电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
