@@ -45,7 +45,7 @@
           //{"key": "三六资源","name": "三六≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/三六资源.js"},
           //{"key": "疼疼","name": "疼疼≛资源","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/疼疼.js"},
           //{"key": "dr_酷云77","name": "酷云≛七七","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar","ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/酷云77.js"},
-            {"key": "JOJO","name": "JOJO≛直连","type": 3,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a","api": "csp_JOJO","searchable": 1,"quickSearch": 1,"changeable": 1},
+            {"key": "JOJO","name": "JOJO≛直连","type": 3,"api": "csp_JOJO","searchable": 1,"quickSearch": 1,"changeable": 1},
 		        {"key": "Bdys_spider","name": "哔滴≛直连","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/$$$null$$$1"},
             
             //阿里云盘
