@@ -48,8 +48,8 @@
           //{"key":"csp_XYQHikerAL_土豆阿里","name":"土豆≛阿里","type":3,"api":"csp_XYQHikerAL","jar":"./tudou.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/xyqha_土豆阿里.json"},
 
      //   ##官源系列
-            {"key": "360_spider","name": "三六≛资源","type": 3,"api": "csp_SP360","style": {"type": "rect","ratio": 1.33},"filterable": 1,"quickSearch": 1,"jar":"./官源.jar","searchable": 1},
-            {"key": "lf_js_search","name": "搜索 | lf_search","type": 3,"searchable": 0,"changeable": 1,"quickSearch": 0,"filterable": 0,"jar":"./官源.jar","api": "./lib/lf_search3_min.js"},
+            {"key": "360_spider","name": "三六≛资源","type": 3,"api": "csp_SP360","style": {"type": "rect","ratio": 1.33},"filterable": 1,"quickSearch": 1,"jar":"./jcsq.jar","searchable": 1},
+          //{"key": "lf_js_search","name": "搜索 | lf_search","type": 3,"searchable": 0,"changeable": 1,"quickSearch": 0,"filterable": 0,"jar":"./官源.jar","api": "./lib/lf_search3_min.js"},
             {"key": "csp_SP2345","name": "2345≛影视","type": 3,"api": "csp_SP2345","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./官源.jar"},
             {"key": "神奇影院","name": "神奇≛秒播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./官源.jar","ext": "http://cms.shenqi4k.cc/api.php/app/"},
             {"key": "疼疼","name": "腾腾≛资源","type": 3,"api": "csp_QQ","style": {"type": "rect","ratio": 1.33},"searchable": 1,"filterable": 1,"jar":"./官源.jar","changeable": 1},
