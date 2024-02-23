@@ -36,6 +36,7 @@
 		        {"key": "Bdys_spider","name": "哔滴≛直连","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/$$$null$$$1"},
             {"key": "贱贱","name": "贱贱≛采集","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
             {"key": "csp_SP33","name": "三三≛采集","type": 3,"api": "csp_SP33","searchable": 1,"jar":"http://www.wya6.cn/tz/wyz.php","quickSearch": 1,"filterable": 1,"changeable": 0},
+               {"key": "55","name": "影视≛五五","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"./cat/xbpq.jar","ext": {"主页url":"https://www.55kan.com/","简介":"++<p class=\"col-pd\"&&</p>","导演":"导演：&&</p>","主演":"主演：&&</p>","线路数组":"<h3 class=\"title\">&&/h3>","线路标题":"线路","分类url":"https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
             //阿里云盘
             {"key": "阿里云集合","name": "阿里≛云集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
             {"key":"csp_FanYY","name":"玩偶≛影视","type": 3,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
