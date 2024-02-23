@@ -6,7 +6,9 @@
      "spider":"https://agit.ai/wekeyfisrt/ziyongGH/raw/branch/main/PG/pg.jar",
     "lives": [
         {"name":"运输车线路","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
-        {"name":"wfliving","type":"0","url":"./lib/wfliving.txt"},
+        {"name":"直播1","type":"0","url":"https://tang.serv00.net/zb/1"},
+        {"name":"直播2","type":"0","url":"https://tang.serv00.net/zb/2"},
+        {"name":"直播3","type":"0","url":"https://tang.serv00.net/zb/3"},
         {"name":"wtv","type":"0","url":"https://iptv.lysvc.cc/tvbox/%E6%B0%B8%E4%B9%85%E6%BA%90/wtv.txt"},
         {"name":"FAN-IPV6","type":"0","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
         {"name":"FAN-radio","type":"0","url":"https://live.fanmingming.com/radio/m3u/index.m3u"},
