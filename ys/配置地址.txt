@@ -1,0 +1,1 @@
+clan://localhost/tvbox/ys/ys.json
