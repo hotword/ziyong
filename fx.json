@@ -229,6 +229,7 @@
       {"name": "WEB聚合","type": 3,"url": "Web"},
       {"name":"自动解析","type":3,"url":"Demo"},
       {"name":"自动并发","type": 2,"url": "Parallel"},
+    //{"name":"解析","type":0,"url":"","ext":{"flag":["qq","qiyi","mgtv","youku"],"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","Referer":""}}},
     //{"name":"自动轮询","type": 2,"url": "Sequence"},
     //{"name":"超人解析","type":3,"url":"Web"},
       {"name":"神秘的哥哥们","type":1,"url":"http://api.888484.xyz/神秘哥哥/super.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
