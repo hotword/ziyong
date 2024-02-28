@@ -9,10 +9,12 @@
       "ua": "okhttp/4.18",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+    },
+        {"name":"酒店1","type":"0","url":"https://agit.ai/wekeyfisrt/hkt/raw/branch/main/live/live.js"},
+        {"name":"酒店2","type":"0","url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"}
   ],
   "wallpaper": "http://xxtvys.cn/app/dttp/dtai.php",
-  "warningText": "沐沐出品，必属精品。",
+  "warningText": "沐沐",
   "sites": [
     {
       "key": "豆豆",
