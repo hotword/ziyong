@@ -1,0 +1,9 @@
+https://jihulab.com/lolo/lolo/-/raw/main/js/js/哔哩真播.js
+https://jihulab.com/lolo/lolo/-/raw/main/js/js/斗鱼真播.js
+https://jihulab.com/lolo/lolo/-/raw/main/js/js/虎牙真播.js
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/310真播.js
+https://jihulab.com/lolo/lolo/-/raw/main/js/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json
+https://jihulab.com/lolo/lolo/-/raw/main/js/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json
+https://jihulab.com/lolo/lolo/-/raw/main/js/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json
+https://jihulab.com/lolo/lolo/-/raw/main/js/lib/live.ipv6.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json
