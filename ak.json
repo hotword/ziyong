@@ -8,7 +8,7 @@
 "sites": [ { "key": "豆瓣推荐", "name": "豆瓣推荐", "type": 3, "api": "./json/drpy2.min.js", "ext": "./json/douban.js", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 
 {"key": "AppYs_南瓜","name": "南瓜影视","type": 3,"playerType": 2,"api": "./json/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "./json/nangua.js"},
-
+{"key":"安博影视","name":"安博影视(T4)","type": 4,"api":"https://tang.serv00.net/power/ub1818","searchable": 1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key": "毛驴", "name": "毛驴影视", "type": 3, "api": "csp_MLYS", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.maolvys.com/" }, 
 
 {"key": "纽约影院","name": "纽约影院","type": 3,"api": "./json/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./json/NY.js"},
