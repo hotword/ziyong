@@ -204,7 +204,8 @@
         {"key": "drpy_js_海洋听书","name": "海洋≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/海洋听书.js","playerType": "2"},
         {"key": "drpy_js_六月听书","name": "六月≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/六月听书.js","playerType": "2"},
         {"key": "drpy_js_有声小说","name": "有声≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/有声小说吧.js","playerType": "2"},
-        {"key": "音乐台","name": "音乐台","type": 3,"api": "./cat/yinyuetai_open.js","searchable": 1,"changeable": 0},
+        {"key": "B站","name": "音乐≛合集","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.5},"searchable": 0,"ext": "./json/音乐.json"},
+        {"key": "音乐台","name": "音乐≛音台","type": 3,"api": "./cat/yinyuetai_open.js","searchable": 1,"changeable": 0},
         {"key": "230ts","name": "爱上≛听书","type": 3,"api": "./cat/230ts_open.js"}
         
     ],
