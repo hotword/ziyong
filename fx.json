@@ -43,7 +43,9 @@
           //{"key":"csp_xBPQ_可可影视","name":"可可≛影视","type":3,"api":"csp_xBPQ","jar":"./cat/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
             {"key":"柠檬","name":"柠檬≛影视","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"./lab/fix24225.jar"},
             {"key":"圣城","name":"圣城≛影视","type":3,"searchable":1,"quickSearch":1,"jar":"./cat/xbpq.jar","changeable":1,"api":"csp_XBPQ","ext": {"数组":"cover&&item\"","副标题":"item-text\"&&<","线路数组":"dropdown&&</div>[排序:乐视>蓝光>索尼>量子>]","线路标题":"<span>&&</small>[替换:</span><small>>><]+集>","分类url": "https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;mak","分类": "电影$1#剧集$2#综艺$3#动漫$4#纪实$5"}},
-            {"key":"白嫖","name":"白嫖≛影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lab/fix24225.jar"},
+            {"key":"白嫖","name":"白嫖≛影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1},
+            {"key":"云2","name":" ‍梦影≛梦梦","type":3,"api":"csp_Movie2","jar":"./jar.php","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"},
+           
             //阿里云盘
             {"key": "阿里云集合","name": "阿里≛云集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
             {"key":"csp_FanYY","name":"玩偶≛影视","type": 3,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
@@ -121,7 +123,7 @@
             {"key": "csp_New6v","name": "新6V≛蓝光","type": 3,"api": "csp_New6v","categories": ["电视剧","国剧","喜剧片","战争片"],"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.xb6v.com"},
             {"key": "csp_Mp4Mov","name": "Mp4≛蓝光","type": 3,"api": "csp_Mp4Mov","categories": ["电视剧","动作片","喜剧片","战争片"],"searchable": 1,"quickSearch": 1,"filterable": 1},
             {"key":"蜜果视界","name":"蜜果≛蜜果","api":"csp_AppYsV2","type":3,"ext":"https://miguo.pro/api.php/v1.vod"},
-            {"key": "ksxjj","name": "快手≛姐姐","type": 4,"api": "http://120.53.102.254/dsp/","searchable": 1,"quickSearch": 1,"filterable": 1},
+          //{"key": "ksxjj","name": "快手≛姐姐","type": 4,"api": "http://120.53.102.254/dsp/","searchable": 1,"quickSearch": 1,"filterable": 1},
             { "key": "量子", "name": "量子≛短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
           //#优质站点1
         //{"key": "csp_XYQHiker_BT天堂","name":"BT≛天堂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/BT天堂.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar"},
