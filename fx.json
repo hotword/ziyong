@@ -7,7 +7,7 @@
     "lives": [
         {"name":"运输车线路","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
         {"name":"直播4","type":"0","url":"https://agit.ai/wekeyfisrt/hkt/raw/branch/main/live/live.js"},
-        {"name":"酒店源","type":"0","url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt "},
+        {"name":"酒店","type":"0","url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt "},
         
         {"name":"wtv","type":"0","url":"https://iptv.lysvc.cc/tvbox/%E6%B0%B8%E4%B9%85%E6%BA%90/wtv.txt"},
         {"name":"FAN-IPV6","type":"0","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
@@ -43,7 +43,7 @@
           //{"key":"csp_xBPQ_可可影视","name":"可可≛影视","type":3,"api":"csp_xBPQ","jar":"./cat/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
             {"key":"柠檬","name":"柠檬≛影视","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"./lab/fix24225.jar"},
             {"key":"圣城","name":"圣城≛影视","type":3,"searchable":1,"quickSearch":1,"jar":"./cat/xbpq.jar","changeable":1,"api":"csp_XBPQ","ext": {"数组":"cover&&item\"","副标题":"item-text\"&&<","线路数组":"dropdown&&</div>[排序:乐视>蓝光>索尼>量子>]","线路标题":"<span>&&</small>[替换:</span><small>>><]+集>","分类url": "https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;mak","分类": "电影$1#剧集$2#综艺$3#动漫$4#纪实$5"}},
-            {"key":"白嫖","name":"白嫖影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lab/fix24225.jar"},
+            {"key":"白嫖","name":"白嫖≛影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lab/fix24225.jar"},
             //阿里云盘
             {"key": "阿里云集合","name": "阿里≛云集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
             {"key":"csp_FanYY","name":"玩偶≛影视","type": 3,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
