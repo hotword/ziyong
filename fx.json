@@ -50,7 +50,7 @@
           //{"key":"白嫖","name":"白嫖≛影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1},
             {"key": "享看资源","name": "享看≛资源","type": 1,"api": "https://xkanzy10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
             {"key": "韩剧资源","name": "韩剧≛资源","type": 1,"api": "https://www.hanjuzy.com/inc/apijson_vod.php","searchable": 1,"quickSearch": 1},
-            {"key":"csp_XYQH_可可影视","name":"可可≛影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/可可影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
+          //{"key":"csp_XYQH_可可影视","name":"可可≛影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/可可影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
 
 
             //阿里云盘
