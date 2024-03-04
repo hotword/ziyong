@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-   //"spider": "./jcsq.jar",
+     //"spider": "./jcsq.jar",
    //"spider": "http://home.jundie.top:81/jar/top98_1.jar",
      //"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt",
      "spider":"https://agit.ai/wekeyfisrt/ziyongGH/raw/branch/main/PG/pg.jar",
@@ -185,11 +185,11 @@
 
           //动漫
           {"key":"csp_xpath_网络搜集源21","name":"樱花≛动漫","type":3,"jar":"./fan.txt","api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/樱花动漫.json"},
-          {"key":"csp_xpath_A32","name":"动漫≛岛[XP]","type":3,"api":"csp_XPath","jar":"./fan.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/604-dmd.js"},
-          {"key":"csp_xpath_网络搜集源22","name":"巴士≛动漫","type":3,"jar":"./fan.txt","api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/604-dm84.js"},
-          {"key":"csp_xpath_网络搜集源23","name":"AGE≛动漫","type":3,"jar":"./fan.txt","api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/604-age.js"},
+        //{"key":"csp_xpath_A32","name":"动漫≛岛[XP]","type":3,"api":"csp_XPath","jar":"./fan.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/604-dmd.js"},
+        //{"key":"csp_xpath_网络搜集源22","name":"巴士≛动漫","type":3,"jar":"./fan.txt","api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/604-dm84.js"},
+        //{"key":"csp_xpath_网络搜集源23","name":"AGE≛动漫","type":3,"jar":"./fan.txt","api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/604-age.js"},
           {"key":"csp_biubiu_风车动漫","name":"风车≛动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/d05-fcdm.js","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
-          {"key":"csp_biubiu_维奇动漫","name":"维奇≛动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/d03-wqdm.js","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
+        //{"key":"csp_biubiu_维奇动漫","name":"维奇≛动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/d03-wqdm.js","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
           {"key":"喵物","name":"喵物≛动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./cat/喵物次元.js"},
 
 //听书
