@@ -48,6 +48,10 @@
           //{"key":"csp_xBPQ_可可影视","name":"可可≛影视","type":3,"api":"csp_xBPQ","jar":"./cat/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
           //{"key":"圣城","name":"圣城≛影视","type":3,"searchable":1,"quickSearch":1,"jar":"./cat/xbpq.jar","changeable":1,"api":"csp_XBPQ","ext": {"数组":"cover&&item\"","副标题":"item-text\"&&<","线路数组":"dropdown&&</div>[排序:乐视>蓝光>索尼>量子>]","线路标题":"<span>&&</small>[替换:</span><small>>><]+集>","分类url": "https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;mak","分类": "电影$1#剧集$2#综艺$3#动漫$4#纪实$5"}},
           //{"key":"白嫖","name":"白嫖≛影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1},
+            {"key": "享看资源","name": "享看≛资源","type": 1,"api": "https://xkanzy10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+            {"key": "韩剧资源","name": "韩剧≛资源","type": 1,"api": "https://www.hanjuzy.com/inc/apijson_vod.php","searchable": 1,"quickSearch": 1},
+            {"key":"csp_XYQH_可可影视","name":"可可≛影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/可可影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
+
 
             //阿里云盘
             {"key": "阿里云集合","name": "阿里≛云集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
@@ -58,6 +62,7 @@
 		        {"key":"AliShareEBook","name":"阿里≛书籍","type":3,"api":"csp_AliShare","jar":"./pg.jar","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/alishare.ebook.txt"},
 	        	{"key":"QuarkShare","name":"夸克≛云盘","type":3,"api":"csp_QuarkShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/quarkshare.txt"},
 		        {"key":"ThunderShare","name":"迅雷≛云盘","type":3,"api":"csp_ThunderShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/thundershare.txt"},
+
 
      //   ##官源系列
             {"key": "360_spider","name": "三六≛资源","type": 3,"api": "csp_SP360","style": {"type": "rect","ratio": 1.33},"filterable": 1,"quickSearch": 1,"jar":"./jcsq.jar","searchable": 1},
@@ -152,7 +157,6 @@
           {"key":"csp_XYQH_奇优","name":"奇优≛影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/qiyou.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
           {"key":"drpy_网飞","name":"网飞≛TV","type":3,"jar":"./fan.txt","api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/dr_py/main/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/drpyjs/网飞.TV.js"},
           {"key":"csp_XYQH_看片狂人","name":"看片≛狂人","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/看片狂人.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
-          {"key":"csp_XYQH_可可影视","name":"可可≛影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/可可影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
           {"key":"csp_XYQH_dyssA","name":"电影≛先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/电影先生2.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
           {"key":"csp_XYQH_dyssB","name":"电影≛女士","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/电影先生.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
           {"key":"csp_biubiu_去看吧","name":"去看≛吧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/去看吧.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
