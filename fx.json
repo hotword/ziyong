@@ -163,11 +163,10 @@
             {"key":"csp_biubiu_风车动漫","name":"风车≛动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/d05-fcdm.js","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
             {"key":"喵物","name":"喵物≛动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./cat/喵物次元.js"},
 
-//听书
+          //听书
             {"key": "drpy_js_海洋听书","name": "海洋≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/海洋听书.js","playerType": "2"},
             {"key": "drpy_js_六月听书","name": "六月≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/六月听书.js","playerType": "2"},
             {"key": "drpy_js_有声小说","name": "有声≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/有声小说吧.js","playerType": "2"},
-            {"key": "B站","name": "音乐≛合集","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.5},"searchable": 0,"ext": "./json/音乐.json"},
             {"key": "音乐台","name": "音乐≛音台","type": 3,"api": "./cat/yinyuetai_open.js","searchable": 1,"changeable": 0},
             {"key": "230ts","name": "爱上≛听书","type": 3,"api": "./cat/230ts_open.js"}
         
