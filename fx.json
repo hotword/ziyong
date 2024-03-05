@@ -70,7 +70,7 @@
           //{"key":"白嫖","name":"白嫖≛影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1},
             {"key": "享看资源","name": "享看≛影视","type": 1,"api": "https://xkanzy10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
             {"key": "Fangniu4k","name": "影探≛影视","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar": "./lab/王二.jar"},
-            {"key": "TV酷（APP）","name": "特酷≛影视","type": 3,"api": "csp_AppYs","ext": "https://www.tvkuys.xyz/api.php/app/"}, 
+            {"key": "TV酷（APP）","name": "特酷≛影视","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"}, 
             {"key": "天天","name": "天天≛影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
             {"key": "蝴蝶","name": "蝴蝶≛影视","type": 3,"api": "csp_Hudie","playerType": 2,"ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"},
             {"key": "贱贱","name": "见见≛影视","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
