@@ -41,6 +41,7 @@
             {"key": "热播","name": "热播≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://v.rbotv.cn","jar":"./lab/fix24225.jar"},
             {"key": "追剧","name": "追剧≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://app.kzjtv.com","jar":"./lab/fix24225.jar"},
             {"key": "发电","name": "发电≛影视","type": 3,"api": "csp_Fdys","playerType": 2,"jar":"./lab/fix24225.jar"},
+            {"key": "JOJO","name": "走驺≛影视","type": 3,"api": "http://dt.xn--yety82d.love/js/jiohub.js","playerType": 1},
           //{"key":"蚂蚁","name":"蚂蚁≛影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://www.rzys.cc|rzys875|182","jar":"./lab/fix24225.jar"},
             {"key":"云2","name":" ‍梦影≛影视","type":3,"api":"csp_Movie2","jar":"./lab/jar.php","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"},
           //{"key":"csp_xBPQ_可可影视","name":"可可≛影视","type":3,"api":"csp_xBPQ","jar":"./cat/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
