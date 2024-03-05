@@ -102,7 +102,6 @@
             {"key":"csp_XYQH_dyssA","name":"电影≛先生","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/电影先生2.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
             {"key":"csp_XYQH_dyssB","name":"电影≛女士","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/电影先生.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
            
-            {"key": "南瓜","name": "南瓜≛南瓜","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","api": "csp_NanGua","ext": "null$$$1"},
     	      {"key": "FirstAid","name": " 急救≛知识 ","type": 3,"api": "csp_FirstAid","jar":"https://agit.ai/wekeyfisrt/PIG/raw/branch/master/pg.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
             {"key": "应用商店","name": "应用≛商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"jar":"./lib/fm1218.jar","ext": "http://81.68.89.191:16888/wocaonidayede/json/gengxin.json","style": {"type": "rect","ratio": 1}},
             {"key": "csp_SP2345","name": "2345≛影视","type": 3,"api": "csp_SP2345","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./官源.jar"},
@@ -121,14 +120,19 @@
             {"key": "duboku","name": "独播≛影视","type": 3,"api": "./cat/duboku_open.js","jar":"./fan.txt","categories": ["连续剧","陆剧","港剧","短剧"]},
             {"key": "subaibai","name": "素白≛影视","jar":"./fan.txt","type": 3,"api": "./cat/subaibai_open.js","categories": ["国产剧","电影","电视剧","动漫剧"]},
             {"key": "nangua","name": "南瓜≛影视","type": 3,"jar":"./fan.txt","api": "./cat/ng_open.js","categories": ["电视剧","电影","综艺","动漫"]},
-        
-            {"key": "量子", "name": "量子≛短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
+            {"key": "南瓜","name": "南瓜≛南瓜","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","api": "csp_NanGua","ext": "null$$$1"},
+
+            {"key":"csp_biubiu_真不卡kan8","name":"真不≛影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/真不卡kan8(ns).json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
+            {"key":"csp_XYQH_大米星球","name":"大米≛影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/Aifan.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
+            {"key":"csp_xpath_saohuotv","name":"骚火≛影视","jar":"./fan.txt","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXP/saohuotv2.json"},
             {"key":"csp_Mp4Mov","name":"视视≛电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
             {"key":"csp_SeedHub","name":"种子≛桥桥","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
             {"key":"csp_MeijuTT","name":"美剧≛天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
             {"key":"csp_XYQH_meijumi","name":"美剧≛迷迷","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/aifei.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
-            {"key":"csp_BLSGod","name":"80S≛影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
             
+            {"key": "量子", "name": "量子≛短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
+
+          //哔哩
             {"key": "drpy_js_blys","name": "哔哩≛影视","type": 3,"jar":"./fan.txt","api": "./lib/drpy2.min.js","ext": "./lib/blys.js"}, 
             {"key": "drpy_js_哔哩教育","name":"哔哩≛教育","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/哔哩教育.js"},
             {"key": "csp_哔哩戏曲","name": "哔哩≛戏曲","type": 3,"api": "csp_Bili","searchable": 0,"jar": "./哔哩.jar","quickSearch": 0,"filterable": 0,"ext": "./cat/Blixq.json"},
@@ -140,9 +144,7 @@
             {"key": "csp_Bili歌曲","name": "哔哩≛歌曲","type": 3,"api": "csp_Bili","searchable": 0,"jar":"./cat/b站.jar","quickSearch": 0,"filterable": 0,"ext": "./cat/歌曲.json"},
             {"key": "csp_Bili戏曲","name": "哔哩≛戏曲","type": 3,"api": "csp_Bili","searchable": 0,"jar":"./cat/b站.jar","quickSearch": 0,"filterable": 0,"ext": "./cat/戏曲.json"},
             {"key":"哔哩直播","name":"哔哩≛直播","type":3,"jar":"./cat/b站.jar","api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩直播.js"},          
-            {"key":"csp_biubiu_真不卡kan8","name":"真不≛影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/真不卡kan8(ns).json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
-            {"key":"csp_XYQH_大米星球","name":"大米≛影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/Aifan.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
-            {"key":"csp_xpath_saohuotv","name":"骚火≛影视","jar":"./fan.txt","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXP/saohuotv2.json"},
+            
           //{"key":"csp_xpath_kuqimv","name":"酷奇≛MV","type":3,"jar":"./fan.txt","api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MeowXP/kuqimv.json"},
 
             {"key":"csp_xpath_网络搜集库03","name":"影吧≛影视","type":3,"jar":"./fan.txt","api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXP/519-yingba.json"},
