@@ -112,7 +112,7 @@
             {"key": "nangua","name": "南瓜≛猫猫","type": 3,"jar":"./fan.txt","api": "./cat/ng_open.js","categories": ["电视剧","电影","综艺","动漫"]},
           //{"key": "kkys","name": "快看≛猫猫","type": 3,"jar":"./fan.txt","api": "./cat/kkys_open.js"},
         
-            {"key":"蜜果视界","name":"蜜果≛蜜果","api":"csp_AppYsV2","type":3,"ext":"https://miguo.pro/api.php/v1.vod"},
+          //{"key":"蜜果视界","name":"蜜果≛蜜果","api":"csp_AppYsV2","type":3,"ext":"https://miguo.pro/api.php/v1.vod"},
             { "key": "量子", "name": "量子≛短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
             {"key":"csp_Mp4Mov","name":"Mp4≛电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
             {"key":"csp_SeedHub","name":"Seed≛Hub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
