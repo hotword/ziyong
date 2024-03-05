@@ -46,6 +46,7 @@
             {"key":"圣城","name":"圣城≛影视","type":3,"searchable":1,"quickSearch":1,"jar":"./lab/cs.jar","changeable":1,"api":"./lib/drpy2.min.js"","ext": {"数组":"cover&&item\"","副标题":"item-text\"&&<","线路数组":"dropdown&&</div>[排序:乐视>蓝光>索尼>量子>]","线路标题":"<span>&&</small>[替换:</span><small>>><]+集>","分类url": "https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;mak","分类": "电影$1#剧集$2#综艺$3#动漫$4#纪实$5"}},
           //{"key":"白嫖","name":"白嫖≛影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1},
             {"key": "享看资源","name": "享看≛资源","type": 1,"api": "https://xkanzy10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+            {"key": "Fangniu4k","name": "影探资源","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar": "./lab/王二.jar"},
             {"key": "韩剧资源","name": "韩剧≛资源","type": 1,"api": "https://www.hanjuzy.com/inc/apijson_vod.php","jar":"./lab/cs.jar","searchable": 1,"quickSearch": 1},
           //{"key":"csp_XYQH_可可影视","name":"可可≛影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/可可影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
             {"key": "天天","name": "天天≛天天","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
