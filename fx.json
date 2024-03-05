@@ -64,7 +64,7 @@
             {"key": "发电","name": "发电≛影视","type": 3,"api": "csp_Fdys","playerType": 2,"jar":"./lab/fix24225.jar"},
             {"key": "JOJO","name": "走驺≛影视","type": 3,"api": "http://dt.xn--yety82d.love/js/jiohub.js","playerType": 1},
             {"key": "圣城影视","name": "圣城≛影视","type": 3,"playerType": "2","api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext": "http://dt.xn--yety82d.love/js/SC1080.js"},
-            {"key": "csp_麻瓜","name": "麻瓜≛影视","type": 3,"api": "csp_Lvdou","searchable": 1,"quickSearch": 0,"changeable": 0,"playerType": "1","ext": {"server": "https://4k.ysctv.cn/api.php/app/","mackey": "yingshichetvQ4Zi|PHRBxdt7PppocRJ5"}},
+          //{"key": "csp_麻瓜","name": "麻瓜≛影视","type": 3,"api": "csp_Lvdou","searchable": 1,"quickSearch": 0,"changeable": 0,"playerType": "1","ext": {"server": "https://4k.ysctv.cn/api.php/app/","mackey": "yingshichetvQ4Zi|PHRBxdt7PppocRJ5"}},
             {"key":"云2","name":" ‍梦影≛影视","type":3,"api":"csp_Movie2","jar":"./lab/jar.php","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"},
           //{"key":"csp_xBPQ_可可影视","name":"可可≛影视","type":3,"api":"csp_xBPQ","jar":"./cat/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
           //{"key":"白嫖","name":"白嫖≛影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1},
