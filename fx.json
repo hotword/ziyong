@@ -42,13 +42,12 @@
             {"key": "追剧","name": "追剧≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://app.kzjtv.com","jar":"./lab/fix24225.jar"},
             {"key": "发电","name": "发电≛影视","type": 3,"api": "csp_Fdys","playerType": 2,"jar":"./lab/fix24225.jar"},
             {"key": "JOJO","name": "走驺≛影视","type": 3,"api": "http://dt.xn--yety82d.love/js/jiohub.js","playerType": 1},
-          //{"key":"蚂蚁","name":"蚂蚁≛影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://www.rzys.cc|rzys875|182","jar":"./lab/fix24225.jar"},
+            {"key": "圣城影视","name": "圣城≛影视","type": 3,"playerType": "2","api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js","ext": "http://dt.xn--yety82d.love/js/SC1080.js"},
             {"key":"云2","name":" ‍梦影≛影视","type":3,"api":"csp_Movie2","jar":"./lab/jar.php","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"},
           //{"key":"csp_xBPQ_可可影视","name":"可可≛影视","type":3,"api":"csp_xBPQ","jar":"./cat/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
           //{"key":"白嫖","name":"白嫖≛影视","type":3,"api":"csp_baipiao","searchable":1,"quickSearch":1,"filterable":1},
             {"key": "享看资源","name": "享看≛影视","type": 1,"api": "https://xkanzy10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
             {"key": "Fangniu4k","name": "影探≛影视","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar": "./lab/王二.jar"},
-          //{"key":"csp_XYQH_可可影视","name":"可可≛影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/可可影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
             {"key": "天天","name": "天天≛影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
             {"key": "蝴蝶","name": "蝴蝶≛影视","type": 3,"api": "csp_Hudie","playerType": 2,"ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1"},
             {"key": "贱贱","name": "见见≛影视","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./lib/drpy2.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
@@ -60,8 +59,6 @@
           //{"key":"PikPakShare","name":"PP≛分享","type":3,"api":"csp_PikPakShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.txt.gz"},
 	        	{"key":"AliShare","name":"阿里≛影视","type":3,"api":"csp_AliShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/alishare.txt"},
 		      //{"key":"AliShareEBook","name":"阿里≛书籍","type":3,"api":"csp_AliShare","jar":"./pg.jar","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/alishare.ebook.txt"},
-	        //{"key":"QuarkShare","name":"夸克≛云盘","type":3,"api":"csp_QuarkShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/quarkshare.txt"},
-		      //{"key":"ThunderShare","name":"迅雷≛云盘","type":3,"api":"csp_ThunderShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/thundershare.txt"},
 
 
      //   ##官源系列
