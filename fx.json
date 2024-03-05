@@ -5,11 +5,11 @@
      //"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt",
      "spider":"https://agit.ai/wekeyfisrt/ziyongGH/raw/branch/main/PG/pg.jar",
     "lives": [
-        {"name":"运输车线路","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
+        {"name":"运输","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
         {"name":"宁宁","type":"0","url":"https://d.kstore.space/download/6652/宁宁ZB.json"},
-        {"name":"live","type": 0,"url": "https://gitee.com/xiaoxiaozhou_zcx/xiaoxiaozhou-iptv/raw/master/iptv.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-        {"name":"直播","type":"0","url":"https://agit.ai/wekeyfisrt/hkt/raw/branch/main/live/live.js"},
-        {"name": "live","type": 0,"url": "https://sourl.cn/Hfci6A","epg": "https://jihulab.com/chenxianmao/mao/-/raw/main/HeChengChaXiu.jar?inline=false"},
+        {"name":"直播1","type": 0,"url": "https://gitee.com/xiaoxiaozhou_zcx/xiaoxiaozhou-iptv/raw/master/iptv.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+        {"name":"直播2","type":"0","url":"https://agit.ai/wekeyfisrt/hkt/raw/branch/main/live/live.js"},
+        {"name": "直播3","type": 0,"url": "https://sourl.cn/Hfci6A","epg": "https://jihulab.com/chenxianmao/mao/-/raw/main/HeChengChaXiu.jar?inline=false"},
         {"name":"酒店","type":"0","url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt "},
         
         {"name":"wtv","type":"0","url":"https://iptv.lysvc.cc/tvbox/%E6%B0%B8%E4%B9%85%E6%BA%90/wtv.txt"},
