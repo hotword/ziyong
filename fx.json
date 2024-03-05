@@ -33,7 +33,7 @@
             {"key": "TV酷（APP）","name": "特酷≛影视","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"}, 
             {"key": "蚂蚁","name": "蚂蚁≛影视","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.84.103:5822/api.php/app/","searchable": 1,"quickSearch": 1,"changeable": 0},
             {"key": "河马","name": "河马≛影视","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1","searchable": 1,"quickSearch": 1,"changeable": 0},
-            {"key": "腐宅","name": "腐宅","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
+            {"key": "腐宅","name": "福宅≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
 
           //{"key": "忙忙","name": "忙果≛资源","type": 3,"api": "csp_MGTV","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
           //{"key": "悠悠","name": "优酷≛资源","type": 3,"api": "csp_YOUKU","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
