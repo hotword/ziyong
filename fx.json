@@ -7,9 +7,9 @@
     "lives": [
         {"name":"运输","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
         {"name":"宁宁","type":"0","url":"https://d.kstore.space/download/6652/宁宁ZB.json"},
-        {"name":"直播1","type": 0,"url": "https://gitee.com/xiaoxiaozhou_zcx/xiaoxiaozhou-iptv/raw/master/iptv.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+        {"name":"直播1","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="]}
         {"name":"直播2","type":"0","url":"https://agit.ai/wekeyfisrt/hkt/raw/branch/main/live/live.js"},
-        {"name": "直播3","type": 0,"url": "https://sourl.cn/Hfci6A","epg": "https://jihulab.com/chenxianmao/mao/-/raw/main/HeChengChaXiu.jar?inline=false"},
+        {"name":"直播3","type": 0,"url": "https://sourl.cn/Hfci6A","epg": "https://jihulab.com/chenxianmao/mao/-/raw/main/HeChengChaXiu.jar?inline=false"},
         {"name":"酒店","type":"0","url":"https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt "},
         
         {"name":"wtv","type":"0","url":"https://iptv.lysvc.cc/tvbox/%E6%B0%B8%E4%B9%85%E6%BA%90/wtv.txt"},
@@ -34,6 +34,9 @@
             {"key": "蚂蚁","name": "蚂蚁≛影视","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.84.103:5822/api.php/app/","searchable": 1,"quickSearch": 1,"changeable": 0},
             {"key": "河马","name": "河马≛影视","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1","searchable": 1,"quickSearch": 1,"changeable": 0},
           //{"key": "腐宅","name": "福宅≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
+            {"key":"星星","name":"星星≛影视","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./lab/fix24225.jar"},
+            {"key":"看看","name":"看看≛影视","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lab/fix24225.jar"},
+            {"key":"时常","name":"时常≛影视","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9","jar":"./lab/fix24225.jar"},
 
           //{"key": "忙忙","name": "忙果≛资源","type": 3,"api": "csp_MGTV","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
           //{"key": "悠悠","name": "优酷≛资源","type": 3,"api": "csp_YOUKU","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
