@@ -142,7 +142,7 @@
             {"key": "duboku","name": "独播≛影视","type": 3,"api": "./cat/duboku_open.js","jar":"./fan.txt","categories": ["连续剧","陆剧","港剧","短剧"]},
             {"key": "subaibai","name": "素白≛影视","jar":"./fan.txt","type": 3,"api": "./cat/subaibai_open.js","categories": ["国产剧","电影","电视剧","动漫剧"]},
             {"key": "nangua","name": "南瓜≛影视","type": 3,"jar":"./fan.txt","api": "./cat/ng_open.js","categories": ["电视剧","电影","综艺","动漫"]},
-            {"key": "南瓜","name": "南瓜≛南瓜","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","api": "csp_NanGua","ext": "null$$$1"},
+        //    {"key": "南瓜","name": "南瓜≛南瓜","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","api": "csp_NanGua","ext": "null$$$1"},
 
             {"key":"csp_biubiu_真不卡kan8","name":"真不≛影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/真不卡kan8(ns).json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
             {"key":"csp_XYQH_大米星球","name":"大米≛影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/Aifan.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
