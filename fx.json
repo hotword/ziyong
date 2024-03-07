@@ -31,7 +31,7 @@
           //{"key": "神奇影院","name": "神奇≛秒播","type": 3,"api": "csp_AppYsV2","searchable": 2,"quickSearch": 1,"filterable": 1,"jar":"./官源.jar","ext": "http://cms.shenqi4k.cc/api.php/app/"},
           //{"key": "疼疼","name": "腾腾≛资源","type": 3,"api": "csp_QQ","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
           //{"key": "齐齐","name": "奇艺≛资源","type": 3,"api": "csp_IQIYI","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
-            {"key": "Fangniu4k","name": "影探≛影视","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar": "./lab/王二.jar"},
+          //{"key": "Fangniu4k","name": "影探≛影视","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0,"jar": "./lab/王二.jar"},
             {"key": "TV酷（APP）","name": "特酷≛影视","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"}, 
             {"key": "蚂蚁","name": "蚂蚁≛影视","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.84.103:5822/api.php/app/","searchable": 1,"quickSearch": 1,"changeable": 0},
             {"key": "河马","name": "河马≛影视","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1","searchable": 1,"quickSearch": 1,"changeable": 0},
