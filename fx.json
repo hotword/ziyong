@@ -207,6 +207,7 @@
          {"name":"汤","type":1,"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","YuMi-vip"]}},
          {"name":"tang","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
          
+         {"name": "爱玩影视","type": 1,"url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
          {"name":"💕推荐","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="}, 
          {"name": "💕推荐0","type": 1,"url": "https://json.oorl.cn/api/?key=gajpAki7cu8560ro4C&url="},
          {"name": "💕推荐1","type": 1,"url": "http://pandown.pro/app/kkdy.php?url="},
