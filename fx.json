@@ -1,9 +1,10 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
      //"spider": "./jcsq.jar",
-   //"spider": "http://home.jundie.top:81/jar/top98_1.jar",
+    //"spider": "http://home.jundie.top:81/jar/top98_1.jar",
      //"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt",
-     "spider":"https://agit.ai/wekeyfisrt/ziyongGH/raw/branch/main/PG/pg.jar",
+    // "spider":"https://agit.ai/wekeyfisrt/ziyongGH/raw/branch/main/PG/pg.jar",
+     	  "spider": "./lab/spider",
     "lives": [
         {"name":"运输","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
         {"name":"宁宁","type":"0","url":"https://d.kstore.space/download/6652/宁宁ZB.json"},
