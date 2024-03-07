@@ -14,7 +14,7 @@
   ],
   "sites": [
     //{"key": "豆瓣推荐","name": "豆瓣推荐","type": 3,"api": "./lab/drpy2.min.js","ext": "./lab/douban.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key":"T4_douban","name":"豆瓣≛聚合","type":4,"jar":"./fan.txt","api":"http://42.192.248.11:5395/vod?sites=all&ali_token=./alitoken.txt","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"T4_douban","name":"豆瓣推荐","type":4,"jar":"./fan.txt","api":"http://42.192.248.11:5395/vod?sites=all&ali_token=./alitoken.txt","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "直播转点播",
       "name": "电视直播",
