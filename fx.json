@@ -101,7 +101,7 @@
 	        	{"key":"AliShare","name":"阿里≛影视","type":3,"api":"csp_AliShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/alishare.txt"},
 		      //{"key":"AliShareEBook","name":"阿里≛书籍","type":3,"api":"csp_AliShare","jar":"./pg.jar","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/alishare.ebook.txt"},
             {"key":"Tudou","name":"土豆≛阿里","type":3,"jar": "./tudoux.jar","api":"csp_Tudou","searchable":1,"changeable":1,"ext":"./json/tokenm.json"},
-            {"key": "运输车","name":"运输≛阿里","type": 3,"api": "./json/ysc_open.js","ext": "./json/tokenm.json"},
+            {"key": "运输车","name":"运输≛阿里","type": 3,"api": "./json/ysc_open.js","ext": "./json/tokenm.json","jar":"./json/真心真语0204.jar"},
             {"key": "网盘配置","name": "网盘≛配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext": "./json/tokenm.json"},
 
 
@@ -248,7 +248,7 @@
         {"name": "分享聚合1", "type": 1, "url": "https://api.xn--od1aq39b.net/api/?key=l80ttV8dvu7OXdFShJ&url="},
         {"name": "分享聚合2", "type": 1, "url": "https://jxjson.cf/json_balabala.php?url="},
         { "name": "分享聚合", "type": 1, "url": "http://42.51.37.161:5678/json/520239app9/gf2.php?url="},  
-        { "name": "测试", "type": 0, "url": "http://192.168.9.99/xy/?url=" },*/
+        { "name": "测试", "type": 0, "url": "http://192.168.9.99/xy/?url=" },
         {"name": "分享VIP1","type": 0,"url": "https://jx.xmflv.com/?url="},
         {"name": "分享VIP","type": 0,"url": "https://vip.lianfaka.com/vip/?url="},
         {"name": "分享官解","type": 1,"url": "http://jx.lem.icu/api/?key=027181cefdc41cfdd2efa074f2fcf722&url="},
