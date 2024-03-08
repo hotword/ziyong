@@ -19,7 +19,7 @@
         {"name": "live.fan","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {"name":"饭太硬🌏IPV6+IPV4","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {"name":"俊于🌏IPV6+IPV4","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-        {"name":"Yoursmile7🌏PV6+IPV4","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+        {"name":"CClive","type":0,"url":"https://jihulab.com/dsc/cclive/-/raw/main/cclive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
     ],
     "sites": [
           //{"key":"T4","name":"🏠T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","jar":"./fan.txt","searchable":1,"quickSearch":1,"filterable":1},
