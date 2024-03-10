@@ -5,7 +5,8 @@
      //"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt",
     "spider":"./lib/pg.jar",
      	  //"spider": "./lab/spider",
-         "jar":"./lab/spider",
+         //"jar":"./lab/spider",
+         "jar":"./lab/fix24225.jar",
     "lives": [
         {"name":"运输","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
         {"name":"宁宁","type":"0","url":"https://d.kstore.space/download/6652/宁宁ZB.json"},
@@ -40,7 +41,7 @@
             {"key": "河马","name": "河马≛影视","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1","searchable": 1,"quickSearch": 1,"changeable": 0},
           //{"key": "腐宅","name": "福宅≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
           //{"key":"星星","name":"星星≛影视","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./lab/fix24225.jar"},
-            {"key":"看看","name":"看看≛影视","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lab/fix24225.jar"},
+            {"key":"看看","name":"看看≛影视","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0},
             {"key":"时常","name":"时常≛影视","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"},
           //{"key": "meowtv_dyxs","name": "先生≛影视","type": 3,"api": "http://cdn.teyonds.com/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lab/spider","ext": "http://cdn.teyonds.com/js/电影先生.js"},
           //{"key": "meowtv_mays","name": "米爱≛影视","type": 3,"api": "http://cdn.teyonds.com/js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lab/spider","ext": "http://cdn.teyonds.com/js/米爱影视.js"},
