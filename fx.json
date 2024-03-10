@@ -30,6 +30,9 @@
             
            	{"key":"Yingtantv","name":"影探≛影视","type":3,"api":"csp_Yingtantv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
 	        	{"key":"Yscapp","name":"影车≛影视","type":3,"api":"csp_Yscapp","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "playerType":1, "ext":"1"},
+         		{"key": "河马","name": "河马≛影视","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1"},
+         
+         
           //   ##官源系列
           //{"key": "lf_js_search","name": "搜索 | lf_search","type": 3,"searchable": 0,"changeable": 1,"quickSearch": 0,"filterable": 0,"jar":"./官源.jar","api": "./lib/lf_search3_min.js"},
           //{"key": "神奇影院","name": "神奇≛秒播","type": 3,"api": "csp_AppYsV2","searchable": 2,"quickSearch": 1,"filterable": 1,"jar":"./官源.jar","ext": "http://cms.shenqi4k.cc/api.php/app/"},
