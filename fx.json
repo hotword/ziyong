@@ -111,7 +111,9 @@
 		      //{"key":"AliShareEBook","name":"阿里≛书籍","type":3,"api":"csp_AliShare","jar":"./pg.jar","searchable":0,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/alishare.ebook.txt"},
             {"key":"Tudou","name":"土豆≛阿里","type":3,"jar": "./tudoux.jar","api":"csp_Tudou","searchable":1,"changeable":1,"ext":"./json/tokenm.json"},
             {"key": "网盘配置","name": "网盘≛配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext": "./json/tokenm.json"},
-
+            {"key": "T4-wo","name": "PHP≛玩偶","type": 4,"api": "http://www.zhuzige.com/t4/wo.php","searchable": 1,"quickSearch": 1},
+            {"key": "T4-zzy","name": "PHP≛资源","type": 4,"api": "http://www.zhuzige.com/t4/zzy.php","searchable": 1,"quickSearch": 1},
+            {"key": "T4-ps","name": "PHP≛搜索","type": 4,"api": "http://www.zhuzige.com/t4/ps.php","searchable": 1,"quickSearch": 1},
 
      
           //{"key":"csp_xBPQ_奇优","name":"奇优≛官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/alanchaotang/if/raw/branch/main/json/奇优影视.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/HeChengChaXiu.jar"},
@@ -212,7 +214,7 @@
          {"name":"免费应用","type":1,"url":"http://jx.84jia.top:8020/fflzm3u8ts.php?url="},                  
          {"name":"四八应用","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
          {"name":"盒库应用","type":1,"url": "http://api.888484.xyz/盒库/super.php?v="},
-
+         {"name": "免费爱酷","type": 0,"url": "https://playpro.tyhua.top/player/ec.php?code=Art&if=1&url="},
          {"name": "精选","type": 0,"url": "https://www.yemu.xyz/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
          {"name": "精选0","type": 1,"url": "http://api.huohua.vip/api/?key=6qwYWYpe4mSaPhFvSw&url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},	
          {"name":"巧技","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
@@ -240,6 +242,8 @@
          {"name": "线路3","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
          {"name": "线路4","type": 0,"url": "https://www.8090.la/8090/?url="},
          {"name": "线路5","type": 0,"url": "https://jx.zui.cm/?url="},
+         {"name": "线路6","type": 0,"url": "https://api.iuys.cc/analysis.php?v="},
+         {"name": "爱哭","type": 0,"url": "https://playpro.tyhua.top/player/ec.php?code=Art&if=1&url="},
 
          
          {"name":"自动解析0","url": "http://119.91.123.253:2345/Api/yun.php?url=","type":1},
