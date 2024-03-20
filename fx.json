@@ -55,7 +55,7 @@
           //{"key": "jiafeimao2","name": "官二≛影视","type": 0,"api": "http://lemon.inhuaym.cn/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
             {"key": "T4-安博","name": "安博≛影视","type": 4,"api": "https://tang.serv00.net/power/ub1818","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": true},
           //{"key": "宇宙","name": "宇宙≛影视","type": 3,"api": "csp_LvDou","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 30,"playerType": 1,"ext":{"server":"http://goulanzi.yuzhoukeji.top/api.php/app/","mackey":"toudongxidegou88|qunimagebishabi559","danmu":true}},
-            {"key":"苹果","name":"苹果≛影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+            {"key":"苹果","name":"苹果≛影视","type":3,"api":"csp_LiteApple","jar":"./lab/fan0319.jar","searchable":1,"quickSearch":1,"changeable":1},
           
           //{"key": "忙忙","name": "忙果≛资源","type": 3,"api": "csp_MGTV","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
           //{"key": "悠悠","name": "优酷≛资源","type": 3,"api": "csp_YOUKU","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
