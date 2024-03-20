@@ -164,7 +164,7 @@
           //短剧  
             {"key": "量子", "name": "量子≛短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
             {"key": "世界","name": "世界≛短剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
-            {"key": "锐星","name": "锐星短剧","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.84.103:6822/api.php/app/"},
+            {"key": "锐星","name": "锐星≛短剧","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.84.103:6822/api.php/app/"},
           //哔哩
             {"key": "drpy_js_blys","name": "哔哩≛影视","type": 3,"jar":"./fan.txt","api": "./lib/drpy2.min.js","ext": "./lib/blys.js"}, 
             {"key": "drpy_js_哔哩教育","name":"哔哩≛教育","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/哔哩教育.js"},
