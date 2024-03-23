@@ -38,15 +38,15 @@
             {"key": "csp_appys_影盒","name": "影探≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/","jar":"./lib/pg.jar"},
             {"key": "原创","name": "原创≛影视","type": 3,"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9","api": "csp_YCyz","timeout":6,"searchable": 1,"quickSearch": 1,"changeable": 1},
             {"key": "csp_xBPQ_白嫖","name": "白飘≛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/e8/4k/-/raw/master/json/白嫖影视.json", "jar": "https://jihulab.com/e8/4k/-/raw/master/jar/fine.jar"},
-            {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
-            {"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar":"./lab/fix24225.jar"},
-            {"key":"热播","name":"热播┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"./lab/fix24225.jar"},
-            {"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com","jar":"./lab/fix24225.jar"},
-            {"key":"发电","name":"发电┃App","type":3,"api":"csp_Fdys","playerType":2,"jar":"./lab/fix24225.jar"},
-            {"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"./lab/fix24225.jar"},
-            {"key":"tvbsk","name":"TVB┃App","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"./lab/fix24225.jar"},
-            {"key":"星星","name":"星星┃App","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./lab/fix24225.jar"},
-            {"key":"K影","name":"K影院┃App","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1,"jar":"./lab/fix24225.jar"},
+            {"key":"南瓜","name":"南瓜≛影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
+            {"key":"天天","name":"天天≛影视","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar":"./lab/fix24225.jar"},
+            {"key":"热播","name":"热播≛影视","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"./lab/fix24225.jar"},
+            {"key":"追剧","name":"追剧≛影视","type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com","jar":"./lab/fix24225.jar"},
+            {"key":"发电","name":"发电≛影视","type":3,"api":"csp_Fdys","playerType":2,"jar":"./lab/fix24225.jar"},
+            {"key":"柠檬","name":"柠檬≛影视","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"./lab/fix24225.jar"},
+            {"key":"tvbsk","name":"TV≛影视","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"./lab/fix24225.jar"},
+            {"key":"星星","name":"星星≛影视","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./lab/fix24225.jar"},
+            {"key":"K影","name":"K影≛影视","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1,"jar":"./lab/fix24225.jar"},
          
          
           //   ##官源系列
@@ -302,7 +302,7 @@
         {"name":"解析35","type":1,"url":"https://jx.blbo.cc:4433/?url="}],
    // "flags":["youku","qq","seven","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","kuying -you","YuMi-vip","douyin","renrenmi","xmm","xigua","m1905","funshion","le", "duoduozy","ltnb","rx","CL4K","xfyun","wuduzy", "优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],
 //IJK解码器设置
-
+        "flags":["youku","qq","QQ","iqiyi","SPA","qiyi","letv","sohu","YuMi-vip","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","xigua","m1905","funshion","imgo","ruyi1080","ruyib1080"],
          "rules": [          
     {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
     {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
