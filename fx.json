@@ -37,7 +37,7 @@
             {"key":"kyB","name":"快鹰≛影视","style":{"type":"rect","ratio":0.85},"type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"jar":"./lab/xbpq.jar","playUrl":"json:https://stray.serv00.net/ky.php?url="},
             {"key": "csp_appys_影盒","name": "影探≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/","jar":"./lib/pg.jar"},
             {"key": "原创","name": "原创≛影视","type": 3,"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9","api": "csp_YCyz","timeout":6,"searchable": 1,"quickSearch": 1,"changeable": 1},
-            {"key": "csp_xBPQ_白嫖","name": "白飘≛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/e8/4k/-/raw/master/json/白嫖影视.json", "jar": "https://jihulab.com/e8/4k/-/raw/master/jar/fine.jar"},
+          //{"key": "csp_xBPQ_白嫖","name": "白飘≛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/e8/4k/-/raw/master/json/白嫖影视.json", "jar": "https://jihulab.com/e8/4k/-/raw/master/jar/fine.jar"},
             {"key":"南瓜","name":"南瓜≛影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
             {"key":"天天","name":"天天≛影视","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar":"./lab/fix24225.jar"},
             {"key":"热播","name":"热播≛影视","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"./lab/fix24225.jar"},
