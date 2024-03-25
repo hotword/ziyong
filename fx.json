@@ -17,7 +17,7 @@
         {"name":"直播5","type":"0","url": "https://agit.ai/wekeyfisrt/ziyong/raw/branch/main/lib/wfliving.txt"},                                  
         {"name":"直播6","type":"0","url":"https://agit.ai/wekeyfisrt/tvyuan/raw/branch/main/IPTV-tvbox.txt"},
         {"name":"FAN-IPV6","type":"0","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
-        {"name": "live.fan","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+        {"name": "live.fan3","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {"name":"饭太硬🌏IPV6+IPV4","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {"name":"俊于🌏IPV6+IPV4","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {"name":"CClive","type":0,"url":"https://jihulab.com/dsc/cclive/-/raw/main/cclive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
@@ -243,14 +243,14 @@
             {"key": "音乐台","name": "音乐≛音台","type": 3,"api": "./cat/yinyuetai_open.js","searchable": 1,"changeable": 0},
             {"key": "230ts","name": "爱上≛听书","type": 3,"api": "./cat/230ts_open.js"},
          //儿童  
-            {"key": "儿童拼音","name": "儿童拼音","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童拼音.json","spider": "./lab/spider"},
-            {"key": "儿童识字","name": "儿童识字","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童识字.json","spider": "./lab/spider"},
-            {"key": "儿童英语","name": "儿童英语","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童英语.json","spider": "./lab/spider"},
-            {"key": "儿童硬笔","name": "儿童硬笔",  "type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童硬笔.json","spider": "./lab/spider"},
-            {"key": "儿童思维","name": "儿童思维","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童思维.json","spider": "./lab/spider"},
-            {"key": "儿童口才","name": "儿童口才","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童口才.json","spider": "./lab/spider"},
-            {"key": "儿童编程","name": "儿童编程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童编程.json","spider": "./lab/spider"},
-            {"key": "儿童武术","name": "儿童武术","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童武术.json","spider": "./lab/spider"}
+            {"key": "儿童拼音","name": "儿童拼音","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童拼音.json","jar": "./lab/spider"},
+            {"key": "儿童识字","name": "儿童识字","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童识字.json","jar": "./lab/spider"},
+            {"key": "儿童英语","name": "儿童英语","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童英语.json","jar": "./lab/spider"},
+            {"key": "儿童硬笔","name": "儿童硬笔",  "type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童硬笔.json","jar": "./lab/spider"},
+            {"key": "儿童思维","name": "儿童思维","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童思维.json","jar": "./lab/spider"},
+            {"key": "儿童口才","name": "儿童口才","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童口才.json","jar": "./lab/spider"},
+            {"key": "儿童编程","name": "儿童编程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童编程.json","jar": "./lab/spider"},
+            {"key": "儿童武术","name": "儿童武术","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童武术.json","jar": "./lab/spider"}
     ],
      "parses": [     
          {"name":"聚合","type": 3,"url": "Web"},
