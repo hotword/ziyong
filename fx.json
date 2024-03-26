@@ -72,7 +72,7 @@
             {"key": "T4-安博","name": "安博≛影视","type": 4,"api": "https://tang.serv00.net/power/ub1818","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": true},
           //{"key": "宇宙","name": "宇宙≛影视","type": 3,"api": "csp_LvDou","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 30,"playerType": 1,"ext":{"server":"http://goulanzi.yuzhoukeji.top/api.php/app/","mackey":"toudongxidegou88|qunimagebishabi559","danmu":true}},
             {"key":"苹果","name":"苹果≛影视","type":3,"api":"csp_LiteApple","jar":"./lab/fan0319.jar","searchable":1,"quickSearch":1,"changeable":1},
-            {"key": "7xdy","name": "七新电影","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": {"主页url": "http://www.7xdy.com/","副标题": "pic-text text-right\">&&</b>","搜索模式": "1","搜索url": "http://www.7xdy.com/search.php;post;searchword={wd}","图片": "data-original=\"&&\"","嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos","影片类型": "<div class=\"module-info-tag\">&&立即播放","导演": "导演：&&</div>","主演": "主演：&&</div>","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman","分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html"}},
+          //{"key": "7xdy","name": "七新电影","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": {"主页url": "http://www.7xdy.com/","副标题": "pic-text text-right\">&&</b>","搜索模式": "1","搜索url": "http://www.7xdy.com/search.php;post;searchword={wd}","图片": "data-original=\"&&\"","嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos","影片类型": "<div class=\"module-info-tag\">&&立即播放","导演": "导演：&&</div>","主演": "主演：&&</div>","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman","分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html"}},
           //{"key": "忙忙","name": "忙果≛资源","type": 3,"api": "csp_MGTV","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
           //{"key": "悠悠","name": "优酷≛资源","type": 3,"api": "csp_YOUKU","style": {"type": "rect","ratio": 1.33},"searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"./官源.jar","changeable": 1},
           //{"key": "drpy_js_腾云驾雾","name": "腾讯≛视频","type": 3,"api": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/js/腾云驾雾.js"},
@@ -222,14 +222,14 @@
             {"key": "音乐台","name": "音乐≛音台","type": 3,"api": "./cat/yinyuetai_open.js","searchable": 1,"changeable": 0},
             {"key": "230ts","name": "爱上≛听书","type": 3,"api": "./cat/230ts_open.js"},
          //儿童  
-            {"key": "儿童拼音","name": "儿童拼音","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童拼音.json","jar": "./lab/spider"},
-            {"key": "儿童识字","name": "儿童识字","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童识字.json","jar": "./lab/spider"},
-            {"key": "儿童英语","name": "儿童英语","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童英语.json","jar": "./lab/spider"},
-            {"key": "儿童硬笔","name": "儿童硬笔",  "type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童硬笔.json","jar": "./lab/spider"},
-            {"key": "儿童思维","name": "儿童思维","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童思维.json","jar": "./lab/spider"},
-            {"key": "儿童口才","name": "儿童口才","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童口才.json","jar": "./lab/spider"},
-            {"key": "儿童编程","name": "儿童编程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童编程.json","jar": "./lab/spider"},
-            {"key": "儿童武术","name": "儿童武术","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童武术.json","jar": "./lab/spider"}
+            {"key": "儿童拼音","name": "儿童≛拼音","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童拼音.json","jar": "./lab/spider"},
+            {"key": "儿童识字","name": "儿童≛识字","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童识字.json","jar": "./lab/spider"},
+            {"key": "儿童英语","name": "儿童≛英语","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童英语.json","jar": "./lab/spider"},
+            {"key": "儿童硬笔","name": "儿童≛硬笔",  "type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童硬笔.json","jar": "./lab/spider"},
+            {"key": "儿童思维","name": "儿童≛思维","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童思维.json","jar": "./lab/spider"},
+            {"key": "儿童口才","name": "儿童≛口才","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童口才.json","jar": "./lab/spider"},
+            {"key": "儿童编程","name": "儿童≛编程","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童编程.json","jar": "./lab/spider"},
+            {"key": "儿童武术","name": "儿童≛武术","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童武术.json","jar": "./lab/spider"}
     ],
      "parses": [     
          {"name":"聚合","type": 3,"url": "Web"},
