@@ -47,7 +47,9 @@
             {"key":"tvbsk","name":"TV≛影视","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"./lab/fix24225.jar"},
           //{"key":"星星","name":"星星≛影视","type":3,"api":"csp_qiao","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./lab/fix24225.jar"},
             {"key":"K影","name":"K影≛影视","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1,"jar":"./lab/fix24225.jar"},
-         
+            {"key": "蜜果视界","name": "蜜果≛影视","api": "csp_AppYs","type": 3,"jar": "https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/jar/xc14.jar;md5;9733ac5a326a4ce26dea8a5a1e3be41b","ext": "https://miguo.pro/api.php/v1.vod"},
+            {"key":"陌陌","name":"陌陌≛影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://pan.shangui.cc/f/8QgeTo/uyv0t678c488189af47bb91dc108484d17431.jar;md5;cf00cc8baef423e51187750ac973417d","ext":"https://www.kuin.one/api.php/app/"},
+
          
           //   ##官源系列
           //{"key": "lf_js_search","name": "搜索 | lf_search","type": 3,"searchable": 0,"changeable": 1,"quickSearch": 0,"filterable": 0,"jar":"./官源.jar","api": "./lib/lf_search3_min.js"},
@@ -314,14 +316,14 @@
 //IJK解码器设置
         "flags":["youku","qq","QQ","iqiyi","SPA","qiyi","letv","sohu","YuMi-vip","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","tucheng","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","xigua","m1905","funshion","imgo","ruyi1080","ruyib1080"],
          "rules": [          
-    {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
-    {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
-    {"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
-    {"name": "星星", "hosts": [ "aws.ulivetv.net" ], "regex": [ "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY" ] }, 
-    {"name": "proxy","hosts": ["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*"]},
-		{"name": "海外看","hosts": ["haiwaikan"],"regex": ["8.1748","10.0099","10.3333","16.0599"]},
-		{"name":"暴風","hosts": ["bfzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-		{"name":"星星","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+      {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
+      {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+      {"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+      {"name": "星星", "hosts": [ "aws.ulivetv.net" ], "regex": [ "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY" ] }, 
+      {"name": "proxy","hosts": ["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*"]},
+	   	{"name": "海外看","hosts": ["haiwaikan"],"regex": ["8.1748","10.0099","10.3333","16.0599"]},
+	   	{"name":"暴風","hosts": ["bfzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	   	{"name":"星星","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 			{"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 			{"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
 			{"host":"www.sharenice.net","rule":["douyin.com","/play/"]},
