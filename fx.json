@@ -98,7 +98,8 @@
           //{"key": "dr_酷云77","name": "酷云≛七七","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar","ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/酷云77.js"},
 		      //{"key": "新浪资源","name": "️新浪≛采集","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","大陆剧","欧美剧","日剧","泰剧","韩剧","台湾剧","港澳剧","综艺","动漫","体育"]},
             {"key": "360_spider","name": "三六≛资源","type": 3,"api": "csp_SP360","style": {"type": "rect","ratio": 1.33},"filterable": 1,"quickSearch": 1,"jar":"./jcsq.jar","searchable": 1},
-
+            {"key": "Wexxpgtv","name": "红富士≛TV","type": 3,"api": "csp_Wexxpgtv","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1},
+            {"key": "mingriyingshi","name":" 明日≛TV","type": 3,"api": "csp_WexMingriys","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1,"categories": ["电影","电视剧"]},
            
            // 其他影视 
             {"key": "Bdys_spider","name": "哔滴≛影视","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/$$$null$$$1"},
