@@ -32,7 +32,8 @@
           //{"key": "Fangniu4k","name": "放牛≛影视","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 1,"jar":"./lib/fangniu.jar"},
           //{"key":"Yingtantv","name":"影探≛影视","type":3,"api":"csp_Yingtantv","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"$$$./lib/yt.json$$$1"},
 	        //{"key":"Yscapp","name":"影车≛影视","type":3,"api":"csp_Yscapp","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "playerType":1, "ext":"1"},
-         		{"key": "河马","name": "河马≛影视","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1"},
+         		{"key": "Fangniu4k","name": "放牛≛影视","type": 3,"api": "csp_WexFangniu4k","searchable": 1,"changeable": 1,"jar":"https://agit.ai/lytv/tv/raw/branch/master/fangniu.jar"},
+            {"key": "河马","name": "河马≛影视","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1"},
           //{"key":"kyB","name":"快鹰≛影视","style":{"type":"rect","ratio":0.85},"type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
           //{"key":"kyB","name":"快鹰≛影视","style":{"type":"rect","ratio":0.85},"type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"jar":"./lab/xbpq.jar","playUrl":"json:https://stray.serv00.net/ky.php?url="},
             {"key": "csp_appys_影盒","name": "影探≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vipcms.lyyytv.cn/api.php/app/","jar":"./lib/pg.jar"},
@@ -184,7 +185,7 @@
             {"key": "drpy_js_视中影视","name":"视中≛影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/视中心影视.js"},
             {"key": "duboku","name": "独播≛影视","type": 3,"api": "./cat/duboku_open.js","jar":"./fan.txt","categories": ["连续剧","陆剧","港剧","短剧"]},
             {"key": "subaibai","name": "素白≛影视","jar":"./fan.txt","type": 3,"api": "./cat/subaibai_open.js","categories": ["国产剧","电影","电视剧","动漫剧"]},
-            {"key": "nangua","name": "南瓜≛影视","type": 3,"jar":"./fan.txt","api": "./cat/ng_open.js","categories": ["电视剧","电影","综艺","动漫"]},
+          //{"key": "nangua","name": "南瓜≛影视","type": 3,"jar":"./fan.txt","api": "./cat/ng_open.js","categories": ["电视剧","电影","综艺","动漫"]},
           //{"key": "南瓜","name": "南瓜≛南瓜","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://mirror.ghproxy.com/raw.githubusercontent.com/hcwsky/tvbox/main/home/pg.jar","api": "csp_NanGua","ext": "null$$$1"},
 
             {"key":"csp_biubiu_真不卡kan8","name":"真不≛影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/MaoXB/真不卡kan8(ns).json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xo1204.jar;md5;3ed5186af28feff28d4d7b7d75504a2d"},
