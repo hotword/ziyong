@@ -247,6 +247,7 @@
             {"key": "drpy_js_有声小说","name": "有声≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/有声小说吧.js","playerType": "2"},
             {"key": "音乐台","name": "音乐≛音台","type": 3,"api": "./cat/yinyuetai_open.js","searchable": 1,"changeable": 0},
             {"key": "230ts","name": "爱上≛听书","type": 3,"api": "./cat/230ts_open.js"},
+            {"key":"drpy_js_蜻蜓FM","name":"蜻蜓≛听书","type":3,"api":"./lib/drpy2.min.js","ext":"./cat/蜻蜓FM.js","playerType":"2"},
          //儿童  
             {"key": "儿童拼音","name": "儿童≛拼音","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童拼音.json","jar": "./lab/spider"},
             {"key": "儿童识字","name": "儿童≛识字","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童识字.json","jar": "./lab/spider"},
