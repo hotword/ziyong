@@ -10,6 +10,7 @@
     "lives": [
         {"name":"运输","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
         {"name":"宁宁","type":"0","url":"https://d.kstore.space/download/6652/宁宁ZB.json"},
+        {"name":"直播","type":"0","url": "https://jihulab.com/ss3234741/sj/-/raw/main/lib/zp.txt"},
         {"name":"直播1","type":"0","url": "http://home.jundie.top:81/Cat/tv/live.txt"},
         {"name":"直播2","type":"0","url":"https://agit.ai/wekeyfisrt/hkt/raw/branch/main/live/live.js"},
         {"name":"直播3","type": 0,"url": "https://sourl.cn/Hfci6A","epg": "https://jihulab.com/chenxianmao/mao/-/raw/main/HeChengChaXiu.jar?inline=false"},
@@ -17,6 +18,7 @@
         {"name":"直播5","type":"0","url": "https://agit.ai/wekeyfisrt/hoteltv/raw/branch/main/itvlist.txt"},                                  
         {"name":"直播6","type":"0","url":"https://agit.ai/wekeyfisrt/tvyuan/raw/branch/main/IPTV-tvbox.txt"},
         {"name":"FAN-IPV6","type":"0","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u"},
+        
         {"name": "live.fan3","type": 0,"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {"name":"饭太硬🌏IPV6+IPV4","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {"name":"俊于🌏IPV6+IPV4","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
