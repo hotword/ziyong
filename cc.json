@@ -1,5 +1,6 @@
 {
-    "spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",
+    //"spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",
+    "spider": "https://jihulab.com/e8/4k/-/raw/master/jar/fine.jar",
     "wallpaper": "https://tool.weetai.cn/api",
     "lives": [
         {
@@ -1385,7 +1386,34 @@
             "quickSearch": 0,
             "filterable": 0
         },
-      
+        {
+         "key": "奥斯卡资源",
+         "name": "🐾丨奥卡【🔞】",
+         "type": 3,
+         "api": "https://jihulab.com/chenxianmao/mao/-/raw/main/js/caiji2.js",
+         "ext": "https://aosikazy.com/api.php/provide/vod/"
+    },
+    {
+         "key": "老鸭资源",
+         "name": "🐾丨老鸭【🔞】",
+         "type": 3,
+         "api": "https://jihulab.com/chenxianmao/mao/-/raw/main/js/caiji2.js",
+         "ext": "https://api.apilyzy.com/api.php/provide/vod/"
+    },
+    {
+         "key": "雪豹资源",
+         "name": "🐾丨雪豹【🔞】",
+         "type": 3,
+         "api": "https://jihulab.com/chenxianmao/mao/-/raw/main/js/caiji2.js",
+         "ext":"https://api.xbapi.cc/api.php/provide/vod/at/json"
+    }, 
+    {
+         "key": "滴滴资源",
+         "name": "🐾丨滴滴【🔞】",
+         "type": 3,
+         "api": "https://jihulab.com/chenxianmao/mao/-/raw/main/js/caiji2.js",
+         "ext":"https://api.ddapi.cc/api.php/provide/vod/at/json"
+    },
  
         {
             "key": "yy",
