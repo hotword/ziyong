@@ -43,6 +43,7 @@
             {"key":"天天","name":"天天≛影视","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar":"./lab/fix24225.jar"},
             {"key":"热播","name":"热播≛影视","type":3,"api":"csp_TTian","playerType":2,"ext":"http://v.rbotv.cn","jar":"./lab/fix24225.jar"},
             {"key":"追剧","name":"追剧≛影视","type":3,"api":"csp_TTian","playerType":2,"ext":"http://app.kzjtv.com","jar":"./lab/fix24225.jar"},
+            {"key":"柠檬","name":"柠檬≛影视","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"./lab/fix24225.jar" },
             {"key":"发电","name":"发电≛影视","type":3,"api":"csp_Fdys","playerType":2,"jar":"./lab/fix24225.jar"},
           //{"key":"柠檬","name":"柠檬≛影视","type":3,"api":"csp_Nmvod","playerType":2,"ext":"https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar":"./lab/fix24225.jar"},
           //{"key":"tvbsk","name":"TV≛影视","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"./lab/fix24225.jar"},
