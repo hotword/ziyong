@@ -3,6 +3,17 @@
 	"sites":[
 {"key":"T4-douban","name":"影视-豆瓣(T4)","type":4,"api":"https://catbox.n13.club/douban.php"},
 {"key":"T4-yugaopian","name":"影视-预告片(T4)","type":4,"api":"https://catbox.n13.club/yugaopian.php"},
+{
+      "key": "T4-360",
+      "name": "360影视大全",
+      "type": 4,
+      "api": "https://catbox.n13.club/360.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": true
+    },
 {"key":"T4-剧圈","name":"影视-剧圈(T4)","type":4,"api":"https://catbox.n13.club/juquan.php"},
 {"key":"T4-黑狐","name":"影视-黑狐(T4)","type":4,"api":"https://catbox.n13.club/heihu.php"},
 {"key":"T4-jp","name":"影视-荐片(T4)","type":4,"api":"https://catbox.n13.club/jianpian.php"},
@@ -16,6 +27,29 @@
 {"key":"T4-mingri","name":"影视-明日(T4)","type":4,"api":"https://catbox.n13.club/mingri.php"},
 {"key":"T4-6v","name":"磁力-6V(T4)","type":4,"api":"https://catbox.n13.club/6v.php"},
 {"key":"T4-哔嘀","name":"磁力-哔嘀(T4)","type":4,"api":"https://catbox.n13.club/bdys.php"},
+{
+            "key": "T4-nangua",
+            "name": "南瓜电影",
+            "type": 4,
+            "api": "https://catbox.n13.club/nangua.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": true
+},
+
+{
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.serv00.net/power/ub1818",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": true
+},
 {
       "key": "t41直播转点播",
       "name": "T4精选",
@@ -44,7 +78,32 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    }],
+    },
+	{
+	"key": "T4-wo",
+	"name": "┃PHP┃玩偶搜",
+	"type": 4,
+	"api": "http://www.zhuzige.com/t4/wo.php",
+	"searchable": 1,
+	"quickSearch": 1
+},
+{
+	"key": "T4-zzy",
+	"name": "┃PHP┃找资源",
+	"type": 4,
+	"api": "http://www.zhuzige.com/t4/zzy.php",
+	"searchable": 1,
+	"quickSearch": 1
+},
+{
+	"key": "T4-ps",
+	"name": "┃PHP┃盘搜索",
+	"type": 4,
+	"api": "http://www.zhuzige.com/t4/ps.php",
+	"searchable": 1,
+	"quickSearch": 1
+}
+],
 		"lives":[
 			{
 				"name": "live.ipv6",
