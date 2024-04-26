@@ -159,8 +159,8 @@
             {"key": "萌米","name": "萌米≛影视","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"jar":"./fan.txt","ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
 
             //阿里云盘
-            {"key":"Wogg","name":"玩偶≛哥哥","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
-	        	{"key":"Wobg","name":"玩偶≛表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
+            {"key":"Wogg","name":"玩偶≛哥哥","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json"},
+	        	{"key":"Wobg","name":"玩偶≛表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
             {"key": "阿里云集合","name": "阿里≛云集","type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,"ext": "./json/阿里集合.json;./token.txt","jar":"./json/真心真语0204.jar"},  
           //{"key":"csp_FanYY","name":"玩偶≛影视","type": 3,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar","api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext": "./token.txt"},
           //{"key":"PikPakShare","name":"PP≛分享","type":3,"api":"csp_PikPakShare","jar":"./pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.txt.gz"},
