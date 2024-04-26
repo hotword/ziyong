@@ -66,10 +66,10 @@
             {"key": "Fangniu4k","name": "放牛≛影视","type": 3,"api": "csp_WexFangniu4k","searchable": 1,"changeable": 1,"jar":"https://agit.ai/lytv/tv/raw/branch/master/fangniu.jar"},
           //{"key": "ikun","name": "爱坤≛影视","type": 1,"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","playerType":1,"searchable": 1,"changeable": 1},
 	        	{"key": "飞速资源","name": "飞速≛影视","type": 1,"api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","playerType":1,"searchable": 1,"changeable": 1},
-		         {"key": "T4-mingri","name": "明日看片子","type": 4,"api": "https://catbox.n13.club/mingri.php"},
-             {"key": "T4-heihu","name": "黑狐资源","type": 4,"api": "https://catbox.n13.club/heihu.php"},
-             {"key": "T4-juquan","name": "剧圈圈","type": 4,"api": "https://catbox.n13.club/juquan.php"},
-             {"key": "T4-6v","name": "磁力-6V(T4)","type": 4,"api": "https://catbox.n13.club/6v.php"},
+		         {"key": "T4-mingri","name": "明日≛影院","type": 4,"api": "https://catbox.n13.club/mingri.php"},
+             {"key": "T4-heihu","name": "黑狐≛影院","type": 4,"api": "https://catbox.n13.club/heihu.php"},
+             {"key": "T4-juquan","name": "剧圈≛影院","type": 4,"api": "https://catbox.n13.club/juquan.php"},
+             {"key": "T4-6v","name": "磁力≛影院","type": 4,"api": "https://catbox.n13.club/6v.php"},
 
     //备份
           /*{"key": "暴風","name": "暴風≛影视","type": 1,"api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable": 1,"changeable": 1},
