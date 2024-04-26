@@ -8,7 +8,7 @@
          //"jar":"./lab/spider",
          //"jar":"./lab/fix24225.jar",
     "lives": [
-        {"name":"运输","type":"0","url": "https://weixine.net/tv/ysclive.txt"},
+        {"name":"运输","type":"0","url": "https://jihulab.com/MCaveMan/andy_public/-/raw/b6870ff4c199edaff76ece49b10efe31cc901c8a/tv/ipv6_andy.txt"},
         {"name":"宁宁","type":"0","url":"https://d.kstore.space/download/6652/宁宁ZB.json"},
         {"name":"直播","type":"0","url": "https://jihulab.com/ss3234741/sj/-/raw/main/lib/zp.txt"},
         {"name":"直播1","type":"0","url": "http://home.jundie.top:81/Cat/tv/live.txt"},
