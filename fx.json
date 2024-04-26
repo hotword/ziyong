@@ -38,7 +38,7 @@
           //{"key":"原创","name":"原创≛影视","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lab/fan.txt"},
             {"key":"原创","name":"原创≛影视","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lab/fan.txt"},
             {"key":"厂长","name":"厂长≛影视","type":3,"api":"csp_Czsapp","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.top/","jar":"./lab/fan.txt"},
-            {"key":"七七","name":"七七≛影视","type":3,"api":"csp_Kunyu77","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lab/fan.txt"},
+          //{"key":"七七","name":"七七≛影视","type":3,"api":"csp_Kunyu77","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lab/fan.txt"},
             {"key": "河马","name": "河马≛影视","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1", "jar": "./cat/pg0310.jar"},
           //{"key":"kyB","name":"快鹰≛影视","style":{"type":"rect","ratio":0.85},"type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
           //{"key":"kyB","name":"快鹰≛影视","style":{"type":"rect","ratio":0.85},"type":1,"api":"http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"jar":"./lab/xbpq.jar","playUrl":"json:https://stray.serv00.net/ky.php?url="},
