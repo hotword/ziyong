@@ -75,6 +75,7 @@
              {"key": "T4-heihu","name": "黑狐≛影院","type": 4,"api": "https://catbox.n13.club/heihu.php"},
              {"key": "T4-juquan","name": "剧圈≛影院","type": 4,"api": "https://catbox.n13.club/juquan.php"},
              {"key": "T4-6v","name": "磁力≛影院","type": 4,"api": "https://catbox.n13.club/6v.php"},
+             {"key":"T4-caiji","name":"影视≛采集","type":4,"api":"https://catbox.n13.club/caiji.php"},
              {"key": "小爱","name": "小爱≛影院","type": 1,"api": "http://127.0.0.1:10079/p/0/proxy/http://laowang.co/api.php/provide/vod?","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable": 1,"changeable": 1},
 
     //备份
