@@ -151,7 +151,7 @@
             {"key": "360_spider","name": "三六≛资源","type": 3,"api": "csp_SP360","style": {"type": "rect","ratio": 1.33},"filterable": 1,"quickSearch": 1,"jar":"./jcsq.jar","searchable": 1},
             {"key": "Wexxpgtv","name": "富士≛资源","type": 3,"api": "csp_Wexxpgtv","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1},
             {"key": "mingriyingshi","name":" 明日≛资源","type": 3,"api": "csp_WexMingriys","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1,"categories": ["电影","电视剧"]},
-            {"key":"bookan_book_open","name":"博看[≛资源cat]","type":3,"api":"./cat/MyCatBookan.js"},
+            {"key":"bookan_book_open","name":"博看≛资源","type":3,"api":"./cat/MyCatBookan.js"},
            // 其他影视 
             {"key": "Bdys_spider","name": "哔滴≛影视","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/$$$null$$$1"},
             {"key": "csp_SP33","name": "三三≛采集","type": 3,"api": "csp_SP33","searchable": 1,"jar":"http://www.wya6.cn/tz/wyz.php","quickSearch": 1,"filterable": 1,"changeable": 0},
