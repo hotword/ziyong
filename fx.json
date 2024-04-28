@@ -149,9 +149,9 @@
           //{"key": "dr_酷云77","name": "酷云≛七七","type": 3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar","ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/酷云77.js"},
 		      //{"key": "新浪资源","name": "️新浪≛采集","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","大陆剧","欧美剧","日剧","泰剧","韩剧","台湾剧","港澳剧","综艺","动漫","体育"]},
             {"key": "360_spider","name": "三六≛资源","type": 3,"api": "csp_SP360","style": {"type": "rect","ratio": 1.33},"filterable": 1,"quickSearch": 1,"jar":"./jcsq.jar","searchable": 1},
-            {"key": "Wexxpgtv","name": "富士≛≛资源","type": 3,"api": "csp_Wexxpgtv","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1},
-            {"key": "mingriyingshi","name":" 明日≛≛资源","type": 3,"api": "csp_WexMingriys","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1,"categories": ["电影","电视剧"]},
-           
+            {"key": "Wexxpgtv","name": "富士≛资源","type": 3,"api": "csp_Wexxpgtv","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1},
+            {"key": "mingriyingshi","name":" 明日≛资源","type": 3,"api": "csp_WexMingriys","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/wex.jar","searchable": 1,"changeable": 1,"categories": ["电影","电视剧"]},
+            {"key":"bookan_book_open","name":"博看[≛资源cat]","type":3,"api":"./cat/MyCatBookan.js"},
            // 其他影视 
             {"key": "Bdys_spider","name": "哔滴≛影视","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/$$$null$$$1"},
             {"key": "csp_SP33","name": "三三≛采集","type": 3,"api": "csp_SP33","searchable": 1,"jar":"http://www.wya6.cn/tz/wyz.php","quickSearch": 1,"filterable": 1,"changeable": 0},
@@ -272,12 +272,13 @@
             {"key":"喵物","name":"喵物≛动漫","type":3,"api":"./lib/drpy2.min.js","searchable":1,"changeable":1,"ext":"./cat/喵物次元.js"},
 
           //听书
-            {"key": "drpy_js_喜马拉雅","name": "喜马≛听书","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/喜马拉雅.js"},
-            {"key": "drpy_js_海洋听书","name": "海洋≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/海洋听书.js","playerType": "2"},
-            {"key": "drpy_js_六月听书","name": "六月≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/六月听书.js","playerType": "2"},
-            {"key": "drpy_js_有声小说","name": "有声≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/有声小说吧.js","playerType": "2"},
+           // {"key": "drpy_js_喜马拉雅","name": "喜马≛听书","type": 3,"api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf/喜马拉雅.js"},
+           // {"key": "drpy_js_海洋听书","name": "海洋≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/海洋听书.js","playerType": "2"},
+           // {"key": "drpy_js_六月听书","name": "六月≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/六月听书.js","playerType": "2"},
+           // {"key": "drpy_js_有声小说","name": "有声≛听书","type": 3,"api": "./lib/drpy2.min.js","style": {"type": "rect","ratio": 1.33},"ext": "./lib/有声小说吧.js","playerType": "2"},
             {"key": "音乐台","name": "音乐≛音台","type": 3,"api": "./cat/yinyuetai_open.js","searchable": 1,"changeable": 0},
             {"key": "230ts","name": "爱上≛听书","type": 3,"api": "./cat/230ts_open.js"},
+            {"key": "T4-tingshu","name": "275听书","type": 4,"api": "https://catbox.n13.club/275ts.php"},
             {"key":"drpy_js_蜻蜓FM","name":"蜻蜓≛听书","type":3,"api":"./lib/drpy2.min.js","ext":"./cat/蜻蜓FM.js","playerType":"2"},
          //儿童  
             {"key": "儿童拼音","name": "儿童≛拼音","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "./lib/儿童拼音.json","jar": "./lab/spider"},
