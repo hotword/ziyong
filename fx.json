@@ -237,6 +237,7 @@
             {"key":"csp_Mp4Mov","name":"视视≛电影","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
             {"key":"csp_SeedHub","name":"种子≛桥桥","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"timeout":60,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
           //短剧  
+            {"key": "XBPQ_MmDuanJu","name": "无忧≛短剧","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类": "逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5#都市$6#现代言情$7#古装$8#古装言情$9#战神$10#神医$11#神豪$12#超能$13#萌宝$14#复仇$15#脑洞$16#赘婿$17#玄幻$18#热血$24#其他$19","分类url": "http://mmduanju.com/vodshow/{cateId}--------{catePg}---.html"}},
             {"key": "量子", "name": "量子≛短剧", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "短剧" ] }, 
             {"key": "世界","name": "世界≛短剧","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
             {"key": "锐星","name": "锐星≛短剧","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.84.103:6822/api.php/app/"},
