@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en-US" class="theme-">
+<head data-suburl="">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>wekeyfisrt/ziyongGH - lab/pg.jar at main - Agit</title>
+	<meta name="theme-color" content="#6cc644">
+	<meta name="author" content="wekeyfisrt" />
+	<meta name="description" content="ziyongGH" />
+	<meta name="keywords" content="go,git,self-hosted,gitea">
+	<meta name="referrer" content="no-referrer" />
+	<meta name="_csrf" content="zi1BWVOjRwATZqEbpEX31tVC-dE6MTcxNTc4NDE2Mjk2NjU5MjU5OA" />
+	<meta name="_suburl" content="" />
+	
+	
+	
+
+	<script>
+		window.config = {
+			AppVer: 'gitea模板还原\u002b138-g943c8c71f',
+			AppSubUrl: '',
+			StaticUrlPrefix: '',
+			UseServiceWorker:  true ,
+			csrf: 'zi1BWVOjRwATZqEbpEX31tVC-dE6MTcxNTc4NDE2Mjk2NjU5MjU5OA',
+			HighlightJS: false,
+			SimpleMDE: false,
+			Tribute: false,
+			U2F: false,
+			Heatmap: false,
+			heatmapUser: null,
+			NotificationSettings: {
+				MinTimeout:  10000 ,
+				TimeoutStep:   10000 ,
+				MaxTimeout:  60000 ,
+				EventSourceUpdateTime:  10000 ,
+			},
+			PageIsProjects: false,
+      
+		};
+	</script>
+	<link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
+	<link rel="alternate icon" href="/img/favicon.png" type="image/png">
+	<link rel="mask-icon" href="/img/agit-safari.svg" color="#609926">
+	<link rel="fluid-icon" href="/img/agit-lg.png" title="Agit">
+
+
+	<link rel="stylesheet" href="/css/index.css?v=220846678a86246c9d7e7c46c21f20c2">
+	<noscript>
+		<style>
+      .dropdown:hover > .menu { display: block; }
+      .ui.secondary.menu .dropdown.item > .menu { margin-top: 0; }
+		</style>
+	</noscript>
+	<style class="list-search-style"></style>
+
+	
+		<meta property="og:title" content="ziyongGH" />
+		<meta property="og:url" content="https://agit.ai/wekeyfisrt/ziyongGH" />
+		
+	
+	<meta property="og:type" content="object" />
+	
+		<meta property="og:image" content="https://agit.ai/user/avatar/wekeyfisrt/-1" />
+	
+
+<meta property="og:site_name" content="Agit" />
+
+
+<link rel="stylesheet" href="/vendor/plugins/xterm/xterm.css?v=220846678a86246c9d7e7c46c21f20c2" />
+
+
+</head>
+<body>
+	
+
+	<div class="full height">
+		<noscript>This website works better with JavaScript.</noscript>
+
+		
+
+		
+			
+			<div class="ui top secondary stackable main menu following bar light" style="background: #242628; height: 52px;">
+				
+<div class="ui container z-max" id="navbar" v-cloak style="position:fixed;">
+	<div class="i-flex i-align-center i-justify-between logo-img" style="margin-right:26px;height:52px;">
+		<a href="/">
+			<img class="share-nav-logo" src="/img/logo/nav-logo.svg">
+		</a>
+		<div class="ui basic icon button mobile-only" id="navbar-expand-toggle">
+			<i class="sidebar icon"></i>
+		</div>
+	</div>
+
+	
+		<a class="item " href="/">Home</a>
+		<a class="item" href="http://help.agit.ai" id="help-header-a" target="_blank">Help</a>
+		<a class="mobile-only item " href="/explore/repos">Explore</a>
+		<div class="ui input d-relative navbar-search not-mobile" :class="{active:menuVisible}">
+			<i class="icon iconfont icon-search"></i>
+			<input v-model="searchName" placeholder="Search" type="text" autocomplete="off"  @focus="menuVisible = true">
+			<div v-show="searchName.trim() && menuVisible" class="ui segment transition z-menu" @focus="menuVisible = true">
+				<div class="ui list" @click="handleSearch('repos')">
+					<span class="mr-md">${searchName}</span> <span class="i-text-right">Repositories</span>
+				</div>
+				<div class="ui list" @click="handleSearch('users')">
+					<span class="mr-md">${searchName}</span> <span class="i-text-right">Users</span>
+				</div>
+				<div class="ui list" @click="handleSearch('organizations')">
+					<span class="mr-md">${searchName}</span> <span class="i-text-right">Organizations</span>
+				</div>
+			</div>
+
+		</div>
+	
+	
+
+	
+
+
+	
+
+<div class="right stackable menu header-right">
+	
+	<div class="ui dropdown jump item poping up active visible">
+		<i class="iconfont mr-3xs font-size-2xl" :class='{"icon-lang-zh2en":lan!=="en-US","icon-lang-en2zh":lan==="en-US"}'></i>
+		<span id="footerLang" class="hidden">English</span>
+		<i class="caret down icon font-size-sm"></i>
+		<div class="menu">
+			
+			<span lang="en-US" class="item active selected" onclick="handleLanguage(&#34;en-US&#34;)">English</span>
+			
+			<span lang="zh-CN" class="item " onclick="handleLanguage(&#34;zh-CN&#34;)">简体中文</span>
+			
+		</div>
+	</div>
+
+	
+	<a class="item" rel="nofollow" href="/user/login?redirect_to=%2fwekeyfisrt%2fziyongGH%2fsrc%2fbranch%2fmain%2flab%2fpg.jar">
+		<svg viewBox="0 0 16 16" class="svg octicon-sign-in" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm6.56 4.5l1.97-1.97a.75.75 0 10-1.06-1.06L6.22 7.47a.75.75 0 000 1.06l3.25 3.25a.75.75 0 101.06-1.06L8.56 8.75h5.69a.75.75 0 000-1.5H8.56z"/></svg> Sign In
+	</a>
+</div>
+
+
+</div>
+
+			</div>
+		
+
+
+<div id="repoHome" class="repository file list ">
+	<div class="header-wrapper">
+
+	<div class="ui container">
+		<div class="repo-header">
+			<div class="ui huge breadcrumb repo-title">
+				
+					<div class="repo-header-icon">
+	
+		
+			<svg viewBox="0 0 16 16" class="svg octicon-mirror" width="32" height="32" aria-hidden="true"><path fill-rule="evenodd" d="M8.75 1.75a.75.75 0 00-1.5 0v.5a.75.75 0 001.5 0v-.5zM8 4a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 4zm.75 3.75a.75.75 0 00-1.5 0v.5a.75.75 0 001.5 0v-.5zM8 10a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 10zm0 3a.75.75 0 01.75.75v.5a.75.75 0 01-1.5 0v-.5A.75.75 0 018 13zm7.547-9.939A.75.75 0 0116 3.75v8.5a.75.75 0 01-1.265.545l-4.5-4.25a.75.75 0 010-1.09l4.5-4.25a.75.75 0 01.812-.144zM11.842 8l2.658 2.51V5.49L11.842 8zM0 12.25a.75.75 0 001.265.545l4.5-4.25a.75.75 0 000-1.09l-4.5-4.25A.75.75 0 000 3.75v8.5zm1.5-6.76L4.158 8 1.5 10.51V5.49z"/></svg>
+		
+	
+</div>
+
+				
+				<a href="/wekeyfisrt">wekeyfisrt</a>
+				<div class="divider"> / </div>
+				<a href="/wekeyfisrt/ziyongGH">ziyongGH</a>
+
+				<i class="iconfont icon-ai"></i>
+
+				
+					
+						
+					
+				
+				
+				<div class="fork-flag">mirror of <a target="_blank" rel="noopener noreferrer" href="https://github.com/hotword/ziyong.git">https://github.com/hotword/ziyong.git</a></div>
+				
+				
+			</div>
+			
+				<div class="repo-buttons">
+					<form method="post" action="/wekeyfisrt/ziyongGH/action/watch?redirect_to=%2fwekeyfisrt%2fziyongGH%2fsrc%2fbranch%2fmain%2flab%2fpg.jar">
+						<input type="hidden" name="_csrf" value="zi1BWVOjRwATZqEbpEX31tVC-dE6MTcxNTc4NDE2Mjk2NjU5MjU5OA">
+						<div class="ui labeled button poping up" tabindex="0" data-content="Sign in to watch this repository." data-position="top center" data-variation="tiny">
+							<button type="submit" class="ui compact basic button" disabled>
+								<i class="iconfont mr-2xs icon-eye"></i>Watch
+							</button>
+							<a class="ui basic label" href="/wekeyfisrt/ziyongGH/watchers">
+								1
+							</a>
+						</div>
+					</form>
+					<form method="post" action="/wekeyfisrt/ziyongGH/action/star?redirect_to=%2fwekeyfisrt%2fziyongGH%2fsrc%2fbranch%2fmain%2flab%2fpg.jar">
+						<input type="hidden" name="_csrf" value="zi1BWVOjRwATZqEbpEX31tVC-dE6MTcxNTc4NDE2Mjk2NjU5MjU5OA">
+						<div class="ui labeled button poping up" tabindex="0" data-content="Sign in to star this repository." data-position="top center" data-variation="tiny">
+							<button type="submit" class="ui compact basic button" disabled>
+								<i class="mr-2xs iconfont icon-star"></i>Star
+							</button>
+							<a class="ui basic label" href="/wekeyfisrt/ziyongGH/stars">
+								0
+							</a>
+						</div>
+					</form>
+					
+						<div class="ui labeled button " tabindex="0">
+							<a class="ui compact basic button
+								poping up"
+								 data-content="Sign in to fork this repository." rel="nofollow"
+									href="/user/login?redirect_to=/repo/fork/14559"
+								 data-position="top center" data-variation="tiny">
+								<i class="mr-2xs iconfont icon-fork"></i>Fork
+							</a>
+							<a class="ui basic label" href="/wekeyfisrt/ziyongGH/forks">
+								0
+							</a>
+						</div>
+					
+				</div>
+			
+		</div>
+	</div>
+
+	<div class="ui tabs container">
+		
+			<div class="ui tabular stackable menu navbar">
+				
+				<a class="active item" href="/wekeyfisrt/ziyongGH">
+					<i class="iconfont icon-code"></i> Code
+				</a>
+				
+
+				
+					<a class=" item" href="/wekeyfisrt/ziyongGH/issues">
+						<i class="iconfont icon-open"></i> Issues <span class="ui gray tiny label circular">0</span>
+					</a>
+				
+
+				
+
+				
+
+				
+					<a class=" item" href="/wekeyfisrt/ziyongGH/wiki" >
+						<i class="iconfont icon-wiki"></i> Wiki
+					</a>
+				
+
+				
+					<a class=" item" href="/wekeyfisrt/ziyongGH/activity">
+						<i class="iconfont icon-activity"></i> Activity
+					</a>
+				
+
+				
+
+
+				
+			</div>
+		
+	</div>
+	<div class="ui tabs divider"></div>
+</div>
+
+	<span class="repo-url hidden">/wekeyfisrt/ziyongGH</span>
+	<span class="repo-id hidden">14559</span>
+	<div class="ui container">
+		
+
+
+
+		<div class="ui repo-description">
+			<div id="repo-desc">
+				
+				<a class="link" href=""></a>
+			</div>
+			
+		</div>
+		<div class="ui" id="repo-topics">
+		
+		
+		</div>
+		
+		<div class="hide" id="validate_prompt">
+			<span id="count_prompt">You can not select more than 25 topics</span>
+			<span id="format_prompt">Topics must start with a letter or number, can include dashes (&#39;-&#39;) and can be up to 35 characters long.</span>
+		</div>
+		
+		
+		
+
+		<div class="ui segments repository-summary shadow-0 is-lang-stats">
+	<div class="ui segment sub-menu repository-menu">
+		<div class="ui two horizontal center link list">
+			
+				<div class="item">
+					<a class="ui" href="/wekeyfisrt/ziyongGH/commits/branch/main"><i class="iconfont icon-commit"></i> <b>1342</b> Commits</a>
+				</div>
+			
+			
+				<div class="item">
+					<a class="ui" href="/wekeyfisrt/ziyongGH/branches/"><i class="iconfont icon-branch-down"></i> <b>1</b> Branch</a>
+				</div>
+				<div class="item">
+					<span class="ui"><i class="iconfont icon-memory"></i> <b id="RepoSize">241 MB</b></span>
+				</div>
+			
+		</div>
+	</div>
+	
+	<div class="ui segment sub-menu language-stats-details" style="display: none">
+		<div class="ui horizontal center link list">
+			
+			<div class="item">
+				<span class="ui">
+				<i class="color-icon" style="background-color: #f1e05a"></i>
+				<b>
+					JavaScript
+				
+				</b> 89.7%</span>
+			</div>
+			
+			<div class="item">
+				<span class="ui">
+				<i class="color-icon" style="background-color: #3572A5"></i>
+				<b>
+					Python
+				
+				</b> 9.8%</span>
+			</div>
+			
+			<div class="item">
+				<span class="ui">
+				<i class="color-icon" style="background-color: #4F5D95"></i>
+				<b>
+					PHP
+				
+				</b> 0.4%</span>
+			</div>
+			
+		</div>
+	</div>
+	<a class="ui segment language-stats">
+		
+		<div class="bar" style="width: 89.7%; background-color: #f1e05a">&nbsp;</div>
+		
+		<div class="bar" style="width: 9.8%; background-color: #3572A5">&nbsp;</div>
+		
+		<div class="bar" style="width: 0.4%; background-color: #4F5D95">&nbsp;</div>
+		
+	</a>
+	
+</div>
+
+		<div class="ui stackable secondary menu mobile--margin-between-items mobile--no-negative-margins">
+			<div class="fitted item choose reference">
+	<div class="ui floating filter dropdown custom" data-can-create-branch="false" data-no-results="No results found.">
+		<div id="branchSelect" class="ui basic small compact button" data-mode="branches" @click="menuVisible = !menuVisible" @keyup.enter="menuVisible = !menuVisible">
+			<span class="text">
+				<i class="iconfont icon-branch-down"></i>
+				Branch:
+				<strong>main</strong>
+			</span>
+			<i class="dropdown icon"></i>
+		</div>
+		<div class="data" style="display: none" data-mode="branches">
+			
+				<div class="item branch selected" data-url="/wekeyfisrt/ziyongGH/src/branch/main/lab/pg.jar">main</div>
+			
+			
+		</div>
+		<div class="menu transition" :class="{visible: menuVisible}" v-if="menuVisible" v-cloak>
+			<div class="ui icon search input">
+				<i class="filter icon"></i>
+				<input name="search" ref="searchField" v-model="searchTerm" @keydown="keydown($event)" placeholder="Filter branch or tag...">
+			</div>
+			<div class="header branch-tag-choice">
+				<div class="ui grid">
+					<div class="two column row">
+						<a class="reference column" href="#" @click="mode = 'branches'; focusSearchField()">
+							<span class="text" :class="{black: mode !== 'branches'}">
+								<i class="iconfont icon-branch-down"></i> Branches
+							</span>
+						</a>
+						<a class="reference column" href="#" @click="mode = 'tags'; focusSearchField()">
+							<span class="text" :class="{black: mode !== 'tags'}">
+								<i class="reference tags icon"></i> Tags
+							</span>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class="scrolling menu" ref="scrollContainer">
+				<div v-for="(item, index) in filteredItems" :key="item.name" class="item" :class="{selected: item.selected, active: active == index}" @click="selectItem(item)" :ref="'listItem' + index">${ item.name }</div>
+				<div class="item" v-if="showCreateNewBranch" :class="{active: active == filteredItems.length}" :ref="'listItem' + filteredItems.length">
+					<a href="#" @click="createNewBranch()">
+						<div>
+							<i class="iconfont icon-branch-down"></i>
+							Create branch <strong>${ searchTerm }</strong>
+						</div>
+						<div class="text small">
+							
+								from &#39;main&#39;
+							
+						</div>
+					</a>
+					<form ref="newBranchForm" action="/wekeyfisrt/ziyongGH/branches/_new/branch/main" method="post">
+						<input type="hidden" name="_csrf" value="zi1BWVOjRwATZqEbpEX31tVC-dE6MTcxNTc4NDE2Mjk2NjU5MjU5OA">
+						<input type="hidden" name="new_branch_name" v-model="searchTerm">
+					</form>
+				</div>
+			</div>
+			<div class="message" v-if="showNoResults">${ noResults }</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+			
+			
+				<div class="fitted item">
+					<span class="ui breadcrumb repo-path">
+						<a class="section" href="/wekeyfisrt/ziyongGH/src/branch/main" title="ziyongGH">ziyongGH</a>
+						
+							<span class="divider">/</span>
+							
+								<span class="section">
+									<a href="/wekeyfisrt/ziyongGH/src/branch/main/lab" title="lab">lab</a></span>
+						
+							<span class="divider">/</span>
+							
+								<span class="active section" title="pg.jar">pg.jar</span>
+							
+						</span></div>
+			
+			<div class="right fitted item" id="file-buttons">
+				<div>
+					
+
+					
+					
+				</div>
+			</div>
+
+			<div class="fitted item">
+				
+				
+			</div>
+		</div>
+		
+			<div class="tab-size-8 non-diff-file-content">
+	<h4 class="file-header ui top attached header">
+		<div class="file-header-left df ac">
+			
+				<div class="file-info text grey normal mono">
+					
+					
+					
+						<div class="file-info-entry">
+							11 MB
+						</div>
+					
+					
+				</div>
+			
+		</div>
+		
+		<div class="file-header-right df ac">
+			<div class="ui right file-actions">
+				<div class="ui buttons">
+					<a class="ui button" href="/wekeyfisrt/ziyongGH/raw/branch/main/lab/pg.jar">Raw</a>
+					
+						<a class="ui button" href="/wekeyfisrt/ziyongGH/src/commit/d7001ee28a3bf0e7dc9f406f3034a34d3a10279e/lab/pg.jar">Permalink</a>
+					
+					
+					<a class="ui button" href="/wekeyfisrt/ziyongGH/commits/branch/main/lab/pg.jar">History</a>
+				</div>
+				
+			</div>
+		</div>
+		
+	</h4>
+	<div class="ui attached table unstackable segment">
+		<div class="file-view ">
+			
+				<div class="view-raw ui center">
+					
+						<a href="/wekeyfisrt/ziyongGH/raw/branch/main/lab/pg.jar" rel="nofollow" class="btn btn-gray btn-radius">View Raw</a>
+					
+				</div>
+			
+		</div>
+	</div>
+</div>
+
+
+	<div class="i-text-center">
+		
+				
+		
+	</div>
+
+
+<script>
+function submitDeleteForm() {
+    var message = prompt("delete_confirm_message\n\ndelete_commit_summary", "Delete ''");
+    if (message != null) {
+        $("#delete-message").val(message);
+        $("#delete-file-form").submit()
+    }
+}
+</script>
+
+		
+	</div>
+	<div id="toListModel">
+		<div class="ui modal" id="toShare">
+			<i class="close icon black"></i>
+			<div class="header">Share Source</div>
+			<div class="content">
+				<form autocomplete="off" class="ui form training ignore-dirty">
+					
+					<div class="fields">
+						<p class="px-sm py-none mb-sm">Sharing will generate an anonymous link to present the selected codes and training results, which will not reveal the original repository address. However, Agit cannot process the codes or the training results. For double-blind peer review or similar usages, please ensure the contents have been fully anonymized.</p>
+					</div>
+
+					<div class="fields">
+						<div class="two wide field required">
+							<label>Branch</label>
+						</div>
+						<div id="branchField" class="fourteen wide field">
+
+							<div class="fitted item choose">
+								<div class="ui floating filter dropdown custom">
+
+									<div class="ui basic small compact button" style="min-width: 200px;" @click="menuVisible = !menuVisible">
+										<span class="text">
+											<i class="iconfont icon-branch-down"></i>
+											<span v-text='isViewBranch?"Branch":"Tree"'></span>:
+                      <strong v-text='isViewBranch?(selectedBranch?selectedBranch:"Please select"):(selectedTag?selectedTag:"Please select")'></strong>
+										</span>
+										<i class="dropdown icon" tabIndex="-1"></i>
+									</div>
+
+									<div tabindex="-1"  id="scrolling" class="menu transition menu-share" :class="{visible: menuVisible}" v-show="menuVisible" @blur="menuVisible = false">
+
+										<div class="ui icon search input" style="width: 200px;">
+											<i class="filter icon"></i>
+											<input name="search" v-model="searchTerm" @keydown="keydown($event)" placeholder="Filter branch or tag...">
+										</div>
+
+										<div class="header branch-tag-choice">
+											<div class="ui grid">
+												<div class="two column row">
+													<a class="reference column" href="javascript:;" @click="handleBranchTab(true)">
+														<span class="text" :class="{black: !isViewBranch}">
+															<i class="iconfont icon-branch-down"></i>
+															Branches
+														</span>
+													</a>
+													<a class="reference column" href="javascript:;" @click="handleBranchTab(false)">
+														<span class="text" :class="{black: isViewBranch}">
+															<i class="reference tags icon"></i>
+															Tags
+														</span>
+													</a>
+												</div>
+											</div>
+										</div>
+
+										<div v-show="isViewBranch" class="scrolling menu" ref="scrollContainer">
+											<div v-for="(item, index) in branches" v-show="item.name.includes(searchTerm)" :key="item.name" class="item" @click="handleBranchOrTag(item)">
+												<span v-text="item.name"></span>
+											</div>
+										</div>
+										<div v-show="!isViewBranch" class="scrolling menu" ref="scrollContainer">
+											<div v-for="(item, index) in tags" v-show="item.name.includes(searchTerm)" :key="item.name" class="item" @click="handleBranchOrTag(item)">
+												<span v-text="item.name"></span>
+											</div>
+										</div>
+
+										<div class="message" v-if="(isViewBranch && branches.length==0) || (!isViewBranch && tags.length==0)">No results found.</div>
+									</div>
+
+									<div class="ui pointing red basic label" style="display:none;">
+										Please select a branch or tag
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="fields" v-show="selectedBranch">
+						<div class="two wide field">
+							<label>Commit</label>
+						</div>
+						<div id="commitWrap" class="fourteen wide field">
+							<select class="ui search selection dropdown commit-wrap" name="commit">
+								<option value=""></option>
+							</select>
+						</div>
+					</div>
+					<div class="fields">
+						<label class="two wide field  required">Share Title</label>
+						<div class="fourteen wide field trainName-filed">
+							<input v-model="shareName" type="text" name="shareName"  class="form-trainName" :maxlength="16"  placeholder="Please enter the title content, limited to 16 bits">
+						</div>
+					</div>
+					<div class="ui grid uioption">
+						<label class="required">Link Validity</label>
+					</div>
+					<div class="ui grid fields">
+						<div class="thirteen wide column">
+							<div class="ui four item stackable tabs menu ui-link-bg">
+								<a v-for="(item, index) in shareTimeList" :key="index" :class="['item', activeIdx === item.shareTimeId ? 'active' : '']" data-tab="oneday" @click="handleMenuChange(item)">
+									<span v-text="formatLinkTime(item.shareTimeName)"></span></a>
+							</div>
+						</div>
+						<div class="right aligned three wide column action mt-3xs">
+							<button class="ui primary button" @click="handleLink">
+								Generate Link</button>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+		<div class="ui modal" id="toCopyShareLink">
+			<i class="close icon black"></i>
+			<div class="header">Share link has been generated</div>
+			<div class="content ui form">
+				<div class="fields">
+					<div class="two wide field">
+						<label>Link Address:</label>
+					</div>
+					<div  class="fourteen wide field">
+						<p v-text="linkAddress" id="share_url"></p>
+					</div>
+				</div>
+				<div class="fields uioption">
+					<div class="two wide field">
+					<label>Link Validity:</label>
+					</div>
+					<div class="fourteen wide field">
+						<p v-text="linkExDate"></p>
+					</div>
+				</div>
+				<div class="fields uioption">
+							<div class="sixteen wide field" style="text-align: right">
+								<button class="ui basic icon button poping primary up clipboard share-button" id="share-button" data-original="Copy" data-success="Link has been copied" data-error="Use ⌘C or Ctrl-C to copy" data-content="Copy" data-variation="inverted tiny"  data-clipboard-target="#share_url">
+									Copy Share
+								</button>
+							</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+</div>
+<div class="content">
+	<p></p>
+</div>
+</div>
+</div>
+
+
+
+
+		
+
+		</div>
+
+		
+
+		<footer>
+	<div class="base-footer-content i-footer mx-auto">
+		<div class="ui left">
+			<div class="p-logo i-flex i-align-center">
+				<img class="logo-icon" src="/img/logo/logo.svg">
+				<i class="logo-text">&copy; 2023 Agit Cloud Computing, Ltd.</i>
+				<a  id="version-a" style="margin-right: 16px; text-decoration: underline; font-size: 12px;" target="_blank" href="https://agit.ai/AgitDeveloper/AgitPythonExamples/wiki"></a>
+			</div>
+		</div>
+		<div class="ui right links p-logo">
+			<a style="margin-right: 16px; text-decoration: underline; font-size: 12px;" target="_blank" href="/agreement/terms">Terms of Service</a>
+<a style="margin-right: 16px; text-decoration: underline; font-size: 12px;" target="_blank" href="/agreement/privacy">Privacy Statement</a>
+<a style="text-decoration: underline; font-size: 12px; margin-right: 16px;" target="_blank" href="/opensource">Open Source</a>
+<a style="text-decoration: underline; font-size: 12px;" target="_blank" id="help-a" target="_blank" href="http://help.agit.ai/">Help</a>
+
+		</div>
+	</div>
+</footer>
+
+
+
+		
+
+		
+		
+		
+		<script src="/js/index.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+
+		<script src="/vendor/plugins/vue/vue.min.js"></script>
+<script src="/minifyjs/head_navbar.base.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/minifyjs/footer_content.base.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+
+
+<script src="/vendor/plugins/promise-polyfill/polyfill.min.js"></script>
+<script src="/vendor/plugins/cssrelpreload/loadCSS.min.js"></script>
+<script src="/vendor/plugins/cssrelpreload/cssrelpreload.min.js"></script>
+<script src="/vendor/plugins/vue-infinite-loading/vue-infinite-loading.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/vendor/plugins/Qrcode/qrcode.min.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/vendor/plugins/i-components/i.components.min.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+
+<script src="/vendor/plugins/vue-node-spec/node-spec.min.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/vendor/plugins/jquery-migrate/jquery-migrate.min.js?v=3.0.1"></script>
+<script src="/vendor/plugins/jquery.areyousure/jquery.are-you-sure.js"></script>
+<script src="/vendor/plugins/emojify/emojify.custom.js"></script>
+<script src="/vendor/plugins/xterm/xterm.js"></script>
+
+
+
+
+
+
+
+
+
+	</body>
+	</html>
+
+<script>
+$("#createTraining").click(function(){
+
+	$api.trainReachUpperLimit({repoId:Number($('.repo-id').text())}).then(data => {
+        if (!data) return;
+		if(data.isUpperLimit){
+			$ITools.handleToast('error', $i18n.tr('code', 'trainCountLimit'))
+			return
+		}
+
+		const mode = $("#branchSelect").attr("data-mode"),
+	      	branch = $("#branchSelect").find("strong").text();
+		let path = ""
+		$(".repo-path a").each(function(index,item){
+			if(index === 0){
+				return
+			}
+			path += path === ""?$(this).attr("title"):("/"+$(this).attr("title"))
+		})
+		const params={
+			scriptPath: $(".repo-path").find(".active.section").attr("title"),
+			workSpace: path,
+			branchName: mode === "branches" ? branch : "",
+			tagName: mode === "branches" ? "" : branch
+		}
+		window.location.href = window.location.origin + $('.repo-url').text() + '/training/create?scriptFile=' + escapePound(JSON.stringify(params))
+      })
+
+
+})
+function toUpload(el) {
+
+const tempSplit = $("#RepoSize").text().split("GB")
+
+
+if (tempSplit.length === 2 && tempSplit[0] >= 1) {
+	$ITools.handleToast('error', $i18n.tr('valid', 'fileSizeLimit'))
+	return
+}
+window.location.href = $(el).attr("data-href")
+}
+function handleShare() {
+$('#toShare').modal('show')
+}
+function shareLink() {
+$('#toCopyShareLink').modal('show')
+}
+function escapePound(str){
+	let res=""
+	res=str.replaceAll("%","%25")
+	res=res.replaceAll("#","%23")
+	res=res.replaceAll(" ","%20")
+	res=res.replaceAll("?","%3F")
+	return res
+}
+</script>
+
+<script src="/minifyjs/auth.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+<script src="/minifyjs/repo_home.js?v=220846678a86246c9d7e7c46c21f20c2"></script>
+
