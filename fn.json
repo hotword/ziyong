@@ -102,7 +102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./js/ikanbot2.js"
+      "ext": "./lib/ikanbot2.js"
     },
 {"key":"奇优","name":"️奇优≛影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/奇优.json", "jar": "./lib/XBPQ.jar"},
 {
