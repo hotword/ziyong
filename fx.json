@@ -3,8 +3,7 @@
   "spider": "./lib/pg.jar",
   "lives": [
       {"name":"live","type":0,"playerType":1,"url":"https://jihulab.com/qq1633886494/11/-/raw/main/123.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"},
-    //{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90di5sYW4yd2FuLnRvcC9saXZlLnR4dA=="]}]},
-{
+   {
       "name": "多线",
       "type": 0,
       "url": "https://jihulab.com/xx9141316/jk/-/raw/main/dst.txt",
