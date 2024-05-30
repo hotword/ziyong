@@ -170,15 +170,7 @@
       "ext": "http://app.kzjtv.com",
       "jar": "./lib/fix24225.jar"
     },
-    {
-      "key": "柠檬",
-      "name": "柠檬≛影视",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url=",
-      "jar": "./lib/fix24225.jar"
-    },
+    //{"key": "柠檬","name": "柠檬≛影视","type": 3,"api": "csp_Nmvod","playerType": 2,"ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar": "./lib/fix24225.jar"},
     {
       "key": "黑木耳资源",
       "name": "黑木≛影视",
@@ -190,15 +182,7 @@
       "ext": "./lib/黑木耳资源.json",
       "jar": "./lib/xyqxbpq.jar"
     },
-    {
-      "key": "小爱",
-      "name": "小爱≛影院",
-      "type": 1,
-      "api": "http://127.0.0.1:10079/p/0/proxy/http://laowang.co/api.php/provide/vod?",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-      "searchable": 1,
-      "changeable": 1
-    },
+    {"key": "小爱","name": "小爱≛影院","type": 1,"api": "http://127.0.0.1:10079/p/0/proxy/http://laowang.co/api.php/provide/vod?","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable": 1,"changeable": 1},
     {
       "key": "原创",
       "name": "原创≛影视",
