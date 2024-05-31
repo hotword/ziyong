@@ -31,7 +31,7 @@
     {
       "name": "宁宁",
       "type": "0",
-      "url": "./lib/宁宁ZB.json"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"
     },
     {
       "name": "直播",
@@ -59,16 +59,6 @@
       "name": "直播5",
       "type": 0,
       "url": "https://dimaston.github.io/live.m3u"
-    },
-    {
-      "name": "直播6",
-      "type": 0,
-      "url": "./lib/tvlive.txt"
-    },
-    {
-      "name": "直播7",
-      "type": 0,
-      "url": "./lib/iptvSG.txt"
     }
   ],
   "sites": [
