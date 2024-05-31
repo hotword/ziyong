@@ -41,12 +41,12 @@
     {
       "name": "直播0",
       "type": "0",
-      "url": "./lib/hntv.txt"
+      "url": "./lib/杭州华数.m3u"
     },
     {
       "name": "直播1",
       "type": "0",
-      "url": "./lib/live.txt"
+      "url": "./lib/华数2.m3u"
     },
     {
       "name": "直播2",
