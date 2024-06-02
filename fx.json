@@ -94,15 +94,7 @@
       "ext": "./lib/奇珍异兽.js"
     },
   
-    {
-      "key": "暴風",
-      "name": "暴风≛暴风",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "jar": "./lib/pg.jar",
-      "changeable": 1
-    },
+  //  {"key": "暴風","name": "暴风≛暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 1,"jar": "./lib/pg.jar","changeable": 1},
 
     
 {
