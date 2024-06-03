@@ -86,6 +86,7 @@
       "changeable": 1,
       "ext": "./lib/ikanbot2.js"
     },
+    {"key": "meowtv_qysp","name": "奇艺≛解析","type": 3,"api": "MJS_qysp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
  {
       "key": "drpy_js_奇珍异兽",
       "name": "艺艺≛官源",
