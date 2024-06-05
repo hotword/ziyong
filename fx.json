@@ -187,7 +187,7 @@
     },
     {"key": "haokongbu","name": "恐怖≛影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"主页url": "https://m.haokongbu.top/","分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]","分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju","副标题": "class=\"typeset\"&&</i>","起始页": 2,"倒序": 1,"播放数组": "下载地址</h2>&&</ul>[不包含:网盘]","播放列表":"<ul>&&</div>[包含:magnet]"},"jar": "./lib/XBPQ.jar"},
     //{"key": "白嫖","name": "白飘≛影视","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./lib/fan.txt","ext": "https://www.baipiaoys.com:9092/"},
-      {"key": "白嫖电影","name": "白嫖≛电影","type": 3,"api": "csp_XBPQ", "jar": "./lib/XBPQ.jar","ext": {"简介":"小林子为您剧情介绍: +video-info-content vod_content\">&&</div>","分类url": "https://dy.gduan.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "短剧$24#电视剧$2#电影$1#动漫$4#综艺$3"}},
+     // {"key": "白嫖电影","name": "白嫖≛电影","type": 3,"api": "csp_XBPQ", "jar": "./lib/XBPQ.jar","ext": {"简介":"小林子为您剧情介绍: +video-info-content vod_content\">&&</div>","分类url": "https://dy.gduan.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "短剧$24#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "快看",
       "name": "快看≛影视",
