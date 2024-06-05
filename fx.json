@@ -76,16 +76,9 @@
       "filterable": 1,
       "api": "./lib/路飞豆瓣.js"
     },
-    {
-      "key": "drpy_js_ikanbot2",
-      "name": "爱看≛影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/ikanbot2.js"
-    },
+    //{"key": "drpy_js_ikanbot2","name": "爱看≛影视","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./lib/ikanbot2.js"},
+    { "key": "Ikanbot", "name": "爱看≛影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
+    
     {"key": "meowtv_qysp","name": "奇艺≛解析","type": 3,"api": "MJS_qysp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
  {
       "key": "drpy_js_奇珍异兽",
@@ -192,6 +185,7 @@
       "ext": "./lib/金鱼影视.json",
       "jar": "./lib/xyqxbpq.jar"
     },
+    {"key": "haokongbu","name": "恐怖≛影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"主页url": "https://m.haokongbu.top/","分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]","分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju","副标题": "class=\"typeset\"&&</i>","起始页": 2,"倒序": 1,"播放数组": "下载地址</h2>&&</ul>[不包含:网盘]","播放列表":"<ul>&&</div>[包含:magnet]"},"jar": "./lib/XBPQ.jar"},
     {
       "key": "白嫖",
       "name": "白飘≛影视",
@@ -201,7 +195,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./lib/fan.txt;md5;800d19942365f5754f20c532cffd2242",
+      "jar": "./lib/fan.txt",
       "ext": "https://www.baipiaoys.com:9092/"
     },
     {
