@@ -108,7 +108,7 @@
     
     {"key":"奇优","name":"️奇优≛影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/奇优.json", "jar": "./lib/XBPQ.jar"},
     //{"key": "韩小圈","name": "小圈≛影视","type": 3,"api": "csp_HanXiaoQuan","jar": "./bib/danmu.jar","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+     {"key": "片哈影视",  "name": "片哈≛影视", "type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar", "ext": {"数组":"fed-list-item fed-padding&&</li>",  "图片":"data-original=\"&&\"",  "标题":"fed-part-eone\"*>&&</a>","副标题":"fed-text-center\"&&</span>","线路数组":"fed-padding fed-part-rows&&</ul>","播放数组":"fed-part-rows detail-play-list&&</ul>","分类url":"https://www.pianha.cc/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area}","分类":"电视剧$2#电影$1#动漫$4#综艺$3#伦理$20"}},
     {
       "key": "天天",
       "name": "天天≛影视",
