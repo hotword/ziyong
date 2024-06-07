@@ -833,7 +833,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/8K影视.json",
-      "jar": "./lib/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"
+      "jar": "./lib/xyqh.jar"
     },
     {
       "key": "csp_XYQH_HT",
@@ -844,7 +844,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/AB影院.json",
-      "jar": "./lib/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"
+      "jar": "./lib/xyqh.jar"
     },
     {
       "key": "csp_XYQH_鸭奈飞影视",
@@ -855,7 +855,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/鸭奈飞影视.json",
-      "jar": "./lib/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"
+      "jar": "./lib/xyqh.jar"
     },
     {
       "key": "csp_XYQH_xiaoxiao",
