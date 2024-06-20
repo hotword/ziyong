@@ -14,15 +14,14 @@
     {"name":"MHBLive","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/myhomebox/tv/main/live.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"港台节目","type":0,"url":"http://www.stream-link.org/stream-link.m3u","ua":"okhttp/3.15","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name": "IPV6","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1},
-
     {"name": "运输","type": "0","url": "./lib/159169.php"},
     {"name": "宁宁","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
     {"name": "直播","type": "0","url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
     {"name": "直播0","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"},
     {"name": "直播1","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u"},
-    
     {"name": "直播2","type": 0,"url": "https://jihulab.com/kgce/zb/-/raw/zb/zy"},
-    {"name": "直播3","type": 0,"url": "https://dimaston.github.io/live.m3u"}
+    {"name": "直播3","type": 0,"url": "https://dimaston.github.io/live.m3u"},  
+    {"name": "直播4","type": 0,"https://fel.forxhr.top:2022/down.php/404fb3aa57d6e8f3185930a7a7c98b91.txt"}
   ],
   "sites": [
     {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"},
