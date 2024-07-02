@@ -1635,6 +1635,36 @@
       "type": 3,
       "url": "Web"
     },
+	  {
+				"name":"看看",
+				"type":0,
+				"url":"https://jx.m3u8.pw/?url=",
+				"ext": {
+					"flag": [
+						"qq",
+						"腾讯",
+						"qiyi",
+						"爱奇艺",
+						"奇艺",
+						"youku",
+						"优酷",
+						"mgtv",
+						"芒果",
+						"imgo",
+						"letv",
+						"乐视",
+						"pptv",
+						"PPTV",
+						"sohu",
+						"bilibili",
+						"哔哩哔哩",
+						"哔哩"
+					],
+					"header": {
+						"User-Agent": "okhttp/4.1.0"
+					}
+				}
+			},
     {
       "name": "神秘的哥哥们",
       "type": 1,
