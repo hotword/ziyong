@@ -2400,7 +2400,7 @@
     }
   ],
 	"rules":[
-			{
+		{
 				"name": "proxy",
 				"hosts": [
 					"raw.githubusercontent.com",
