@@ -1,13 +1,1 @@
-Object.assign(muban.mxpro.二级, {
-    tab_text: 'div--small&&Text',
-});
-var rule = {
-    模板: 'mxpro',
-    title: '爱看影院',
-    host: 'https://www.92kyy.com',
-    cate_exclude: '今日更新',
-    url: '/vodshow/fyclass--------fypage---.html',
-    searchUrl: '/vod-s/**----------fypage---.html',
-    class_parse: '.navbar-items li:gt(0):lt(8);a&&Text;a&&href;.*/(\\d+)',
-    tab_exclude: '排序',
-}
+T2JqZWN0LmFzc2lnbihtdWJhbi5teHByby7kuoznuqcsIHsKICAgIHRhYl90ZXh0OiAnZGl2LS1zbWFsbCYmVGV4dCcsCn0pOwp2YXIgcnVsZSA9IHsKICAgIOaooeadvzogJ214cHJvJywKICAgIHRpdGxlOiAn54ix55yL5b2x6ZmiJywKICAgIGhvc3Q6ICdodHRwczovL3d3dy45Mmt5eS5jb20nLAogICAgLy8gaG9zdDogJ2h0dHBzOi8vOTJreXkuY29tJywKICAgIGNsYXNzX3BhcnNlOiAnLm5hdmJhci1pdGVtcyBsaTpndCgwKTpsdCg4KTthJiZUZXh0O2EmJmhyZWY7LiovKFxcZCspJywKICAgIGNhdGVfZXhjbHVkZTogJ+S7iuaXpeabtOaWsHzmjpLluo8nLAogICAgdXJsOiAnL3ZvZHNob3cvZnljbGFzcy0tLS0tLS0tZnlwYWdlLS0tLmh0bWwnLAogICAgc2VhcmNoVXJsOiAnL3ZvZC1zLyoqLS0tLS0tLS0tLWZ5cGFnZS0tLS5odG1sJywKICAgIHRhYl9leGNsdWRlOiAn5o6S5bqPJywKfQ==
