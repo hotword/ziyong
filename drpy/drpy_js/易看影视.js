@@ -1,9 +1,1 @@
-var rule = {
-    模板: 'mxpro',
-    title: '易看影视',
-    host: 'http://tv.ykzj6.cn',
-    url: '/index.php/vod/show/id/fyclass/page/fypage.html',
-    tab_exclude: '排序',
-    searchUrl: '/index.php/vod/search/page/fypage/wd/**.html',
-    class_parse: '.navbar-items li:gt(0):lt(9);a&&Text;a&&href;/(\\d+).html',
-}
+H4sIAFhyiGYC/22NsU7DMBRFd77CU5sU8GNCIhV/AVul6jV2axcnseyXNAWxsiCBBAsDDEywsiIhvqaBz8CJUqkDb7l690jnVuiYK41kp+xqj4Vr3l+bl++EDbPaumJ40JWkycjQNU+PP8+3m6+P37ebHqnCUyCKyCYAVPH1xeXymKd5z0tnAgadC1lzqyxUhQCvihVoAfN1atB7sLiQ4WmDK8rMdhZnU1mnphTd+N3D5vO+R16iS9X5v/IO7TphJWA02jV3s1OLzrdmnmM1Q3eoSWaeGZ0sKDqKE0PRSTzGweBM1tSmcnI+hmgyEfvx1nb9B/g/NPNCAQAA

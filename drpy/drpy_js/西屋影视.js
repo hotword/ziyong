@@ -1,12 +1,1 @@
-Object.assign(muban.mxone5.二级, {
-    tab_text: 'span&&Text',
-    lists: '.module-player-list.tab-list:eq(#id)&&.scroll-content&&a',
-});
-var rule = {
-    模板: 'mxone5',
-    title: '西屋影视',
-    host: 'https://www.xiwutv.com',
-    url: '/vodshow/fyclass--------fypage---.html',
-    searchUrl: '/vodsearch/**----------fypage---.html',
-    搜索: '.module-items .module-search-item;.video-info-header&&a&&title;img&&data-src;.video-serial&&Text;.video-info-header&&a&&href',
-}
+qz2VfkB3O9fqiff5MjJa/AGPqh+RieRT1xCDC/uYMyxmYSfBqy6ywasp0y8aCxcZhIcHhl/0wOos7RMMIhoGCF+NeKsc+KHoBgaJftJVfZ+sx2uniljDfODVlnR8EjYmeY5XxKaPEHh4krPAQ3a2j1pSfOdi0Xt9yfIxFi6RFT50tjVUw9qXYKanFycbAH5k24pGBDboBlu+Y77aVUD+1I5xjBTVI7mCq7PibKbs+iHiHrGLobdh2wwUz0DpXllHGCMtGuaKsrWOskq/xZ++d24uTAHbf5J0QeqmQElE1swROmmR8hc61pKffkbxEJOOJEEm5/gR/ZlGnYsCYFNc0OkmpJYgN+uNdlblgl31b+D2QMVGwlsWIDE3UmV1PDgcehiOqgvO8KFat7ef9RleSEuCak5Fh7gcWZt2+tn6Dzk9G29cgCyJXcGQU4Tx+vXDP3UywU0lcmQ0jxznurU2t00Fi4SyNOhcILwGE/5mO+s0cLWqA8RhzoLjnT/xD9b4vCQ2aJ67RDT6ekE7qZVGC61ZUU7XZh2FOpDuDGgZkHW2Nt+CAJFaKohyhmF9+zYlnuAqu2plLjCLhVnlDlu0BCiaiDBP0RTvDrFDO5leZ4os+m6yDURUdmCfODi2wvXxSxK0IzjXnJt3clhOvMEPMA==

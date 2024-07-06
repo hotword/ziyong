@@ -1,11 +1,1 @@
-// https://collect.wolongzyw.com/api.php/provide/vod/?ac=list
-
-var rule = {
-    模板: '采集1',
-    title: '卧龙资源[资]',
-    host: 'https://collect.wolongzyw.com',
-    // homeTid: '13',
-    homeTid: '',
-    cate_exclude: '电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯',
-    parse_url: '',
-}
+5vWabSoD6G9XAhdwS4BJX0+LaZxuCIAcSrgykz8wFlzMxaBtbSNT6/F5ARv+GEXtkuvbobSel++DxiryytMZFh5x1a4GmpLap3dxjc8Ar7Dl+El7srfy+k7LuLZ1mxMEIckwTn4jV659bXd+YA9xs+qfOF518UfGMM3r2lauzp4ZvAja7h00o7HlWSEHRk7bAlYM8VrXvoy5ES+zMCMsMLJCyeMjmgnf4teR6dqFRZRFtGevx8lsg82Vhyhql2HHV1YOb0LU29UNXamoFUdfGzV5vMPOvqMc4Jw/ELmFSKZhZNYOEPYx0mH8z1ycK/rZAL7QYsJCxBZs9Ouf8AYDMzai7M2SFBdZIr56C0x3w/6JczDyL65QvCp+RRK/VM08jJ5/Lxej88YW1rwsH18Sfhk8NcG/ZrF9+LPmsV6sgvyTrp2Dyc8fMaD0FAsfa6dw
