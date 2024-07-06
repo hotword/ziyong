@@ -1,7 +1,1 @@
-var rule = {
-    模板: 'mxone5',
-    title: '时光影院',
-    host: 'https://www.time-chicken.com',
-    url: '/vod/show/id/fyclass/page/fypage.html',
-    searchUrl: '/vod/search/page/fypage/wd/**.html',
-}
+dmFyIHJ1bGUgPSB7CiAgICDmqKHmnb86ICdteG9uZTUnLAogICAgdGl0bGU6ICfml7blhYnlvbHpmaInLAogICAgaG9zdDogJ2h0dHBzOi8vd3d3LnRpbWUtY2hpY2tlbi5jb20nLAogICAgdXJsOiAnL3ZvZC9zaG93L2lkL2Z5Y2xhc3MvcGFnZS9meXBhZ2UuaHRtbCcsCiAgICBzZWFyY2hVcmw6ICcvdm9kL3NlYXJjaC9wYWdlL2Z5cGFnZS93ZC8qKi5odG1sJywKfQ==

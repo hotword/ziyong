@@ -1,11 +1,1 @@
-var rule = {
-    模板: 'mxone5',
-    title: '神马电影[搜]',
-    host: 'https://www.375km.com',
-    url: '/vodshow/fyclass--------fypage---.html',
-    class_parse: 'ul.grid-items&&li;a&&Text;a&&href;(\\d+).html',
-    detailUrl: '/voddetail/fyid.html',
-    // searchUrl: '/vodsearch/-------------.html?wd=**',
-    searchUrl: '/index.php/ajax/suggest?mid=1&wd=**',
-    搜索: 'json:list;name;pic;en;id',
-}
+dmFyIHJ1bGUgPSB7CiAgICDmqKHmnb86ICdteG9uZTUnLAogICAgdGl0bGU6ICfnpZ7pqaznlLXlvbFb5pCcXScsCiAgICBob3N0OiAnaHR0cHM6Ly93d3cuMzc1a20uY29tJywKICAgIHVybDogJy92b2RzaG93L2Z5Y2xhc3MtLS0tLS0tLWZ5cGFnZS0tLS5odG1sJywKICAgIGNsYXNzX3BhcnNlOiAndWwuZ3JpZC1pdGVtcyYmbGk7YSYmVGV4dDthJiZocmVmOyhcXGQrKS5odG1sJywKICAgIGRldGFpbFVybDogJy92b2RkZXRhaWwvZnlpZC5odG1sJywKICAgIC8vIHNlYXJjaFVybDogJy92b2RzZWFyY2gvLS0tLS0tLS0tLS0tLS5odG1sP3dkPSoqJywKICAgIHNlYXJjaFVybDogJy9pbmRleC5waHAvYWpheC9zdWdnZXN0P21pZD0xJndkPSoqJywKICAgIOaQnOe0ojogJ2pzb246bGlzdDtuYW1lO3BpYztlbjtpZCcsCn0=

@@ -1,11 +1,1 @@
-/**
- * 有筛选验证
- */
-var rule = {
-    模板: 'mxpro',
-    title: '快看影视',
-    host: 'https://www.kkvod.org',
-    url: '/vodshow/fyclass--------fypage---.html',
-    searchUrl: '/vodsearch/**----------fyclass---.html',
-    class_parse: '.navbar-items li;a&&Text;a&&href;/(\\d+).html',
-}
+LyoqCiAqIOacieetm+mAiemqjOivgQogKi8KdmFyIHJ1bGUgPSB7CiAgICDmqKHmnb86ICdteHBybycsCiAgICB0aXRsZTogJ+W/q+eci+W9seinhicsCiAgICBob3N0OiAnaHR0cHM6Ly93d3cua2t2b2Qub3JnJywKICAgIHVybDogJy92b2RzaG93L2Z5Y2xhc3MtLS0tLS0tLWZ5cGFnZS0tLS5odG1sJywKICAgIHNlYXJjaFVybDogJy92b2RzZWFyY2gvKiotLS0tLS0tLS0tZnljbGFzcy0tLS5odG1sJywKICAgIGNsYXNzX3BhcnNlOiAnLm5hdmJhci1pdGVtcyBsaTthJiZUZXh0O2EmJmhyZWY7LyhcXGQrKS5odG1sJywKfQ==

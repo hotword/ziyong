@@ -1,8 +1,1 @@
-var rule = {
-    模板: '采集1',
-    title: '极速资源[资]',
-    host: 'https://jszyapi.com',
-    cate_exclude: '电影片|连续剧|综艺片|动漫片|电影解说|演员|新闻资讯|电视剧|电影|综艺|动漫',
-    // parse_url: 'https://jisjiexi.com/play/?url='
-    parse_url: ''
-}
+dmFyIHJ1bGUgPSB7CiAgICDmqKHmnb86ICfph4fpm4YxJywKICAgIHRpdGxlOiAn5p6B6YCf6LWE5rqQW+i1hF0nLAogICAgaG9zdDogJ2h0dHBzOi8vanN6eWFwaS5jb20nLAogICAgY2F0ZV9leGNsdWRlOiAn55S15b2x54mHfOi/nue7reWJp3znu7zoibrniYd85Yqo5ryr54mHfOeUteW9seino+ivtHzmvJTlkZh85paw6Ze76LWE6K6vfOeUteinhuWJp3znlLXlvbF857u86Im6fOWKqOa8qycsCiAgICAvLyBwYXJzZV91cmw6ICdodHRwczovL2ppc2ppZXhpLmNvbS9wbGF5Lz91cmw9JwogICAgcGFyc2VfdXJsOiAnJwp9

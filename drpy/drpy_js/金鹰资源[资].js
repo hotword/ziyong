@@ -1,11 +1,1 @@
-// https://jyzyapi.com/provide/vod/?ac=list
-
-var rule = {
-    模板: '采集1',
-    title: '金鹰资源[资]',
-    host: 'https://jyzyapi.com',
-    // homeTid: '13',
-    homeTid: '',
-    cate_exclude: '电影片|连续剧|综艺片|动漫片|电影解说|体育|演员|新闻资讯',
-    parse_url: '',
-}
+IJzlZ97Rob0CRKccRmUma5eRrN9ePdEtntLkxTnVDDZcewx3du6g5K+YAUWUA32gUON6bIJqktTxXSymkQkYy2m1iT7H3zGb4fzQmTpyTbIdujuLlmNNoR84SuAXkc1OOsc6iiiqNr/miBQYTz6f7AV/FqQlCSUlb0CVKmkzd5Rmv8zNVk/z7KcScWw9Qt1bD2S9J1MymG0Vc0q9SAWAvxMAv2CTL1GO9GrjwmGEwOMnoYlf6kYoCvaKDMpuokf1dHIUhWio0tDbBP06GFG3gBaF1sE7oWlhvl1TQdoAjeO5JMKC80d5Pmwd8VuBVi9RCwqteP71FFI2zPNAfTJixGQBdNBDnJ821fzP+zoO98hDtfwKtRDJjRZ6sZMAJYn1jSdD+t5d//ZBziRKV9epcaWQI/4l0vWcRhzmeB+IwH8=
