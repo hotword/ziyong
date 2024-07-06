@@ -1,32 +1,6 @@
 	{
   "urls": [
-     {
-      "url": "http://152.32.170.60/wekeyfisrt/ziyong/raw/branch/main/fx.json",
-      "name": "自用接口💚"
-    }, 
-     {
-      "url": "http://152.32.170.60/wekeyfisrt/hamu/raw/branch/main/xiamu.json",
-      "name": "下暮接口💚"
-    }, 
-      {
-      "url": "http://152.32.170.60/wekeyfisrt/ziyong/raw/branch/main/mumu.json",
-      "name": "木木接口💚"
-    }, 
-     {
-      "url": "http://152.32.170.60/wekeyfisrt/luolu/raw/branch/main/js/lolo.json",
-      "name": "罗露接口💚"
-    }, 
-    
-     {
-      "url": "http://152.32.170.60/wekeyfisrt/shiyong/raw/branch/main/TV.json",
-      "name": "诗诗接口💚"
-    }, 
-    
-     {
-      "url": "http://152.32.170.60/wekeyfisrt/ziyong/raw/branch/main/aa.json",
-      "name": "万能接口💚"
-    }, 
-    
+  
      {
       "url": "https://jihulab.com/52013142/kw/-/raw/main/%E5%B0%8F%E7%9B%92%E9%85%B7%E7%8E%A9.json",
       "name": "小河接口💚"
@@ -35,10 +9,7 @@
       "url": "http://lin.ohphp.com/1/my.json",
       "name": "小麦接口💚"
     }, 
-      {
-      "url": "http://152.32.170.60/wekeyfisrt/shiyong/raw/branch/main/TV.json",
-      "name": "小丫接口💚"
-    }, 
+
     {
       "url": "https://jihulab.com/dukunjueji/CatVodSpider/-/raw/main/json/jsm.json",
       "name": "小屁接口💚"
