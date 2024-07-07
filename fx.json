@@ -1,6 +1,5 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-  //"spider": "./lib/pg.jar",
   "spider":"./lab/pg.jar",
   "lives": [
     {"name": "多线","type": 0,"url": "https://jihulab.com/xx9141316/jk/-/raw/main/dst.txt","playerType": 1},
@@ -17,7 +16,7 @@
     {"name": "运输","type": "0","url": "./lib/159169.php"},
     {"name": "宁宁","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
     {"name": "直播","type": "0","url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
-    {"name": "直播0","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"},
+    {"name": "直播0","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"}，
     {"name": "直播1","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u"},
     {"name": "直播2","type": 0,"url": "https://jihulab.com/kgce/zb/-/raw/zb/zy"},
     {"name": "直播3","type": 0,"url": "https://dimaston.github.io/live.m3u"}
@@ -25,9 +24,7 @@
   "sites": [
     {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"},
     { "key": "Ikanbot", "name": "爱看≛影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
-    
     {"key": "meowtv_qysp","name": "奇艺≛解析","type": 3,"api": "MJS_qysp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
-    {"key": "drpy_js_奇珍异兽","name": "艺艺≛官源","type": 3,"api": "http://152.32.170.60/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext": "./lib/奇珍异兽.js"},
     {"key": "橙汁影视","name": "橙汁≛影视","type": 3,"api": "csp_XBPQ","ua": "okhttp/3.15", "jar": "./lib/XBPQ.jar",                    "searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {   "分类url": "https://www.orangek.cn/show/{cateId}--{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$42",   "搜索链接": "https://www.orangek.cn/index.php/ajax/suggest?mid=1&wd={wd}" }},
     {"key":"一起看2PQ","name":"一起≛官源","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar", "ext":{"数组":"<div class=\"gqzlf1101 qcontainer \">&&</div>","线路数组":"<li id=&&</li>","分类url":"http://www.upedu.net/search.php?page={catePg}&searchtype=5&tid={cateId}&jq={class}&year={year}&area={area}","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$30"}},
     {"key":"映播XBPQ","name":"映播≛影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XBPQ.jar","ext":{"简介":"收割机提醒您不要相信任何广告:  +name=\"description\" content=\"&&\"","分类url":"https://www.ingbo.tv/vod/list/{catePg}/{cateId}/{class}/{year}/{area}/{lang}/0/0","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
@@ -148,8 +145,7 @@
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},
-   //{"key": "XBPQ_麻衣影院","name":"麻衣≛影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "./lib/XBPQ.jar","ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}},
-	{"key": "T4-2345","name": "二三≛影视","type": 4,"api": "http://zhuzi.com/tvbox/php/T4-2345.php","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
+    {"key": "T4-2345","name": "二三≛影视","type": 4,"api": "http://zhuzi.com/tvbox/php/T4-2345.php","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
     {"key": "热播","name": "热播≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://v.rbotv.cn"},
     {"key": "追剧","name": "追剧≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://app.kzjtv.com"},
     {
@@ -294,7 +290,6 @@
       "quickSearch": 1,
       "changeable": 0
     },
-	//  {"key":"Youtube","name":"Youtube","type":3,"api": "csp_Youtube","searchable": 1,"quickSearch": 0,"changeable": 0,"timeout": 60,"ext":{"token":"./json/tokenm.json","json":"./lib/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":"","proxy":"proxy"},"style": {"type": "rect","ratio": 1.77}},
     {
       "key": "看看",
       "name": "看看≛影视",
