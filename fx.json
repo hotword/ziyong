@@ -73,7 +73,8 @@
     {"key": "XBPQ_XiWuTv","name": "西屋≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"分类url": "https://xiwutv.com/vodtype/{cateId}.html","分类": "电影$20#电视剧$30#动漫$40#综艺$45#体育$51"}},
     {"key": "XBPQ_JQQZX","name": "剧圈≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju","分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
     {"key": "XBPQ_51KanJu","name": "看剧≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.51kanju.com/show{cateId}----{catePg}.html","分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$55"}},
-    {
+    {"key":"映播XBPQ","name":"映播≛影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XBPQ.jar","ext":{"简介":"收割机提醒您不要相信任何广告:  +name=\"description\" content=\"&&\"","分类url":"https://www.ingbo.tv/vod/list/{catePg}/{cateId}/{class}/{year}/{area}/{lang}/0/0","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
+	  {
       "key": "360_spider",
       "name": "三六≛资源",
       "type": 3,
@@ -96,44 +97,10 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "mingriyingshi",
-      "name": " 明日≛资源",
-      "type": 3,
-      "api": "csp_WexMingriys",
-      "jar": "./lib/wex.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "电影",
-        "电视剧"
-      ]
-    },
-    {
-      "key": "bookan_book_open",
-      "name": "博看≛资源",
-      "type": 3,
-      "api": "./lib/MyCatBookan.js"
-    },
-    {
-      "key": "海外看",
-      "name": "海外≛资源",
-      "api": "https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "playUrl": "https://dp.haiwaikan.com/index.html?url="
-    },
-    {
-      "key": "酷影视",
-      "name": "酷影≛影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },
+    {"key": "mingriyingshi","name": " 明日≛资源","type": 3,"api": "csp_WexMingriys","jar": "./lib/wex.jar","searchable": 1,"changeable": 1,"categories": ["电影","电视剧"]},
+    {"key": "bookan_book_open","name": "博看≛资源","type": 3,"api": "./lib/MyCatBookan.js"},
+    {"key": "海外看","name": "海外≛资源","api": "https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","playerType": 2,"searchable": 1,"quickSearch": 1,"playUrl": "https://dp.haiwaikan.com/index.html?url="},
+    {"key": "酷影视","name": "酷影≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
     {
       "key": "Bdys_spider",
       "name": "哔滴≛影视",
