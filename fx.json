@@ -1,6 +1,5 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-  //"spider": "./lib/pg.jar",
   "spider":"./lab/pg.jar",
   "lives": [
     {"name": "多线","type": 0,"url": "https://jihulab.com/xx9141316/jk/-/raw/main/dst.txt","playerType": 1},
@@ -33,10 +32,8 @@
 	
 	  
     {"key":"BT4K影院","name":"4K≛影视","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","ext":{"数组":"class=\"hl-item-thumb hl-lazy\"&&</div></li>","简介":"class=\"hl-text-muted\">简介：</em>&&</li>","线路数组":"alt=\"&&</a>","线路标题":"公子专属+</i>&nbsp;&&</a>","分类数组":"<a&&</a>","分类标题":"subs\"href=\"/vodlist/*.html\">&&</a>","分类ID":"href=\"/vodlist/&&.html\"","分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"}}, 
-	  // { "key": "胖虎影视", "name": "胖虎≛影视", "type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",  "ext": {"分类url":"https://physvod.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$7#电视剧$2#电影$1#动漫$4#综艺$3"}}, 
   	
 	  
-	  //{"key":"欧乐影院","name":"欧乐≛影视","type":3,"api":"csp_Olevod", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
     {"key": "drpy_js_百忙无果","name": "芒果≛官源","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"},
     {"key": "drpy_js_优酷","name": "酷酷≛官源","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
     {"key": "drpy_js_奇珍异兽","name": "奇艺≛官源","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.live/爱奇.js"},
@@ -153,7 +150,6 @@
 	{"key": "T4-2345","name": "二三≛影视","type": 4,"api": "http://zhuzi.com/tvbox/php/T4-2345.php","searchable": 1,"quickSearch": 1,"playerType": 2,"filterable": 1},
     {"key": "热播","name": "热播≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://v.rbotv.cn"},
     {"key": "追剧","name": "追剧≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://app.kzjtv.com"},
-    //{"key": "柠檬","name": "柠檬≛影视","type": 3,"api": "csp_Nmvod","playerType": 2,"ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url=","jar": "./lib/fix24225.jar"},
     {
       "key": "黑木耳资源",
       "name": "黑木≛影视",
