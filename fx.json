@@ -17,7 +17,7 @@
     {"name": "运输","type": "0","url": "./lib/159169.php"},
     {"name": "宁宁","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
     {"name": "直播","type": "0","url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
-    {"name": "直播0","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"},
+    {"name": "直播0","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"}，
     {"name": "直播1","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u"},
     {"name": "直播2","type": 0,"url": "https://jihulab.com/kgce/zb/-/raw/zb/zy"},
     {"name": "直播3","type": 0,"url": "https://dimaston.github.io/live.m3u"}
@@ -37,7 +37,9 @@
     {"key": "drpy_js_奇珍异兽","name": "奇艺≛官源","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.live/爱奇.js"},
     {"key": "搜狗","name": "狗狗≛官源","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/caigou.js"},
     {"key":"采集之王","name":"采集≛影视","type":3,"api":"https://yubox.xyz/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://yubox.xyz/drpy_js/采集.js?type=url&params=https://yubox.xyz/json/%E9%87%87%E9%9B%86.json"},
-   	{"key":"Xinshijue","name":"视觉≛网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"},
+    {"key": "hipy_js_采集之王[合]1","name": "采王≛静态","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 1,"ext": "./drpy_js/采集之王[合].js?type=url&params=./json/采集[zy]静态.json$1"},
+	
+	  {"key":"Xinshijue","name":"视觉≛网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"},
      {"key": "云星1080","name": "云星≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.4u4.cn/api.php/app/"},
      {"key": "片哈影视",  "name": "片哈≛影视", "type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar", "ext": {"数组":"fed-list-item fed-padding&&</li>",  "图片":"data-original=\"&&\"",  "标题":"fed-part-eone\"*>&&</a>","副标题":"fed-text-center\"&&</span>","线路数组":"fed-padding fed-part-rows&&</ul>","播放数组":"fed-part-rows detail-play-list&&</ul>","分类url":"https://www.pianha.cc/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area}","分类":"电视剧$2#电影$1#动漫$4#综艺$3#伦理$20"}},
     {"key": "66影视","name": "六六≛影视","type": 3,   "api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"简介":"col-pd text-collapse content\">&&</div>","线路数组":"#playlist&&</li>","播放数组":"myui-content__list&&</ul>","播放列表":"<li&&</li>","分类url": "https://www.6e6e.net/list/index_{cateId}{catePg}.html[https://www.6e6e.net/list/index_{cateId}.html]","分类": "国产剧$guochan#香港剧$xianggang#欧美剧$oumei#日剧$riben#韩剧$hanguo#海外剧$haiwai#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#剧情片$juqing#战争片$zhanzheng#综艺$zy#动漫$dm"}},
