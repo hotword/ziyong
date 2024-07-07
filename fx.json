@@ -29,7 +29,6 @@
     {"key": "drpy_js_奇珍异兽","name": "艺艺≛官源","type": 3,"api": "http://152.32.170.60/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","ext": "./lib/奇珍异兽.js"},
     {"key": "橙汁影视","name": "橙汁≛影视","type": 3,"api": "csp_XBPQ","ua": "okhttp/3.15", "jar": "./lib/XBPQ.jar",                    "searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {   "分类url": "https://www.orangek.cn/show/{cateId}--{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$42",   "搜索链接": "https://www.orangek.cn/index.php/ajax/suggest?mid=1&wd={wd}" }},
     {"key":"一起看2PQ","name":"一起≛官源","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar", "ext":{"数组":"<div class=\"gqzlf1101 qcontainer \">&&</div>","线路数组":"<li id=&&</li>","分类url":"http://www.upedu.net/search.php?page={catePg}&searchtype=5&tid={cateId}&jq={class}&year={year}&area={area}","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$30"}},
-    //{"key":"出差","name":"出差≛影视","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"简介:小林子为您+text\">&&</div>,分类url:https://www.xn--79q440a.xyz/index.php/vod-show-by-{by}-id-{cateId}-page-{catePg}-year-{year}.html,分类:番$1#bdrip番$3#剧场$4"},
     {"key":"映播XBPQ","name":"映播≛影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XBPQ.jar","ext":{"简介":"收割机提醒您不要相信任何广告:  +name=\"description\" content=\"&&\"","分类url":"https://www.ingbo.tv/vod/list/{catePg}/{cateId}/{class}/{year}/{area}/{lang}/0/0","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
 	
 	  
