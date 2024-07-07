@@ -32,7 +32,6 @@
     //{"key":"出差","name":"出差≛影视","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"简介:小林子为您+text\">&&</div>,分类url:https://www.xn--79q440a.xyz/index.php/vod-show-by-{by}-id-{cateId}-page-{catePg}-year-{year}.html,分类:番$1#bdrip番$3#剧场$4"},
     {"key":"映播XBPQ","name":"映播≛影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./lib/XBPQ.jar","ext":{"简介":"收割机提醒您不要相信任何广告:  +name=\"description\" content=\"&&\"","分类url":"https://www.ingbo.tv/vod/list/{catePg}/{cateId}/{class}/{year}/{area}/{lang}/0/0","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
 	
-     {"key":"Aiku","name":"聚合≛影视","type":1,"api":"http://caiji.ikum.cc:8099/api.php/provide/vod/?ac=list"，"playUrl":"https://www.yemu.xyz/?url=","searchable":1,"filterable":1,"quickSearch":1}, 
 	  
     {"key":"BT4K影院","name":"4K≛影视","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","ext":{"数组":"class=\"hl-item-thumb hl-lazy\"&&</div></li>","简介":"class=\"hl-text-muted\">简介：</em>&&</li>","线路数组":"alt=\"&&</a>","线路标题":"公子专属+</i>&nbsp;&&</a>","分类数组":"<a&&</a>","分类标题":"subs\"href=\"/vodlist/*.html\">&&</a>","分类ID":"href=\"/vodlist/&&.html\"","分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"}}, 
 	  // { "key": "胖虎影视", "name": "胖虎≛影视", "type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar",  "ext": {"分类url":"https://physvod.com/vodshow/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"短剧$7#电视剧$2#电影$1#动漫$4#综艺$3"}}, 
