@@ -66,8 +66,8 @@
     {"key": "享看资源","name": "享看≛影视","type": 1,"api": "https://xkanzy10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
     {"key": "天天","name": "天天≛影视","type": 3,"api": "csp_TTian","playerType": 1,"ext": "http://op.ysdqjs.cn$$$null$$$1"},
     {"key":"电影天堂","name":"天堂≛影视","type":3,"api":"csp_XBPQ","jar":"./bib/XBPQ.jar","ext":{"简介":"小林子为您剧情介绍:+play-intro\">&&</div>","分类url":"https://www.dytd.cc/{cateId}/index_{catePg}___{year}___{area}_.html","分类":"电影$mov#电视剧$tv#综艺$fun#动漫$cartoon","筛选":"1","类型":"动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#犯罪片$fanzuipian#经典片$jingdianpian||香港剧$xianggangju#国产剧$guocanju#欧美剧$oumeiju#日剧$ribenju#韩剧$hanguoju#海外剧$haiwaiju||空||空||空"}},       
-    {"key": "hipy_js_采集之王[合]0","name": "采王≛道长","type": 3,"api": "./drpy/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./drpy/drpy_js/采集之王[合].js?type=url&params=../json/采集静态.json$1"},
-    {"key": "hipy_js_采集之王[合]1","name": "采王≛zy","type": 3,"api": "../drpy/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 1,"ext": "./drpy/drpy_js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1"},
+    {"key": "hipy_js_采集之王[合]0","name": "采王≛道长","type": 3,"api": "./drpy/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./drpy/drpy_js/采集之王[合].js?type=url&params=./drpy/json/采集静态.json$1"},
+    {"key": "hipy_js_采集之王[合]1","name": "采王≛zy","type": 3,"api": "../drpy/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 1,"ext": "./drpy/drpy_js/采集之王[合].js?type=url&params=./drpy/json/采集[zy]静态.json$1"},
 
 
 
