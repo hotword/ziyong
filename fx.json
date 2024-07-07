@@ -737,43 +737,9 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "艺艺≛官源",
-      "type": 3,
-      "api": "http://152.32.170.60/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
-    },
-    {
-      "key": "dr_腾云驾雾",
-      "name": "腾腾≛官源",
-      "type": 3,
-      "api": "http://152.32.170.60/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/腾云驾雾.js"
-    },
-    {
-      "key": "dr_优酷",
-      "name": "酷酷≛官源",
-      "type": 3,
-      "api": "http://152.32.170.60/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://152.32.170.60/alanchaotang/dr_py/raw/branch/main/js/优酷.js"
-    },
-    {
-      "key": "dr_菜狗",
-      "name": "狗狗≛官源",
-      "type": 3,
-      "api": "http://152.32.170.60/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://152.32.170.60/alanchaotang/dr_py/raw/branch/main/js/菜狗.js"
-    },
+
+
+   
     {
       "key": "暴風",
       "name": "暴风≛暴风",
@@ -783,13 +749,7 @@
       "jar": "./lib/pg.jar",
       "changeable": 1
     },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "芒果≛视频",
-      "type": 3,
-      "api": "http://152.32.170.60/30215429/TVBox/raw/branch/master/JS/lib/drpy.min.js",
-      "ext": "./lib/百忙无果.js"
-    },
+  
     {
       "key": "drpy_往往影视",
       "name": "往往≛影视",
@@ -1006,17 +966,7 @@
       "filterable": 1,
       "jar": "./lib/官源.jar"
     },
-    {
-      "key": "相声小品",
-      "name": "相声≛小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json",
-      "jar": "./lib/feimao.jar"
-    },
+   
     {
       "key": "雨晴",
       "name": "雨晴≛雨晴",
@@ -1256,16 +1206,7 @@
       "filterable": 1,
       "ext": "./lib/zaixiandianying8.json"
     },
-    {
-      "key": "NanGua",
-      "name": "南瓜≛影视",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "http://152.32.170.60/wekeyfisrt/ziyongGH/raw/branch/main/PG/pg.jar",
-      "ext": "null$$$1"
-    },
+    
     {
       "key": "csp_xpath_网络搜集源21",
       "name": "樱花≛动漫",
