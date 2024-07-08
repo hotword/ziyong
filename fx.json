@@ -37,7 +37,7 @@
     {"key": "drpy_js_奇珍异兽","name": "奇艺≛官源","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.live/爱奇.js"},
     {"key": "搜狗","name": "狗狗≛官源","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/caigou.js"},
     {"key":"采集之王","name":"采集≛影视","type":3,"api":"https://yubox.xyz/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://yubox.xyz/drpy_js/采集.js?type=url&params=https://yubox.xyz/json/%E9%87%87%E9%9B%86.json"},
-    {"key": "hipy_js_采集之王[合]1","name": "采王≛静态","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 1,"ext": "./drpy_js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1"},
+    {"key": "hipy_js_采集之王[合]1","name": "采王≛静态","type": 3,"api": "./drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 1,"ext": "./drpy_js/采集之王[合].js?type=url&params=./json/采集[zy]静态.json$1"},
 	
      {"key":"Xinshijue","name":"视觉≛网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"},
      {"key": "云星1080","name": "云星≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.4u4.cn/api.php/app/"},
