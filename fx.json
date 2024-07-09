@@ -17,7 +17,7 @@
     {"name": "云星","urls": ["proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"]},
     {"name": "宁宁","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
     {"name": "直播","type": "0","url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
-    {"name": "直播1","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u"},
+    {"name": "直播1","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u"}，
    // {"name": "直播2"，"type": 0,"url": "https://jihulab.com/kgce/zb/-/raw/zb/zy"},
     {"name": "直播3","type": 0,"url": "https://dimaston.github.io/live.m3u"}
   ],
@@ -36,7 +36,7 @@
     {"key":"采集之王","name":"采集≛影视","type":3,"api":"https://yubox.xyz/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://yubox.xyz/drpy_js/采集.js?type=url&params=https://yubox.xyz/json/%E9%87%87%E9%9B%86.json"},
  // {"key": "ptt","name": "追剧≛之王","type": 3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"数组":"col-xl-2 col-lg-2 col-md-2 col-sm-3 col-4 item p-0 pr-1\">&&</div></div>","副标题":"badge badge-success\">&&</span>","线路标题":"title=\"&&\"","播放数组":"默认--mb-2 fullwidth\"&&</div>||电影--nav nav-tabs mb-2&&</ul>||伦理--nav nav-tabs mb-2&&</ul>","播放链接":"href=\"&&\"","分类url":"https://ptt.red/p/{cateId}?page={catePg}","分类":"短剧$66#电视剧$3#电影$1#动漫$4#综艺$2#伦理$1/c/33"    }},	
     {"key": "hipy_js_毒蛇电影[优]","name": "毒蛇≛电影","type": 3,"api": "./drpy/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./drpy/drpy_js/毒蛇电影[优].js"},
-	  
+    {"key": "csp_NO视频","name": "‍NO≛电影","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"数组": "class=\"stui-vodlist__box&&</div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","副标题": "text-right\">&&</span>","链接": "href=\"&&\"","搜索url": "","起始页":"2","线路标题": "NO视频","播放数组": "class=\"*-div&&</div>","播放列表": "class=\"btn btn-primary&&</a>","播放标题": ">&&</a>[不包含:蓝光]","播放链接": "href=\"&&\"","分类url": "https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]","分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"}},  
 //  {"key":"Xinshijue","name":"视觉≛网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"},
      {"key": "云星1080","name": "云星≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.4u4.cn/api.php/app/"},
      {"key": "片哈影视",  "name": "片哈≛影视", "type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar", "ext": {"数组":"fed-list-item fed-padding&&</li>",  "图片":"data-original=\"&&\"",  "标题":"fed-part-eone\"*>&&</a>","副标题":"fed-text-center\"&&</span>","线路数组":"fed-padding fed-part-rows&&</ul>","播放数组":"fed-part-rows detail-play-list&&</ul>","分类url":"https://www.pianha.cc/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area}","分类":"电视剧$2#电影$1#动漫$4#综艺$3#伦理$20"}},
