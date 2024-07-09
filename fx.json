@@ -17,7 +17,7 @@
     {"name": "云星","urls": ["proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"]},
     {"name": "宁宁","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
     {"name": "直播","type": "0","url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
-    {"name": "直播1","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u"},
+    {"name": "直播1","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/skddyj/iptv/main/IPTV.m3u"}，
    // {"name": "直播2"，"type": 0,"url": "https://jihulab.com/kgce/zb/-/raw/zb/zy"},
     {"name": "直播3","type": 0,"url": "https://dimaston.github.io/live.m3u"}
   ],
@@ -25,7 +25,7 @@
     {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"},
     { "key": "Ikanbot", "name": "爱看≛影视", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
     {"key": "csp_xBPQ_电视直播1","name": "央视≛直播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"jar": "./XBPQ.jar","filterable": 0,"ext": {"播放请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50","直接播放": "1","分类": "CCTV节目官网_央视网$https://tv.cctv.com#","播放数组":"live-cctv=\"&&\"","免嗅": "0","主页url": "https://tv.cctv.com/","分类url": "https://tv.cctv.com/live/cctv\"&&\"{cateId}","图片": "data-original=\"&&\""，"不分线路": "1"}},
-
+    {"key":"php_music","name":"音乐≛音乐","type":4,"api":"https://demobe.serv00.net/music.php","searchable":1,"style": {"type": "rect","ratio": 1}},
     {"key": "meowtv_qysp","name": "奇艺≛解析","type": 3,"api": "MJS_qysp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
     {"key": "橙汁影视","name": "橙汁≛影视","type": 3,"api": "csp_XBPQ","ua": "okhttp/3.15", "jar": "./lib/XBPQ.jar",                    "searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {   "分类url": "https://www.orangek.cn/show/{cateId}--{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$42",   "搜索链接": "https://www.orangek.cn/index.php/ajax/suggest?mid=1&wd={wd}" }},
     {"key":"一起看2PQ","name":"一起≛官源","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar", "ext":{"数组":"<div class=\"gqzlf1101 qcontainer \">&&</div>","线路数组":"<li id=&&</li>","分类url":"http://www.upedu.net/search.php?page={catePg}&searchtype=5&tid={cateId}&jq={class}&year={year}&area={area}","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$30"}},
