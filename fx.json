@@ -785,7 +785,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json"
+      "ext": "./lib/wogg.json;https://ghproxy.net/https://raw.githubusercontent.com/hotword/N3RD/master/JN/N3RD/T/t.txt"
     },
     {
       "key": "Wobg",
@@ -796,7 +796,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "ext": "./lib/wogg.json"
+      "ext": "./lib/wogg.json;https://ghproxy.net/https://raw.githubusercontent.com/hotword/N3RD/master/JN/N3RD/T/t.txt"
     },
     {
       "key": "阿里云集合",
@@ -806,7 +806,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "./lib/阿里集合.json;./token.txt",
+      "ext": "./lib/阿里集合.json;https://ghproxy.net/https://raw.githubusercontent.com/hotword/N3RD/master/JN/N3RD/T/t.txt",
       "jar": "./lib/真心真语0204.jar"
     },
     {
@@ -817,7 +817,7 @@
       "api": "csp_Tudou",
       "searchable": 1,
       "changeable": 1,
-      "ext": "./json/tokenm.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hotword/N3RD/master/JN/N3RD/T/t.txt"
     },
     {
       "key": "网盘配置",
