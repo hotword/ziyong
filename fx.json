@@ -17,8 +17,8 @@
     {"name": "云星","urls": ["proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"]},
     {"name": "宁宁","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
     {"name": "直播","type": "0","url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
-    {"name": "酷兴","type": "0","pass": true,"url": "https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt","epg": "https://m3u.ibert.me/epg/112114_xyz.xml","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "FMM_IPV6","type": "0","pass": true,"url": "https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt","epg": "https://m3u.ibert.me/epg/112114_xyz.xml","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "酷兴","type": "0","pass": true,"url": "https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt"，"epg": "https://m3u.ibert.me/epg/112114_xyz.xml","logo": "https://epg.112114.xyz/logo/{name}.png"},
+//    {"name": "FMM_IPV6","type": "0","pass": true,"url": "https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt","epg": "https://m3u.ibert.me/epg/112114_xyz.xml","logo": "https://epg.112114.xyz/logo/{name}.png"},
     {"name": "直播3","type": 0,"url": "https://dimaston.github.io/live.m3u"}
   ],
   "sites": [
