@@ -13,12 +13,12 @@
     {"name":"MHBLive","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/myhomebox/tv/main/live.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"港台节目","type":0,"url":"http://www.stream-link.org/stream-link.m3u","ua":"okhttp/3.15","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name": "IPV6","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1},
-    {"name": "运输","type": "0","url": "./lib/159169.php"},
+    {"name": "运输","type": 0,"url": "./lib/159169.php"},
     {"name": "云星","urls": ["proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"]},
-    {"name": "宁宁","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
-    {"name": "直播","type": "0","url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
-    {"name": "直播0","type": 0,"https://jihulab.com/MCaveMan/和y_public/-/raw/main/tv/ipv6_和y.txt"},
-    {"name": "直播1","type": 0,"url": "https://dimaston.github.io/live.m3u"}
+    {"name": "宁宁","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
+    {"name": "直播","type": 0,"url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
+    {"name": "直播0","type": 0，"https://jihulab.com/MCaveMan/和y_public/-/raw/main/tv/ipv6_和y.txt"}，
+    {"name": "直播1","type": 0，"url": "https://dimaston.github.io/live.m3u"}
   ],
   "sites": [
     {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"},
