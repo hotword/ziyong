@@ -17,7 +17,8 @@
     {"name": "云星","urls": ["proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"]},
     {"name": "宁宁","type": "0","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
     {"name": "直播","type": "0","url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
-    {"name": "直播0","type": 0,"url": "https://dimaston.github.io/live.m3u"}
+    {"name": "直播0","type": 0,"https://jihulab.com/MCaveMan/和y_public/-/raw/main/tv/ipv6_和y.txt"},
+    {"name": "直播1","type": 0,"url": "https://dimaston.github.io/live.m3u"}
   ],
   "sites": [
     {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"},
@@ -32,9 +33,9 @@
     {"key": "drpy_js_优酷","name": "酷酷≛官源","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
     {"key": "drpy_js_奇珍异兽","name": "奇艺≛官源","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.live/爱奇.js"},
     {"key": "搜狗","name": "狗狗≛官源","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/caigou.js"},
-       {"key":"采集之王","name":"采集≛影视","type":3,"api":"https://yubox.xyz/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://yubox.xyz/drpy_js/采集.js?type=url&params=https://yubox.xyz/json/%E9%87%87%E9%9B%86.json"}，  
-	  // {"key": "hipy_js_毒蛇电影[优]","name": "毒蛇≛电影","type": 3,"api": "./drpy/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./drpy/drpy_js/毒蛇电影[优].js"},
-	  
+      // {"key":"采集之王","name":"采集≛影视","type":3,"api":"https://yubox.xyz/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://yubox.xyz/drpy_js/采集.js?type=url&params=https://yubox.xyz/json/%E9%87%87%E9%9B%86.json"}，  
+      // {"key": "hipy_js_毒蛇电影[优]","name": "毒蛇≛电影","type": 3,"api": "./drpy/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./drpy/drpy_js/毒蛇电影[优].js"},
+    {"key": "网飞影视","name": "网飞≛影视","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/网飞TV.js"}, 
     {"key": "csp_NO视频","name": "‍NO≛电影","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"数组": "class=\"stui-vodlist__box&&</div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","副标题": "text-right\">&&</span>","链接": "href=\"&&\"","搜索url": "","起始页":"2","线路标题": "NO视频","播放数组": "class=\"*-div&&</div>","播放列表": "class=\"btn btn-primary&&</a>","播放标题": ">&&</a>[不包含:蓝光]","播放链接": "href=\"&&\"","分类url": "https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]","分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"}},  
      {"key": "云星1080","name": "云星≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.4u4.cn/api.php/app/"},
      {"key": "片哈影视",  "name": "片哈≛影视", "type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar", "ext": {"数组":"fed-list-item fed-padding&&</li>",  "图片":"data-original=\"&&\"",  "标题":"fed-part-eone\"*>&&</a>","副标题":"fed-text-center\"&&</span>","线路数组":"fed-padding fed-part-rows&&</ul>","播放数组":"fed-part-rows detail-play-list&&</ul>","分类url":"https://www.pianha.cc/search.php?page={catePg}&searchtype=5&tid={cateId}&year={year}&area={area}","分类":"电视剧$2#电影$1#动漫$4#综艺$3#伦理$20"}},
