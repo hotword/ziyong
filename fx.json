@@ -38,7 +38,6 @@
     {"key": "drpy_js_奇珍异兽","name": "奇艺≛官源","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.live/爱奇.js"},
     {"key": "搜狗","name": "狗狗≛官源","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/caigou.js"},
       // {"key":"采集之王","name":"采集≛影视","type":3,"api":"https://yubox.xyz/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://yubox.xyz/drpy_js/采集.js?type=url&params=https://yubox.xyz/json/%E9%87%87%E9%9B%86.json"}，  
-      // {"key": "hipy_js_毒蛇电影[优]","name": "毒蛇≛电影","type": 3,"api": "./drpy/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./drpy/drpy_js/毒蛇电影[优].js"},
     {"key": "网飞影视","name": "网飞≛影视","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/网飞TV.js"}, 
     {"key": "csp_NO视频","name": "‍NO≛电影","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"数组": "class=\"stui-vodlist__box&&</div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","副标题": "text-right\">&&</span>","链接": "href=\"&&\"","搜索url": "","起始页":"2","线路标题": "NO视频","播放数组": "class=\"*-div&&</div>","播放列表": "class=\"btn btn-primary&&</a>","播放标题": ">&&</a>[不包含:蓝光]","播放链接": "href=\"&&\"","分类url": "https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]","分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"}},  
      {"key": "云星1080","name": "云星≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cms.4u4.cn/api.php/app/"},
@@ -84,21 +83,9 @@
     {"key": "海外看","name": "海外≛资源","api": "https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","playerType": 2,"searchable": 1,"quickSearch": 1,"playUrl": "https://dp.haiwaikan.com/index.html?url="},
     {"key": "酷影视","name": "酷影≛影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
     {"key": "Bdys_spider","name": "哔滴≛影视","api": "csp_Bdys01","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.bdys03.com/$$$null$$$1"},
-    {"key": "csp_SP33","name": "三三≛采集","type": 3,"api": "csp_SP33", "jar": "./lib/XBPQ.jar","searchable": 1,"jar": "http://www.wya6.cn/tz/wyz.php","quickSearch": 1,"filterable": 1,"changeable": 0},
     {"key": "55","name": "影视≛五五","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 0, "jar": "./lib/XBPQ.jar","ext": {"主页url": "https://www.55kan.com/","简介": "++<p class=\"col-pd\"&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","线路数组": "<h3 class=\"title\">&&/h3>","线路标题": "线路","分类url": "https://www.55kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
     {"key": "kekeys","name": "可可≛影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"changeable": 0, "jar": "./lib/XBPQ.jar","ext": {"简介": "class=\"detail-desc\">&&</p>","导演": "导演:</div>&&</div>","主演": "演员:</div>&&</div>","线路数组": "class=\"source-item&&</a","线路标题": ">&&</span","数组": "class=\"module-item\">&&</a","标题": "title=\"&&\"","图片": "src=\"&&\"","链接": "href=\"&&\"","副标题": "class=\"v-item-bottom\">&&</span","倒序": "0","分类url": "https://keke8.app/show/{cateId}-{class}-{area}--{year}--{catePg}.html","分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$6"}},
-    {
-      "key": "狐狸看剧",
-      "name": "狐狸≛影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
-      "ext": {
-        "简介": "小林子为您介绍: +line-height: 20px;\">&&</div>",
-        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
+    {"key": "狐狸看剧","name": "狐狸≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"简介": "小林子为您介绍: +line-height: 20px;\">&&</div>","分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"}},
     {"key": "落攻阁之家","name": "落攻≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"简介": "小林子祝您观影愉快","分类url": "https://www.lggys.cn/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$21#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {"key": "热播","name": "热播≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://v.rbotv.cn","jar": "./lib/fix24225.jar"},
     {"key": "追剧","name": "追剧≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://app.kzjtv.com","jar": "./lib/fix24225.jar"},
@@ -115,16 +102,7 @@
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
     },
-    {
-      "key": "萌米",
-      "name": "萌米≛影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "jar": "./lib/fan.txt",
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
+    {"key": "萌米","name": "萌米≛影视","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"jar": "./lib/fan.txt","ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
     {
       "key": "悠云看剧",
       "name": "悠云≛影视",
