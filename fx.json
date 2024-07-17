@@ -90,63 +90,12 @@
     {"key": "热播","name": "热播≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://v.rbotv.cn","jar": "./lib/fix24225.jar"},
     {"key": "追剧","name": "追剧≛影视","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://app.kzjtv.com","jar": "./lib/fix24225.jar"},
     {"key": "发电","name": "发电≛影视","type": 3,"api": "csp_Fdys","playerType": 2,"jar": "./lib/fix24225.jar"},
-    {
-      "key": "毛驴",
-      "name": "毛驴≛影视",
-      "type": 3,
-      "api": "csp_MLYS",
-      "timeout": 15,
-      "searchable": 1,
-      "jar": "./lib/fan.txt",
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.maolvys.com/"
-    },
+    {"key": "毛驴","name": "毛驴≛影视","type": 3,"api": "csp_MLYS","timeout": 15,"searchable": 1,"jar": "./lib/fan.txt","quickSearch": 1,"changeable": 1,"ext": "https://www.maolvys.com/"},
     {"key": "萌米","name": "萌米≛影视","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 1,"jar": "./lib/fan.txt","ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
-    {
-      "key": "悠云看剧",
-      "name": "悠云≛影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/xbpq.jar",
-      "ext": {
-        "简介": "小林子祝您观影愉快",
-        "分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "干饭影视",
-      "name": "干饭≛影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "简介": "小林子祝您观影愉快",
-        "分类url": "https://gfvod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "短剧$20#电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "蛋蛋影视",
-      "name": "蛋蛋≛影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/cat.xbpq.jar",
-      "ext": {
-        "简介": "小林子祝您观影愉快",
-        "分类url": "https://cddys.me/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
-      }
-    },
-    {
-      "key": "索尼",
-      "name": "索尼≛影视",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-      "searchable": 1,
-      "changeable": 1
-    },
+    {"key": "悠云看剧","name": "悠云≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/xbpq.jar","ext": {"简介": "小林子祝您观影愉快","分类url": "https://www.yoyys.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3"}},
+    {"key": "干饭影视","name": "干饭≛影视","type": 3,"api": "csp_XBPQ","ext": {"简介": "小林子祝您观影愉快","分类url": "https://gfvod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$20#电影$1#连续剧$2#动漫$4#综艺$3"}},
+    {"key": "蛋蛋影视","name": "蛋蛋≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/cat.xbpq.jar","ext": {"简介": "小林子祝您观影愉快","分类url": "https://cddys.me/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3"}},
+    {"key": "索尼","name": "索尼≛影视","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable": 1,"changeable": 1},
     {
       "key": "快帆",
       "name": "快帆≛影视",
@@ -154,8 +103,7 @@
       "api": "https://api.kuaifan.tv/api.php/provide/vod",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
       "searchable": 1,
-      "changeable": 1
-    },
+      "changeable": 1},
     {
       "key": "量子",
       "name": "量子≛影视",
