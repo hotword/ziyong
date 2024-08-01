@@ -6,7 +6,7 @@
     {"name":"OKxiao","type":0,"url":"https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name": "XIUTAN","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"},
     {"name": "安直播","type": 0,"url": "http://124.71.189.194/zb.txt"},
-	 {"name": "z直播","type": 0,"url": "https://jihulab.com/zxwwp1/TVBox/-/raw/main/IPV6.txt"}，
+	 {"name": "z直播","type": 0,"url": "https://jihulab.com/zxwwp1/TVBox/-/raw/main/IPV6.txt"},
 	   {"name": "23直播","type": 0,"url": "https://jihulab.com/5685/23/-/raw/main/ipv6.txt"},
     {"name":"央视频","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/LIVE/parse.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"FTYLive","type":0,"url":"https://xhdwc.tk/xiutan.m3u","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0"},
