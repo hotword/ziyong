@@ -5,6 +5,7 @@
     {"name": "多线","type": 0,"url": "https://jihulab.com/xx9141316/jk/-/raw/main/dst.txt","playerType": 1},
     {"name":"OKxiao","type":0,"url":"https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name": "XIUTAN","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"},
+	   {"name": "live","type": 0,"url": "http://175.178.251.183:6689/live.txt"},
     {"name": "安直播","type": 0,"url": "http://124.71.189.194/zb.txt"},
 	 {"name": "z直播","type": 0,"url": "https://jihulab.com/zxwwp1/TVBox/-/raw/main/IPV6.txt"},
 	   {"name": "23直播","type": 0,"url": "https://jihulab.com/5685/23/-/raw/main/ipv6.txt"},
@@ -657,7 +658,7 @@
       "ext": "./lib/蜻蜓FM.js",
       "playerType": "2"
     },
- {"key":"Wogg","name":"玩偶≛哥哥","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"},
+ {"key":"Wogg","name":"玩偶≛哥哥","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"http://175.178.229.243/jar/alitoken.txt$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wo4k","name":"玩偶≛4K","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wobg","name":"玩偶≛表哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"yydsys","name":"玩你≛老哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
