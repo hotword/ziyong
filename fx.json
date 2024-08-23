@@ -17,7 +17,7 @@
     {"name":"MVMLive","type":0,"url":"https://cors.isteed.cc/https:/raw.githubusercontent.com/myvmiao/tv/main/e.txt","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"MHBLive","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/myhomebox/tv/main/live.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"港台节目","type":0,"url":"http://www.stream-link.org/stream-link.m3u","ua":"okhttp/3.15","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name": "IPV6"，"type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1},
+
     {"name": "运输","type": 0,"url": "./lib/159169.php"},
     {"name": "云星","urls": ["proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"]},
     {"name": "宁宁","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
