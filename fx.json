@@ -18,7 +18,6 @@
     {"name":"MHBLive","type":0,"url":"https://cors.isteed.cc/https://raw.githubusercontent.com/myhomebox/tv/main/live.m3u","ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"港台节目","type":0,"url":"http://www.stream-link.org/stream-link.m3u","ua":"okhttp/3.15","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 
-    {"name": "运输"，"type": 0,"url": "./lib/159169.php"},
     {"name": "云星","urls": ["proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"]},
     {"name": "宁宁","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Rivens7/Livelist/main/IPTV.m3u"},
     {"name": "IPv6001","type": 0,"url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718114949789/tv.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
@@ -78,7 +77,6 @@
     {"key": "hipy_js_采集之王[合]0","name": "采王≛道长","type": 3,"api": "./drpy/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./drpy/drpy_js/采集之王[合].js?type=url&params=./drpy/json/采集静态.json$1"},
     {"key": "快看影视","name": "快看≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/cat.xbpq.jar","ext": {"线路二次截取": "<div class=\"play\">&&</div>","线路数组": "<span&&/span>","线路标题": ">&&<","播放二次截取": "class=\"playlist\"&&</div>","播放数组": "<ul>&&</ul>","分类url": "https://www.kuaikanys.net/s/{cateId}/page/{catePg}.html","简介": "小林子为您+text\">&&</div>","分类数组": "<li>&&</li>","分类标题": ">&&</a>","分类ID": "/t/&&.html"}},
     {"key": "XBPQ_brovod","name": "兄弟≛影视","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": {"主页url": "https://www.brovod.com/","副标题": "pic-text text-right\">&&</b>","图片": "data-original=\"&&\"","嗅探词": "https://api.xdys.vip/lx/video.php?r=","搜索url": "https://www.brovod.com/ss/-------------/?wd={wd}","影片类型": "<div class=\"module-info-tag\">&&立即播放","线路数组": "data-dropdown-value=&&</div>","播放列表": "<a&&/a>","播放标题": "<span>&&</span>","导演": "导演：&&</div>","主演": "主演：&&</div>","分类": "电影$1#电视剧$2#动漫$4n#综艺$3#短剧$6","分类url": "https://www.brovod.com/show/{cateId}-----------{year}/"},"jar": "./lib/XBPQ.jar"},
- // {"key": "XBPQ_XiWuTv","name": "西屋≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"分类url": "https://xiwutv.com/vodtype/{cateId}.html","分类": "电影$20#电视剧$30#动漫$40#综艺$45#体育$51"}},
     {"key": "XBPQ_JQQZX","name": "剧圈≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju","分类url": "https://www.jqqzx.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
     {"key": "XBPQ_51KanJu","name": "看剧≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.51kanju.com/show{cateId}----{catePg}.html","分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$55"}},
     {"key": "360_spider","name": "三六≛资源","type": 3,"api": "csp_SP360","style": {"type": "rect","ratio": 1.33},"filterable": 1,"quickSearch": 1,"jar": "./lib/jcsq.jar","searchable": 1},
@@ -911,11 +909,7 @@
     }
   ],
   "parses": [
-    {
-      "name": "聚合",
-      "type": 3,
-      "url": "Web"
-    },
+   
 	  {
       "name": "☯️自动解析聚合",
       "type": 3,
@@ -926,7 +920,6 @@
 
 
 
-//{"name": "📦天招4k会员1","type": 1,"url": "http://122.228.85.203:6789/api/?key=54c1164ec4573c54e80faa2bbc007981&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷dhr4K解析  原来的
 
 
 
@@ -935,85 +928,12 @@
 
 {"name":"📦天招4k会员2","type": 1,"url":"http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae196786&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级
 
-//{"name":"📦天招4k会员3","type": 1,"url":"https://api.ehub.im/api/?key=49820eeddfd851a4f8f9154b26ace25e&url=","ext": {"flag": ["rrmj"],"header": {"User-Agent": "Mozilla/5.0"}}},//影酷HDR-RR
-
-
-//{"name":"📦天招4k会员3","type": 1,"url":"http://39.104.230.177:1122/lxjx/myyk.php?url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//涛涛4k解析
-                                     
-
-
-/*{
-      "name": "🌎天招VIP1",
-      "type": 1,
-      "url": "http://llyh.xn--yi7aa.top/api/?key=95a4435353abc49f622ffad255563f4d&url=",//海鸥      
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-  
-    }
-    },*/
-
- /*   {
-      "name": "🌎天招VIP1",//近邻无敌2
-      "type": 1,
-      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.9.1"
-        }
-      }
-    },*/
 
 
 
 
 {
-      "name": "🌎天招VIP2",//近邻无敌
+      "name": "🌎天招VIP2"，
       "type": 1,
       "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
       "ext": {
@@ -1041,29 +961,6 @@
         }
       }
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//{"name": "🌎天招VIP3","type": 1,"url": "https://ky.dyqufx.com/home/api?type=ys&uid=3612007&key=bdlqrtvCKTVWY02489&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-//{"name": "🌎天招VIP5","type": 1,"url": "http://110.42.7.182:880/api/?key=c4013eecb3e30e65780db0e732b74dbf&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
-
-
-
-
-
 
 
 {
@@ -1837,13 +1734,13 @@
 				"User-Agent": "Mozilla/5.0"
 			}
 		},
-	  //WEX
+
 {"name":"王","type":1,"url":"http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="},
 {"name":"二","type":1,"url":"http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="},
 {"name":"小","type":1,"url":"http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="},
 {"name":"帅","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
 
-//PGY
+
 {"name":"推荐1","url":"http://jx.li0580.com/home/api?type=ys&uid=2712055&key=ehknxBCFGIKLMUVXZ5&url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
 {"name":"推荐2","url":"https://ldhz.li0580.com//api/jsonindex.php/?key=7Dtvavu8iDUkd1vRxC&url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
 {"name":"推荐3","url":"http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=","type":"1","status":"normal","type_text":"Type 1","status_text":"正常"},
