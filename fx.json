@@ -2,7 +2,7 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
  "spider":"./lib/pg.jar",
   "lives": [
-    {"name": "直播1","type": 0,"url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/hebei/main/itv.txt"},
+   {"name": "live","type": 0,"url": "https://gitee.com/cnchs/iptv/raw/main/live","epg": "https://epg.112114.eu.org/?ch={name}&date={date}"},
     {"name": "XIUTAN","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"},
     {"name": "wlive","type": 0,"url": "http://175.178.251.183:6689/live.txt"},
     {"name": "glive","type": 0,"url": "http://gg.gg/tv-live-txt-mirr"},
