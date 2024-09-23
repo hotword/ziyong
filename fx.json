@@ -22,7 +22,7 @@
   ],
   "sites": [
     {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"},
-    { "key": "Ikanbot"， "name": "爱看≛影视", "type": 3, "api": "csp_Ikanbot"， "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
+    { "key": "Ikanbot"， "name": "爱看≛影视", "type": 3, "api": "csp_Ikanbot"， "searchable": 1, "quickSearch": 1，"filterable": 1, "changeable": 1 ， "ext":"https://v.aikanbot.com$$$proxy"},
 
 	  
     {"key": "meowtv_qysp","name": "奇艺≛解析","type": 3,"api": "MJS_qysp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
