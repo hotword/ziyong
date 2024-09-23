@@ -2,8 +2,7 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
  "spider":"./lib/pg.jar",
   "lives": [
-   {"name": "live","type": 0,"url": "https://gitee.com/cnchs/iptv/raw/main/live","epg": "https://epg.112114.eu.org/?ch={name}&date={date}"},
-    {"name": "XIUTAN","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"},
+    {"name": "live","type": 0,"url": "https://gitee.com/cnchs/iptv/raw/main/live","epg": "https://epg.112114.eu.org/?ch={name}&date={date}"},
     {"name": "wlive","type": 0,"url": "http://175.178.251.183:6689/live.txt"},
     {"name": "glive","type": 0,"url": "http://gg.gg/tv-live-txt-mirr"},
     {"name": "安直播","type": 0,"url": "http://124.71.189.194/zb.txt"},
@@ -22,7 +21,7 @@
 
   ],
   "sites": [
-    {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"},
+    {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"}，
     { "key": "Ikanbot"， "name": "爱看≛影视", "type": 3, "api": "csp_Ikanbot"， "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
 
 	  
