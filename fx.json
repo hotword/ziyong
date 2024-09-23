@@ -95,7 +95,7 @@
     {"key": "索尼","name": "索尼≛影视","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable": 1,"changeable": 1},
        {
       "key": "hipy_js_采集之王[合]",
-      "name": "采集之王[合](drpy_t3)",
+      "name": "采集≛之王",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -104,139 +104,7 @@
       "order_num": 210,
       "ext": "./lib/采集静态.json"
     },
-	  {
-      "key": "hipy_js_420电影院",
-      "name": "420电影院(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 4,
-      "ext": "./lib/420电影院.js"
-    },
-    {
-      "key": "hipy_js_555影视[飞]",
-      "name": "555影视[飞](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 7,
-      "ext": "./lib/555影视[飞].js"
-    },
-    {
-      "key": "hipy_js_777影视",
-      "name": "777影视(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 10,
-      "ext": "./lib/777影视.js"
-    },
-	    {
-      "key": "hipy_js_爱看农民2[优]",
-      "name": "爱看农民2[优](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 146,
-      "ext": "./lib/爱看农民2[优].js"
-    },
-    {
-      "key": "hipy_js_爱看影视",
-      "name": "爱看影视(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 148,
-      "ext": "./lib/爱看影视.js"
-    },
-    {
-      "key": "hipy_js_爱看影院",
-      "name": "爱看影院(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 149,
-      "ext": "./lib/爱看影院.js"
-    },
-    {
-      "key": "hipy_js_爱看hd",
-      "name": "爱看hd(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 145,
-      "ext": "./lib/爱看hd.js"
-    },
-    {
-      "key": "hipy_js_爱上你听书网[听]",
-      "name": "爱上你听书网[听](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 142,
-      "ext": "./lib/爱上你听书网[听].js"
-    },
-    {
-      "key": "hipy_js_白嫖者联盟",
-      "name": "白嫖者联盟(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 159,
-      "ext": "./lib/白嫖者联盟.js"
-    },
-	     {
-      "key": "hipy_js_播客[听]",
-      "name": "播客[听](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 108,
-      "ext": "./lib/播客[听].js"
-    },
-    {
-      "key": "hipy_js_博看听书",
-      "name": "博看听书(drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 64,
-      "ext": "./lib/博看听书.js"
-    },
-    {
-      "key": "hipy_js_博看听书[听]",
-      "name": "博看听书[听](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 65,
-      "ext": "./lib/博看听书[听].js"
-    },
-	  
+   
 	  {
       "key": "快帆",
       "name": "快帆≛影视",
@@ -957,6 +825,41 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/哔哩直播.js"
     },
+	   {
+      "key": "hipy_js_爱上你听书网[听]",
+      "name": "爱上≛听书",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 142,
+      "ext": "./lib/爱上你听书网[听].js"
+    }， 
+	
+    {
+      "key": "hipy_js_博看听书",
+      "name": "博看≛听书",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 64,
+      "ext": "./lib/博看听书.js"
+    },
+    {
+      "key": "hipy_js_博看听书[听]",
+      "name": "博看≛听书[听]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 65,
+      "ext": "./lib/博看听书[听].js"
+    },
+	  
     {
       "key": "儿童拼音",
       "name": "儿童≛拼音",
