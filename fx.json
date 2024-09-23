@@ -2,7 +2,6 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
  "spider":"./lib/pg.jar",
   "lives": [
-    {"name": "直播","type": 0,"url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u"},
     {"name": "直播1","type": 0,"url": "https://ghproxy.net/https://raw.githubusercontent.com/ssili126/hebei/main/itv.txt"},
     {"name": "XIUTAN","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"},
     {"name": "wlive","type": 0,"url": "http://175.178.251.183:6689/live.txt"},
