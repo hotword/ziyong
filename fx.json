@@ -3,7 +3,6 @@
  "spider":"./lib/pg.jar",
   "lives": [
     {"name": "多线","type": 0,"url": "https://jihulab.com/xx9141316/jk/-/raw/main/dst.txt","playerType": 1},
-    {"name":"OKxiao","type":0,"url":"https://raw.gitcode.com/xiaoqi719/yingshi/raw/main/zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name": "XIUTAN","type": 0,"url": "https://xhdwc.tk/xiutan.m3u"},
     {"name": "wlive","type": 0,"url": "http://175.178.251.183:6689/live.txt"},
     {"name": "glive","type": 0,"url": "http://gg.gg/tv-live-txt-mirr"},
