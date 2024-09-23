@@ -2,7 +2,6 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
  "spider":"./lib/pg.jar",
   "lives": [
-    {"name": "live","type": 0,"url": "https://gitee.com/cnchs/iptv/raw/main/live"},
     {"name": "wlive","type": 0,"url": "http://175.178.251.183:6689/live.txt"},
     {"name": "glive","type": 0,"url": "http://gg.gg/tv-live-txt-mirr"},
     {"name": "安直播","type": 0,"url": "http://124.71.189.194/zb.txt"},
