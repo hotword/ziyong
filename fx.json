@@ -16,8 +16,11 @@
     {"name": "综合2","type": 0,"url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924675/live2.txt"},
     {"name": "综合3","type": 0,"url": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt"},
     {"name": "综合4","type": 0,"url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716213337323/live3.txt"},
-    {"name": "直播2","type": 0,"url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"}
+      {"name": "直播2","type": 0,"url": "https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
 
+    {"name": "云真","type": 0,"url": "https://codeberg.org/yunzhen315/tianliang/raw/branch/main/zb.txt"},
+    {"name": "爱尚","type": 0,"url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives/feihu6.txt?ref=master","playerType": 1,"epg": "http://epg.112114.eu.org/?ch={name}&date={date}"},
+    {"name": "猫影视","type": 0,"url": "http://rihou.cc:555/gggg.nzk","playerType": 1,"epg": "http://epg.112114.eu.org/?ch={name}&date={date}"}
   ],
   "sites": [
     {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"},
