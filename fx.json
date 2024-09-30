@@ -27,7 +27,7 @@
 {"name":"🕯️┃my亚洲直播","type":0,"url":"https://anbox118.serv00.net/mytvbplus.php","playerType":1},
 {"name":"🐠┃亚洲直播","type":0,"url":"https://tv.iill.top/m3u/Live","playerType":1},
 {"name":"🐤┃ATV直播","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1},	
-  {"name":"✍️┃全国直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt","playerType":1},
+  {"name":"✍️┃全国直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt"，"playerType":1},
 {"name":"🤖┃广州直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/LIVE/guangzhou.txt","playerType":1},	
 {"name":"🐼┃肥羊live","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"🐲王二小放牛娃","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -717,14 +717,7 @@
       "api": "./lib/230ts_open.js"
     },
 
-	        {"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
-		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json$$$WOBG"},
-		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"},
-		{"key":"蜡笔网盘","name":"蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"},
-		{"key":"Mogg","name":"木偶哥哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
-		{"key": "土豆","name": "土豆|网盘","type": 3,"api": "csp_Wobg","searchable": 1,"filterable": 0,"changeable": 1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wogg.json$$$TUDOU"},
-
-
+	   
 
 	  
 		{"key":"Gaoqing","name":"中国≛高清","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
@@ -732,13 +725,8 @@
 		{"key":"ddys","name":"低端≛影视","type":3,"api":"csp_Ddys","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"},
 		{"key":"Xinshijue","name":"新视≛觉","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://6080z.com/$$$noproxy$$$1$$$./lib/wogg.json"},
 		{"key":"团长资源","name":"团长≛资源","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$noproxy$$$1"},
-		{"key":"欧乐影院","name":"欧乐影院|海外","type":3,"api":"csp_Olevod", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
-		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json"},
-		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$proxy$$$1"},
-		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
-		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
-    {
-      "key": "XBPQ_MmDuanJu",
+		
+     {    "key": "XBPQ_MmDuanJu",
       "name": "无忧≛短剧",
       "type": 3,
       "api": "csp_XBPQ",
