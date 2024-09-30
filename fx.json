@@ -27,7 +27,7 @@
 {"name":"🕯️┃my亚洲直播","type":0,"url":"https://anbox118.serv00.net/mytvbplus.php","playerType":1},
 {"name":"🐠┃亚洲直播","type":0,"url":"https://tv.iill.top/m3u/Live","playerType":1},
 {"name":"🐤┃ATV直播","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1},	
-{"name":"✍️┃全国直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt","playerType":1},
+{"name":"✍️┃全国直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt"，"playerType":1},
 {"name":"🤖┃广州直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/LIVE/guangzhou.txt","playerType":1},	
 {"name":"🐼┃肥羊live","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"🐲王二小放牛娃","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -73,7 +73,7 @@
     {"key": "drpy_js_优酷","name": "酷酷≛官源","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
     {"key": "drpy_js_奇珍异兽","name": "奇艺≛官源","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.live/爱奇.js"},
     {"key": "搜狗","name": "狗狗≛官源","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/caigou.js"},
-    {"key": "hipy_js_采集之王[合]","name": "采集≛之王","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "./lib/采集静态.json"},
+   // {"key": "hipy_js_采集之王[合]","name": "采集≛之王","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "./lib/采集静态.json"},
 	  
 	      {"key": "csp_NO视频","name": "‍NO≛电影","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"数组": "class=\"stui-vodlist__box&&</div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","副标题": "text-right\">&&</span>","链接": "href=\"&&\"","搜索url": "","起始页":"2","线路标题": "NO视频","播放数组": "class=\"*-div&&</div>","播放列表": "class=\"btn btn-primary&&</a>","播放标题": ">&&</a>[不包含:蓝光]","播放链接": "href=\"&&\"","分类url": "https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]","分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"}},  
 
@@ -143,7 +143,41 @@
       "order_num": 210,
       "ext": "./lib/采集静态.json"
     },
-   
+   {
+      "key": "柠檬",
+      "name": "🥈2k-VIP2",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 1,
+      "jar":"http://cdn.qiaoji8.com/fix24914.jar",
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+
+
+ {
+      "key": "木叶",
+      "name": "🥈2k-VIP3",
+      "type": 3,
+      "api": "csp_Muye",
+      "playerType": 1,
+      "jar":"http://cdn.qiaoji8.com/fix24914.jar",
+      "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"
+    },
+
+
+
+    {
+      "key": "AI4",
+      "name": "🥈2k-VIP4",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": 1,
+      "jar":"http://cdn.qiaoji8.com/fix24914.jar",
+      "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="
+    },
 	  {
       "key": "快帆",
       "name": "快帆≛影视",
