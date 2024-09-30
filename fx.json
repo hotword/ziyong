@@ -73,7 +73,6 @@
     {"key": "drpy_js_优酷","name": "酷酷≛官源","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
     {"key": "drpy_js_奇珍异兽","name": "奇艺≛官源","type": 3,"api": "http://alist.xn--z7x900a.live/ddrpy2.m.js","ext": "http://alist.xn--z7x900a.live/爱奇.js"},
     {"key": "搜狗","name": "狗狗≛官源","type": 3,"api": "https://weixine.net/js/lib/drpy2.min.js","ext": "https://weixine.net/js/caigou.js"},
-   // {"key": "hipy_js_采集之王[合]","name": "采集≛之王","type": 3,"api": "./lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "./lib/采集静态.json"},
 	  
 	      {"key": "csp_NO视频","name": "‍NO≛电影","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"数组": "class=\"stui-vodlist__box&&</div>","图片": "data-original=\"&&\"","标题": "title=\"&&\"","副标题": "text-right\">&&</span>","链接": "href=\"&&\"","搜索url": "","起始页":"2","线路标题": "NO视频","播放数组": "class=\"*-div&&</div>","播放列表": "class=\"btn btn-primary&&</a>","播放标题": ">&&</a>[不包含:蓝光]","播放链接": "href=\"&&\"","分类url": "https://www.dgjiawu.com/{cateId}/0/0/0/0/{catePg}[https://www.dgjiawu.com/{cateId}]","分类": "电影$mo-1zxgt/5738/1#电视剧$mo-1zxgt/5749/1#综艺$mo-1zxgt/5758/1#动漫$mo-1zxgt/5767/1"}},  
 
