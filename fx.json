@@ -27,7 +27,7 @@
 {"name":"🕯️┃my亚洲直播","type":0,"url":"https://anbox118.serv00.net/mytvbplus.php","playerType":1},
 {"name":"🐠┃亚洲直播","type":0,"url":"https://tv.iill.top/m3u/Live","playerType":1},
 {"name":"🐤┃ATV直播","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1},
-{"name":"✍️┃全国直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt","playerType":1},
+{"name":"✍️┃全国直播","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt"，"playerType":1},
 
 {"name":"🐼┃肥羊live","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"🐲王二小放牛娃","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -130,7 +130,7 @@
     {"key": "干饭影视","name": "干饭≛影视","type": 3,"api": "csp_XBPQ","ext": {"简介": "小林子祝您观影愉快","分类url": "https://gfvod.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$20#电影$1#连续剧$2#动漫$4#综艺$3"}},
     {"key": "蛋蛋影视","name": "蛋蛋≛影视","type": 3,"api": "csp_XBPQ","jar": "./lib/cat.xbpq.jar","ext": {"简介": "小林子祝您观影愉快","分类url": "https://cddys.me/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3"}},
     {"key": "索尼","name": "索尼≛影视","type": 1,"api": "https://suoniapi.com/api.php/provide/vod","playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","searchable": 1,"changeable": 1},
-     
+     	  {"key": "布蕾┃星辰","name": "布蕾┃星辰","type": 3,"searchable": 1,"changeable": 1,"playerType": 1,"quickSearch": 1,"filterable": 1,"order_num": 1,"api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "http://47.99.102.252/drpy_js/bulei.js},
    {
       "key": "柠檬",
       "name": "柠檬≛影视",
