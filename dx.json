@@ -782,74 +782,111 @@
     "哔 哩",
     "哔 哩 哔 哩"
   ],
-  "lives": [
+    "lives": [
     {
       "name": "天招智盒",
       "type": 0,
       "url": "./lib/tzlink.php",
-      "playerType": 2,
+      "playerType": 2,      
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+      //"logo": "https://epg.112114.xyz/logo/{name}.png"
+       
+        
+      //"logo": "https://live.fanmingming.com/tv/{name}.png"
+
     },
-    {
-      "name": "天招备用专线①",
+
+
+  {
+      "name": "天招备用专线①",//猫tv看体育
       "type": 0,
-      "url": "./lib/kx2024.txt",
+      "url": "http://ttkx.cc:55/lib/kx2024.txt",
       "ua": "okhttp/3.15",
       "playerType": 2,
       "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
     },
+    
     {
-      "name": "天招备用专线②",
+      "name": "天招备用专线②",//猫tv看体育
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2,
-      "ua": "okhttp/3.15",
+      "ua": "okhttp/3.15", 
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    //  "logo": "https://diyp2.112114.xyz/logo/{name}.png"
     },
+
+
+
+
+
     {
-      "name": "天招备用专线③",
+      "name": "天招备用专线③",//春盈
       "type": 0,
-      "url": "./lib/春盈天下直播42加密.json",
+      "url": "http://156.236.72.224:1888/?explorer/share/file&hash=595asIFXHO2vus_3L_reUl0D_bnCQQd2B-IM7RZvI3eaRPEG6cFa57OcrzpJak5D3E0&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E7%9B%B4%E6%92%AD42%E5%8A%A0%E5%AF%86.json",
       "playerType": 2,
-      "ua": "okhttp/3.15",
+      "ua": "okhttp/3.15", 
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    //  "logo": "https://diyp2.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "天招备用专线③",
+
+ 
+
+
+  {
+      "name": "天招备用专线③",//IPTV研究所
       "type": 0,
-      "url": "./lib/live.m3u",
+      "url": "http://aktv.top/live.m3u",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+     // "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "广东地方台专线③",
+
+
+ {
+      "name": "广东地方台专线③",//IPTV研究所
       "type": 0,
-      "url": "./lib/gdlt.txt",
+      "url": "https://gitea.moe/gdxd/gdxd/raw/branch/main/gdlt.txt",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      //"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-    {
+    
+
+
+
+
+
+
+      {
       "name": "抖音、斗鱼、B站、YY、Afreeca、Youtube",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Live",
       "playerType": 2,
       "ua": "okhttp/3",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+      //"logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
+
     {
       "name": "虎牙视频",
       "type": 0,
-      "url": "./lib/huya.m3u"
+      "url": "http://www.52sw.top:678/iptv/huya.m3u"
     },
+
     {
       "name": "斗鱼视频",
       "type": 0,
-      "url": "./lib/douyu.m3u"
+      "url": "http://www.52sw.top:678/iptv/douyu.m3u"
     }
+
+
+
   ],
+
   "doh": [
     {
       "name": "Google",
