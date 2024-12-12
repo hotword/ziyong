@@ -1,7 +1,6 @@
 {
-	"cookie": "http://192.168.0.22:8002/tvbox/cookie.txt",
   
-	"classes": [{
+	"class": [{
 			"type_name": "演唱会筛选",
 			"type_id": "演唱会超清"
 		},
@@ -10,8 +9,12 @@
 			"type_id": "粤语歌曲超清"
 		},
 		{
-			"type_name": "热榜",
-			"type_id": "2022年热们歌曲超清"
+			"type_name": "2024年热榜",
+			"type_id": "2024年热门歌曲超清"
+		},
+		{
+			"type_name": "2023年热榜",
+			"type_id": "2023年热门歌曲超清"
 		},
 		{
 			"type_name": "抖音神曲",
@@ -36,9 +39,8 @@
 
     
 	],
-  
-  
-	"filter": {
+
+	"filters": {
 		"演唱会超清": [{
 				"key": "order",
 				"name": "排序",
