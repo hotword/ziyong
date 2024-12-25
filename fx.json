@@ -75,18 +75,9 @@
       "ext": "./lib/douban.js"
     },
   
-      {"key": "南瓜",
-      "name": "南瓜≛App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "",
-	  "jar": "./lib/fix24914.jar"
-    },
-    {
+     // {"key": "南瓜"，      "name": "南瓜≛App"，      "type": 3，      "api": "csp_NanGua"，      "searchable": 1，      "quickSearch": 1，      "playerType": 2，      "filterable": 1，      "ext": ""，	  "jar": "./lib/fix24914.jar"    },
+  {      "key": "南瓜q影视",      "name": "南瓜｜APP",      "type": 3,      "api": "csp_Nangua",      "jar": "./lib/spider.jar",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+	  {
       "key": "天天",
       "name": "天天≛App",
       "type": 3,
