@@ -74,20 +74,9 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
     },
-    {
-            "key": "Ikanbot",
-            "name": "爱看≛影院",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://v.aikanbot.com$$$proxy" ,"jar": "./lib/pgg.jar"
-        },
+   
     {      "key": "567影院",      "name": "南瓜≛影院",      "type": 3,      "api": "csp_XBPQ",      "jar": "./lib/xyqxbpq.jar",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": {        "请求头": "User-Agent$MOBILE_UA",        "编码": "UTF-8",        "主页url": "https://www.1234y.cc",        "数组": "link-hover&&</a",        "标题": "title=\"&&\"",        "图片": "data-original=\"&&\"",        "副标题": "other\"><i>&&</i>",        "链接": "href=\"&&\"",        "线路数组": "playerico&&li>",        "线路标题": "</i>&&</",        "播放数组": "videourl clearfix&&</ul>",        "播放列表": "<a&&/a>",        "播放链接": "href=\"&&\"",        "播放标题": ">&&</a>",        "简介": "介绍：&&</div>",        "搜索模式": "1",        "搜索url": "https://www.1234y.cc/vodsearch/-------------.html?wd={wd}",        "分类url": "https://www.1234y.cc/vodtype/{cateId}-{catePg}.html",        "分类": "电影$dianying#连续剧$lianxuju#综艺$综艺#动漫$dongman"      }    },
-     // {"key": "南瓜"，      "name": "南瓜≛App"，      "type": 3，      "api": "csp_NanGua"，      "searchable": 1，      "quickSearch": 1，      "playerType": 2，      "filterable": 1，      "ext": ""，	  "jar": "./lib/fix24914.jar"    },
-      // { "key": "南瓜q影视",      "name": "南瓜｜APP",      "type": 3,      "api": "csp_Nangua",      "jar": "./lib/spider.jar",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+    
 	  {
       "key": "天天",
       "name": "天天≛App",
