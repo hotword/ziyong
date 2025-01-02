@@ -323,42 +323,42 @@
       "name": "腾讯｜弹幕",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/TXDM.js","jar":"./lib/","jar":"./lib/spider.t"
+      "ext": "./lib/TXDM.js","jar":"./lib/"
     },
     {
       "key": "优酷弹幕",
       "name": "优酷｜弹幕",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/YKDM.js","jar":"./lib/spider.t"
+      "ext": "./lib/YKDM.js"
     },
     {
       "key": "芒果弹幕",
       "name": "芒果｜弹幕",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/MGDM.js","jar":"./lib/spider.t"
+      "ext": "./lib/MGDM.js"
     },
     {
       "key": "爱奇艺弹幕",
       "name": "爱奇艺｜弹幕",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/AQYDM.js","jar":"./lib/spider.t"
+      "ext": "./lib/AQYDM.js"
     },
     {
       "key": "米兔弹幕",
       "name": "米兔｜弹幕",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/MTDM.js","jar":"./lib/spider.t"
+      "ext": "./lib/MTDM.js"
     },
     {
       "key": "小熊弹幕",
       "name": "小熊｜弹幕",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/XXDM.js","jar":"./lib/spider.t"
+      "ext": "./lib/XXDM.js"
     },
     {
       "key": "巨人弹幕",
