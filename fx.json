@@ -302,325 +302,1028 @@
       },
       "timeout": 10,"jar":"./lib/spider.t"
     },
-    {
-      "key": "立播弹幕",
-      "name": "立播｜弹幕",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://www.libvio.cc",
-        "danmu": true
-      },"jar":"./lib/spider.t"
-    },
-    {
-      "key": "腾讯弹幕",
-      "name": "腾讯｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/TXDM.js","jar":"./lib/"
-    },
-    {
-      "key": "优酷弹幕",
-      "name": "优酷｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/YKDM.js"
-    },
-    {
-      "key": "芒果弹幕",
-      "name": "芒果｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/MGDM.js"
-    },
-    {
-      "key": "爱奇艺弹幕",
-      "name": "爱奇艺｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/AQYDM.js"
-    },
-    {
-      "key": "米兔弹幕",
-      "name": "米兔｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/MTDM.js"
-    },
-    {
-      "key": "小熊弹幕",
-      "name": "小熊｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/XXDM.js"
-    },
-    {
-      "key": "巨人弹幕",
-      "name": "巨人｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/JRDM.js","jar":"./lib/spider.t"
-    },
-    {
-      "key": "追剧弹幕",
-      "name": "追剧｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/ZJDM.js","jar":"./lib/spider.t"
-    },
-    {
-      "key": "梦米弹幕",
-      "name": "梦米｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/MMDM.js","jar":"./lib/spider.t"
-    },
-    {
-      "key": "小虎斑弹幕",
-      "name": "小虎斑｜弹幕",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/XHBDM.js","jar":"./lib/spider.t"
-    },
-    {
-      "key": "三六零弹幕",
-      "name": "三六零｜弹幕",
-      "type": 3,
-      "api": "csp_Sp360",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      },"jar":"./lib/spider.t"
-    },
-    {
-      "key": "机器人弹幕",
-      "name": "机器人｜弹幕",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },"jar":"./lib/spider.t"
-    },
-    {
-      "key": "小苹果弹幕",
-      "name": "小苹果｜弹幕",
-      "type": 3,
-      "api": "csp_Xpg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },"jar":"./lib/spider.t"
-    },
-    {
-      "key": "荐片弹幕",
-      "name": "荐片｜弹幕",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      },"jar":"./lib/spider.t"
-    },
-    {
-      "key": "哔嘀弹幕",
-      "name": "哔嘀｜弹幕",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.xlys01.com",
-        "danmu": true
-      },"jar":"./lib/spider.t"
-    },
-	   {
-      "key": "新视觉影视",
-      "name": "新视觉｜APP",
-      "type": 3,
-      "api": "./lib/XSJ.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "酷影视",
-      "name": "酷影视｜APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/"
-    },
-    {
-      "key": "皮皮虾",
-      "name": "皮皮虾｜APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.55.250.149:1314/api.php/app/"
-    },
-    {
-      "key": "HG影视",
-      "name": "HG影视｜APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cs.hgyx.vip/api2/api.php/app/"
-    },
-    {
-      "key": "南瓜",
-      "name": "南瓜｜App",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
-    },
-    {
-      "key": "木头",
-      "name": "木头｜App",
-      "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
-      "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
-    },
-    {
-      "key": "雨滴",
-      "name": "雨滴｜App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
-    },
-    {
-      "key": "现代",
-      "name": "现代｜App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
-    },
-    {
-      "key": "优质",
-      "name": "优质｜App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
-    },
-    {
-      "key": "客星",
-      "name": "客星｜App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 1,
-      "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
-    },
-    {
-      "key": "木叶",
-      "name": "木叶｜App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "saHR0cHM6Ly94Y2Jhb3RhLm9zcy1jbi1xaW5nZGFvLmFsaXl1bmNzLmNvbS9nZXRhcHBfdjQudHh0fDZ2YXhqbjR2YmtyaHN6cDh8NnZheGpuNHZia3Joc3pwOHwxMDA="
-    },
-    {
-      "key": "蝴蝶",
-      "name": "蝴蝶｜App",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
-    },
-    {
-      "key": "天天影视",
-      "name": "天天｜APP",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "热播影视",
-      "name": "热播｜APP",
-      "type": 3,
-      "api": "csp_AppRB",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "洽洽影视",
-      "name": "洽洽｜APP",
-      "type": 3,
-      "api": "csp_AppGZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "兄弟影视",
-      "name": "兄弟｜APP",
-      "type": 3,
-      "api": "csp_AppGetApp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+sENTEbHAsgpQRtycD7pjvPePZ1AgNT8ZuBCcf4lIM858OSMK4u76tpjIfqzVA=="
-    },
-    {
-      "key": "米米影视",
-      "name": "米米｜APP",
-      "type": 3,
-      "api": "csp_AppZX",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8="
-    },
-    {
-      "key": "忍者影视",
-      "name": "忍者｜APP",
-      "type": 3,
-      "api": "csp_AppRZ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "大米星球",
-      "name": "大米｜APP",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/APPV2.js?type=url&params=https://damifan.wiki"
-    },
+            {
+            "key": "立播弹幕",
+            "name": "立播｜弹幕",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://www.libvio.cc",
+                "danmu": true
+            },"jar":"./lib/spider.t"
+        },
+        {
+            "key": "腾讯弹幕",
+            "name": "腾讯｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/TXDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "优酷弹幕",
+            "name": "优酷｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/YKDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "芒果弹幕",
+            "name": "芒果｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/MGDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "爱奇艺弹幕",
+            "name": "爱奇艺｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/AQYDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "米兔弹幕",
+            "name": "米兔｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/MTDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "小熊弹幕",
+            "name": "小熊｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/XXDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "巨人弹幕",
+            "name": "巨人｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/JRDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "追剧弹幕",
+            "name": "追剧｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/ZJDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "梦米弹幕",
+            "name": "梦米｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/MMDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "小虎斑弹幕",
+            "name": "小虎斑｜弹幕",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/XHBDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "三六零弹幕",
+            "name": "三六零｜弹幕",
+            "type": 3,
+            "api": "csp_Sp360",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "danmu": true
+            },"jar":"./lib/spider.t"
+        },
+        {
+            "key": "机器人弹幕",
+            "name": "机器人｜弹幕",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },"jar":"./lib/spider.t"
+        },
+        {
+            "key": "小苹果弹幕",
+            "name": "小苹果｜弹幕",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },"jar":"./lib/spider.t"
+        },
+        {
+            "key": "荐片弹幕",
+            "name": "荐片｜弹幕",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },"jar":"./lib/spider.t"
+        },
+        {
+            "key": "哔嘀弹幕",
+            "name": "哔嘀｜弹幕",
+            "type": 3,
+            "api": "csp_Bdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://www.xlys01.com",
+                "danmu": true
+            },"jar":"./lib/spider.t"
+        },
+		{
+            "key": "韩小圈",
+            "name": "韩小圈｜APP",
+            "type": 3,
+            "api": "csp_HanXiaoQuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "新视觉影视",
+            "name": "新视觉｜APP",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/movie/py/XSJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "酷影视",
+            "name": "酷影视｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/","jar":"./lib/spider.t"
+        },
+        {
+            "key": "皮皮虾",
+            "name": "皮皮虾｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.55.250.149:1314/api.php/app/","jar":"./lib/spider.t"
+        },
+        {
+            "key": "HG影视",
+            "name": "HG影视｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://cs.hgyx.vip/api2/api.php/app/","jar":"./lib/spider.t"
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜｜App",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "","jar":"./lib/spider.t"
+        },
+        {
+            "key": "木头",
+            "name": "木头｜App",
+            "type": 3,
+            "api": "csp_Shark",
+            "playerType": 1,
+            "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=","jar":"./lib/spider.t"
+        },
+        {
+            "key": "雨滴",
+            "name": "雨滴｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA=","jar":"./lib/spider.t"
+        },
+        {
+            "key": "现代",
+            "name": "现代｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0","jar":"./lib/spider.t"
+        },
+        {
+            "key": "优质",
+            "name": "优质｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA=","jar":"./lib/spider.t"
+        },
+        {
+            "key": "客星",
+            "name": "客星｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw","jar":"./lib/spider.t"
+        },
+        {
+            "key": "木叶",
+            "name": "木叶｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 2,
+            "ext": "saHR0cHM6Ly94Y2Jhb3RhLm9zcy1jbi1xaW5nZGFvLmFsaXl1bmNzLmNvbS9nZXRhcHBfdjQudHh0fDZ2YXhqbjR2YmtyaHN6cDh8NnZheGpuNHZia3Joc3pwOHwxMDA=","jar":"./lib/spider.t"
+        },
+        {
+            "key": "蝴蝶",
+            "name": "蝴蝶｜App",
+            "type": 3,
+            "api": "csp_Hudie",
+            "playerType": 2,
+            "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w","jar":"./lib/spider.t"
+        },
+        {
+            "key": "天天影视",
+            "name": "天天｜APP",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "热播影视",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRB",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "洽洽影视",
+            "name": "洽洽｜APP",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "兄弟影视",
+            "name": "兄弟｜APP",
+            "type": 3,
+            "api": "csp_AppGetApp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "KhYl01Kekjo9vLs09V+rOtv/6QaOFwdQp2ne4h22GLkT99eCXh9SJ/lGZNM8zgk1OnFWx0zBQ9Y/9mAjQB67LaEp7Yj7w9SYBEjFbdPjKy3EHp7uBIHXVI7/dZ4r/dJapz6ihlWwqY2KlGuarL/+9suxO4ZJFOg1OxN+dTrTbi2Muff1CmBkNfrY+sENTEbHAsgpQRtycD7pjvPePZ1AgNT8ZuBCcf4lIM858OSMK4u76tpjIfqzVA==","jar":"./lib/spider.t"
+        },
+        {
+            "key": "米米影视",
+            "name": "米米｜APP",
+            "type": 3,
+            "api": "csp_AppZX",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8=","jar":"./lib/spider.t"
+        },
+        {
+            "key": "忍者影视",
+            "name": "忍者｜APP",
+            "type": 3,
+            "api": "csp_AppRZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "大米星球",
+            "name": "大米｜APP",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/APPV2.js?type=url&params=https://damifan.wiki","jar":"./lib/spider.t"
+        },
+        {
+            "key": "西瓜视频",
+            "name": "西瓜｜视频",
+            "type": 3,
+            "api": "csp_AmuXiguaV2",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },"jar":"./lib/spider.t"
+        },
+        {
+            "key": "采集之王",
+            "name": "采集｜合集",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/four-d/raw/master/movie/json/CJJT.json$1$1","jar":"./lib/spider.t"
+        },
+        {
+            "key": "厂长资源",
+            "name": "厂长｜资源",
+            "type": 3,
+            "api": "csp_Czzy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "低端影视",
+            "name": "低端｜影视",
+            "type": 3,
+            "api": "csp_Ddys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "快看影视",
+            "name": "快看｜影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "农民影视",
+            "name": "农民｜影视",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "立播影视",
+            "name": "立播｜影视",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://www.libvio.cc"
+            },"jar":"./lib/spider.t"
+        },
+        {
+            "key": "饺子影视",
+            "name": "饺子｜影视",
+            "type": 3,
+            "api": "csp_Jiaozi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "全网影视",
+            "name": "全网｜影视",
+            "type": 3,
+            "api": "csp_Quanwk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.91qkw.com","jar":"./lib/spider.t"
+        },
+        {
+            "key": "看客影视",
+            "name": "看客｜影视",
+            "type": 3,
+            "api": "csp_Kanke",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "瓜子影视",
+            "name": "瓜子｜影视",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "奇优影视",
+            "name": "奇优｜影视",
+            "type": 3,
+            "api": "csp_Qiyou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.dyxz2.com/","jar":"./lib/spider.t"
+        },
+        {
+            "key": "骚火影视",
+            "name": "骚火｜影视",
+            "type": 3,
+            "api": "csp_SaoHuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "可可影视",
+            "name": "可可｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/KKYS.json","jar":"./lib/spider.t"
+        },
+        {
+            "key": "海纳影视",
+            "name": "海纳｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/HNYS.json","jar":"./lib/spider.t"
+        },
+        {
+            "key": "面包影视",
+            "name": "面包｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/MBYS.json","jar":"./lib/spider.t"
+        },
+        {
+            "key": "永乐影视",
+            "name": "永乐｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/YLYS.json","jar":"./lib/spider.t"
+        },
+        {
+            "key": "雪糕影视",
+            "name": "雪糕｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/XGYS.json","jar":"./lib/spider.t"
+        },
+        {
+            "key": "流光影视",
+            "name": "流光｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/LGYS.json","jar":"./lib/spider.t"
+        },
+        {
+            "key": "金牌影视",
+            "name": "金牌｜影视",
+            "type": 3,
+            "api": "csp_WebJP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "真心影视",
+            "name": "真心｜影视",
+            "type": 3,
+            "api": "csp_WebGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "素白白",
+            "name": "素白白｜影视",
+            "type": 3,
+            "api": "csp_Subaibai",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://subaibai.com","jar":"./lib/spider.t"
+        },
+        {
+            "key": "小苹果",
+            "name": "小苹果｜影视",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "机器人",
+            "name": "机器人｜影视",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "电影牛",
+            "name": "电影牛｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/DYN.json","jar":"./lib/spider.t"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "爱奇艺｜视频",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/AQY.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "三六零",
+            "name": "三六零｜视频",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/SLL.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "剧圈圈",
+            "name": "剧圈圈｜影视",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/JQQ.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "追剧迷",
+            "name": "追剧迷｜影视",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/ZJM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "看了么",
+            "name": "看了么｜影视",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/KLM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "茶杯狐",
+            "name": "茶杯狐｜影视",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/CBH.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "魔力高清",
+            "name": "魔力｜影视",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/MLGQ.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "腾讯视频",
+            "name": "腾讯｜视频",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/TXSP.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "优酷视频",
+            "name": "优酷｜视频",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/YKSP.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "芒果视频",
+            "name": "芒果｜视频",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/MGSP.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "搜狗视频",
+            "name": "搜狗｜视频",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/SGSP.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "哔哩视频",
+            "name": "哔哩｜视频",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/BLSP.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "碟调影视",
+            "name": "碟调｜影视",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/js/DDYS.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "奇趣影视",
+            "name": "奇趣｜影视",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/movie/json/QQYS.json","jar":"./lib/spider.t"
+        },
+        {
+            "key": "1905",
+            "name": "1905｜影视",
+            "type": 3,
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,"jar":"./lib/spider.t"
+        },
+        {
+            "key": "红牛资源",
+            "name": "红牛｜采集",
+            "type": 1,
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "港澳剧",
+                "日剧",
+                "欧美剧",
+                "台湾剧",
+                "泰剧",
+                "韩剧",
+                "纪录片",
+                "动漫电影"
+            ],"jar":"./lib/spider.t"
+        },
+        {
+            "key": "光速资源",
+            "name": "光速｜采集",
+            "type": 1,
+            "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "剧情片",
+                "恐怖片",
+                "战争片",
+                "动漫电影",
+                "大陆剧",
+                "欧美剧",
+                "港澳剧",
+                "韩剧",
+                "日剧",
+                "台湾剧",
+                "泰剧",
+                "综艺",
+                "动漫",
+                "记录片"
+            ],"jar":"./lib/spider.t"
+        },
+        {
+            "key": "极速资源",
+            "name": "极速｜采集",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "日剧",
+                "马泰剧",
+                "内地剧",
+                "欧美剧",
+                "香港剧",
+                "韩剧",
+                "台湾剧",
+                "恐怖片",
+                "动画片",
+                "剧情片",
+                "战争片",
+                "动作片",
+                "记录片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "灾难片",
+                "悬疑片",
+                "犯罪片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"
+            ],"jar":"./lib/spider.t"
+        },
+        {
+            "key": "快车资源",
+            "name": "快车｜采集",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "战争片",
+                "剧情片",
+                "动画片",
+                "纪录片",
+                "国产剧",
+                "香港剧",
+                "台湾剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "泰国剧",
+                "海外剧",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺"
+            ],"jar":"./lib/spider.t"
+        },
+        {
+            "key": "索尼资源",
+            "name": "索尼｜采集",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动画片",
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "海外剧",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ],"jar":"./lib/spider.t"
+        },
+        {
+            "key": "量子资源",
+            "name": "量子｜采集",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ],"jar":"./lib/spider.t"
+        },
+        {
+            "key": "非凡资源",
+            "name": "非凡｜采集",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ],"jar":"./lib/spider.t"
+        },
+        {
+            "key": "56动漫",
+            "name": "56｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/56DM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "NT动漫",
+            "name": "NT｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/NTDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "Anime1",
+            "name": "Anime1｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/Anime1.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "哆啦新番社",
+            "name": "哆啦｜新番社",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "list"
+            },
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/json/DLXFS.json","jar":"./lib/spider.t"
+        },
+        {
+            "key": "动画片",
+            "name": "动画片｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/DHPDQ.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "路漫漫",
+            "name": "路漫漫｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/LMM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "动漫岛",
+            "name": "动漫岛｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/DMD.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "去看吧",
+            "name": "去看吧｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/QKB.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "爱弹幕",
+            "name": "爱弹幕｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/ADM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "异世界",
+            "name": "异世界｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/YSJ.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "好看动漫",
+            "name": "好看｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/HKDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "奇米动漫",
+            "name": "奇米｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/QMDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "怡萱动漫",
+            "name": "怡萱｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/YXDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "花子动漫",
+            "name": "花子｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/HZDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "动漫巴士",
+            "name": "巴士｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/DMBS.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "樱花动漫",
+            "name": "樱花｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/YHDM.js","jar":"./lib/spider.t"
+        },
+        {
+            "key": "大米动漫",
+            "name": "大米｜动漫",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/four-d/raw/master/js/drpy2.min.js",
+            "ext": "https://gitee.com/PizazzXS/four-d/raw/master/anime/js/DMDM.js","jar":"./lib/spider.t"
+        },
+    
     {"key":"一起看2PQ","name":"一起≛官源","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar", "ext":{"数组":"<div class=\"gqzlf1101 qcontainer \">&&</div>","线路数组":"<li id=&&</li>","分类url":"http://www.upedu.net/search.php?page={catePg}&searchtype=5&tid={cateId}&jq={class}&year={year}&area={area}","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$30"}},
     {"key":"BT4K影院","name":"4K≛影视","type":3,"api":"csp_XBPQ", "jar": "./lib/XBPQ.jar","ext":{"数组":"class=\"hl-item-thumb hl-lazy\"&&</div></li>","简介":"class=\"hl-text-muted\">简介：</em>&&</li>","线路数组":"alt=\"&&</a>","线路标题":"公子专属+</i>&nbsp;&&</a>","分类数组":"<a&&</a>","分类标题":"subs\"href=\"/vodlist/*.html\">&&</a>","分类ID":"href=\"/vodlist/&&.html\"","分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"}}, 
     {"key": "drpy_js_百忙无果","name": "芒果≛官源","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"},
