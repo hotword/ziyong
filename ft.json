@@ -15,6 +15,24 @@
       "order_num": 210,
       "ext": "./lib/采集静态.json"
     },
+     {
+        "key": "360资源",
+        "name": "360资源",
+        "type": 1,
+        "api": "https://360zy.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+     {
+        "key": "U酷资源",
+        "name": "U酷资源",
+        "type": 1,
+        "api": "https://api.ukuapi88.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
     {
       "key": "hipy_js_360影视[官]",
       "name": "360影视[官](drpy_t3)",
