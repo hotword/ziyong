@@ -76,6 +76,15 @@
       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==",
 	  "jar": "./lib/fix24914.jar"
     },
+	  {
+        "key": "xml_豆瓣资源",
+        "name": "豆瓣资源",
+        "type": 0,
+        "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
     {
       "key": "热播",
       "name": "热播≛App",
