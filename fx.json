@@ -759,13 +759,7 @@
       }
     },
   
-    {
-      "key": "潮流",
-      "name": "🏜┃潮流┃影视", "jar":"./lab/PandaQ250604.jpg",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
-    },
+  
     {
       "key": "梦回",
       "name": "🏈┃梦回┃影视", "jar":"./lab/PandaQ250604.jpg",
