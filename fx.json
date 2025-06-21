@@ -106,7 +106,6 @@
   ],
   "sites": [
     {"key": "lf_js_search","name": "路飞≛豆瓣","type": 3,"style": {"type": "rect","ratio": 1.485},"searchable": 0,"changeable": 0,"quickSearch": 0,"filterable": 1,"api": "./lib/路飞豆瓣.js"},
- {"key":"update","name":"在线更新","type":3,"api":"csp_Market","jar":"http://ai7501441.ke59.hseehsehs.cfd/spider.jar","searchable":0,"changeable":0,"indexs":0,"ext":"https://9877.kstore.space/Market/market.json"},
 	  {
       "key": "天天",
       "name": "天天≛App",
